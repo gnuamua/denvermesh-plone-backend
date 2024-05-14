@@ -1,0 +1,17 @@
+souper-1.1.1-py3.9-nspkg.pth,sha256=e5HFcRGy6_XCt5e140zHZq6DdroxpN-89E8vKEoWhOM,467
+souper-1.1.1.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+souper-1.1.1.dist-info/LICENSE.rst,sha256=9x2ptTQ3sTU2gwRKMNiokqM7mgIeQZJvKAg-OicOw1o,1537
+souper-1.1.1.dist-info/METADATA,sha256=QTsu3k1hwMccPPC85pUVMua54rWwI99FFsgRHSUOnWs,9957
+souper-1.1.1.dist-info/RECORD,,
+souper-1.1.1.dist-info/REQUESTED,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+souper-1.1.1.dist-info/WHEEL,sha256=GJ7t_kWBFywbagK5eo9IoUwLW6oyOeTKmQ-9iHFVNxQ,92
+souper-1.1.1.dist-info/direct_url.json,sha256=o4g-vgZlBau4Na_Ekc7gjEUmWijAPba6mmhC-qaQgzQ,253
+souper-1.1.1.dist-info/namespace_packages.txt,sha256=OesSFooHh2xVEASHtvobyr-nUo953RLR3VxuVshiCkw,7
+souper-1.1.1.dist-info/top_level.txt,sha256=OesSFooHh2xVEASHtvobyr-nUo953RLR3VxuVshiCkw,7
+souper/__pycache__/interfaces.cpython-39.pyc,,
+souper/__pycache__/soup.cpython-39.pyc,,
+souper/__pycache__/tests.cpython-39.pyc,,
+souper/interfaces.py,sha256=nAUc7dMs310iczvv46yq-lsFlrvBjIu8Jtrxx8x93ps,2139
+souper/soup.py,sha256=cA2k0CyLlMnGUEgNHTpIEdM2pv_Wv3o3zqYYSBr0ZbU,6322
+souper/soup.rst,sha256=iCSp3kZl4N2cwUFHwTngdqRGZCZojUyPJNmpQSydIYY,7614
+souper/tests.py,sha256=qiV8gxZWoiMP89_SitI17538hk6cmz4GSZBtdmvBGi4,1181

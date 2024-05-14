@@ -1,0 +1,22 @@
+#!/home/gnuamua/radio/denverMesh/backend/bin/python
+
+import sys
+sys.path[0:0] = [
+  '/home/gnuamua/radio/denverMesh/backend/eggs/ZODB-5.8.1-py3.9.egg',
+  '/home/gnuamua/radio/denverMesh/backend/eggs/zodbpickle-3.1-py3.9-linux-x86_64.egg',
+  '/home/gnuamua/radio/denverMesh/backend/eggs/zope.interface-6.1-py3.9-linux-x86_64.egg',
+  '/home/gnuamua/radio/denverMesh/backend/eggs/zc.lockfile-3.0.post1-py3.9.egg',
+  '/home/gnuamua/radio/denverMesh/backend/eggs/six-1.16.0-py3.9.egg',
+  '/home/gnuamua/radio/denverMesh/backend/eggs/transaction-4.0-py3.9.egg',
+  '/home/gnuamua/radio/denverMesh/backend/eggs/ZConfig-4.0-py3.9.egg',
+  '/home/gnuamua/radio/denverMesh/backend/eggs/BTrees-5.1-py3.9-linux-x86_64.egg',
+  '/home/gnuamua/radio/denverMesh/backend/eggs/persistent-5.1-py3.9-linux-x86_64.egg',
+  '/home/gnuamua/radio/denverMesh/backend/eggs/setuptools-69.5.1-py3.9.egg',
+  '/home/gnuamua/radio/denverMesh/backend/eggs/cffi-1.16.0-py3.9-linux-x86_64.egg',
+  '/home/gnuamua/radio/denverMesh/backend/eggs/pycparser-2.21-py3.9.egg',
+  ]
+
+import ZODB.scripts.repozo
+
+if __name__ == '__main__':
+    sys.exit(ZODB.scripts.repozo.main())

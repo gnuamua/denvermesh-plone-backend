@@ -1,0 +1,37 @@
+#!/home/gnuamua/radio/denverMesh/backend/bin/python
+
+import sys
+sys.path[0:0] = [
+  '/home/gnuamua/radio/denverMesh/backend/eggs/mr.bob-1.0.0-py3.9-linux-x86_64.egg',
+  '/home/gnuamua/radio/denverMesh/backend/eggs/bobtemplates.plone-6.0b15-py3.9-linux-x86_64.egg',
+  '/home/gnuamua/radio/denverMesh/backend/eggs/black-22.10.0-py3.9.egg',
+  '/home/gnuamua/radio/denverMesh/backend/eggs/isort-5.10.1-py3.9.egg',
+  '/home/gnuamua/radio/denverMesh/backend/eggs/tox-4.4.7-py3.9.egg',
+  '/home/gnuamua/radio/denverMesh/backend/eggs/colorama-0.4.6-py3.9.egg',
+  '/home/gnuamua/radio/denverMesh/backend/eggs/case_conversion-2.1.0-py3.9-linux-x86_64.egg',
+  '/home/gnuamua/radio/denverMesh/backend/eggs/lxml-5.2.1-py3.9-linux-x86_64.egg',
+  '/home/gnuamua/radio/denverMesh/backend/eggs/setuptools-69.5.1-py3.9.egg',
+  '/home/gnuamua/radio/denverMesh/backend/eggs/Jinja2-3.1.2-py3.9.egg',
+  '/home/gnuamua/radio/denverMesh/backend/eggs/six-1.16.0-py3.9.egg',
+  '/home/gnuamua/radio/denverMesh/backend/eggs/typing_extensions-4.9.0-py3.9.egg',
+  '/home/gnuamua/radio/denverMesh/backend/eggs/tomli-2.0.1-py3.9.egg',
+  '/home/gnuamua/radio/denverMesh/backend/eggs/platformdirs-3.1.1-py3.9.egg',
+  '/home/gnuamua/radio/denverMesh/backend/eggs/pathspec-0.10.1-py3.9.egg',
+  '/home/gnuamua/radio/denverMesh/backend/eggs/mypy_extensions-0.4.3-py3.9.egg',
+  '/home/gnuamua/radio/denverMesh/backend/eggs/click-8.1.3-py3.9.egg',
+  '/home/gnuamua/radio/denverMesh/backend/eggs/virtualenv-20.21.0-py3.9.egg',
+  '/home/gnuamua/radio/denverMesh/backend/eggs/pyproject_api-1.5.1-py3.9.egg',
+  '/home/gnuamua/radio/denverMesh/backend/eggs/pluggy-1.0.0-py3.9.egg',
+  '/home/gnuamua/radio/denverMesh/backend/eggs/packaging-23.0-py3.9.egg',
+  '/home/gnuamua/radio/denverMesh/backend/eggs/filelock-3.9.0-py3.9.egg',
+  '/home/gnuamua/radio/denverMesh/backend/eggs/chardet-5.1.0-py3.9.egg',
+  '/home/gnuamua/radio/denverMesh/backend/eggs/cachetools-5.3.0-py3.9.egg',
+  '/home/gnuamua/radio/denverMesh/backend/eggs/regex-2022.9.13-py3.9-linux-x86_64.egg',
+  '/home/gnuamua/radio/denverMesh/backend/eggs/MarkupSafe-2.1.3-py3.9-linux-x86_64.egg',
+  '/home/gnuamua/radio/denverMesh/backend/eggs/distlib-0.3.6-py3.9.egg',
+  ]
+
+import mrbob.cli
+
+if __name__ == '__main__':
+    sys.exit(mrbob.cli.main())

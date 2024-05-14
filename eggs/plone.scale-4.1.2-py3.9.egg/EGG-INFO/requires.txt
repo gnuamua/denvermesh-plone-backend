@@ -1,0 +1,15 @@
+Pillow
+setuptools
+zope.annotation
+
+[storage]
+ZODB
+zope.interface
+persistent
+
+[test]
+ZODB
+zope.interface
+persistent
+zope.component
+plone.testing[test]

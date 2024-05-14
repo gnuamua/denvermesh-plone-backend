@@ -1,0 +1,13 @@
+zope.interface
+cffi
+
+[docs]
+Sphinx
+repoze.sphinx.autointerface
+sphinx-rtd-theme
+
+[test]
+zope.testrunner
+manuel
+
+[testing]

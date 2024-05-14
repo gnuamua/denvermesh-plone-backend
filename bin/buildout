@@ -1,0 +1,14 @@
+#!/home/gnuamua/radio/denverMesh/backend/bin/python
+
+import sys
+sys.path[0:0] = [
+  '/home/gnuamua/radio/denverMesh/backend/eggs/setuptools-69.5.1-py3.9.egg',
+  '/home/gnuamua/radio/denverMesh/backend/eggs/pip-24.0-py3.9.egg',
+  '/home/gnuamua/radio/denverMesh/backend/eggs/wheel-0.43.0-py3.9.egg',
+  '/home/gnuamua/radio/denverMesh/backend/lib/python3.9/site-packages',
+  ]
+
+import zc.buildout.buildout
+
+if __name__ == '__main__':
+    sys.exit(zc.buildout.buildout.main())

@@ -1,0 +1,12 @@
+buildout.sanitycheck-1.0.2-py3.9-nspkg.pth,sha256=mtprt5tXM6mXseHPF_BCAKIEar6rFrvVgcBTwy9Hhbg,549
+buildout.sanitycheck-1.0.2.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+buildout.sanitycheck-1.0.2.dist-info/METADATA,sha256=7NSr1UbPyTP5BWOba03U9j9lNetPh5pIxeteD1uOqEw,841
+buildout.sanitycheck-1.0.2.dist-info/RECORD,,
+buildout.sanitycheck-1.0.2.dist-info/REQUESTED,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+buildout.sanitycheck-1.0.2.dist-info/WHEEL,sha256=pkctZYzUS4AYVn6dJ-7367OJZivF2e8RA9b_ZBjif18,92
+buildout.sanitycheck-1.0.2.dist-info/direct_url.json,sha256=KOj27d6OeDDlE5r8X8bsSgIAYMhdFt1_09QGCcRdLgY,264
+buildout.sanitycheck-1.0.2.dist-info/entry_points.txt,sha256=nDq8gDXee8mqiHdhz0pfEYC7wF9shb771Xqkp3_zc2w,56
+buildout.sanitycheck-1.0.2.dist-info/namespace_packages.txt,sha256=8nQe8sHjE7C16nAiJQJEcpCRXUhnZAQWFaYpXwmPttU,9
+buildout.sanitycheck-1.0.2.dist-info/top_level.txt,sha256=8nQe8sHjE7C16nAiJQJEcpCRXUhnZAQWFaYpXwmPttU,9
+buildout/sanitycheck/__init__.py,sha256=rm3S102_jjTvqHkF8D2Ir35UAgWc5I8wKo7ZhCYDDFg,922
+buildout/sanitycheck/__pycache__/__init__.cpython-39.pyc,,
