@@ -155,7 +155,7 @@ sys.path[0:0] = [
   '/home/gnuamua/radio/denverMesh/backend/eggs/plone.app.viewletmanager-4.0.3-py3.9.egg',
   '/home/gnuamua/radio/denverMesh/backend/eggs/plone.app.uuid-2.2.3-py3.9.egg',
   '/home/gnuamua/radio/denverMesh/backend/eggs/plone.app.users-3.0.6-py3.9.egg',
-  '/home/gnuamua/radio/denverMesh/backend/eggs/plone.app.theming-5.0.8-py3.9.egg',
+  '/home/gnuamua/radio/denverMesh/backend/eggs/plone.app.theming-5.0.9-py3.9.egg',
   '/home/gnuamua/radio/denverMesh/backend/eggs/plone.app.redirector-3.0.2-py3.9.egg',
   '/home/gnuamua/radio/denverMesh/backend/eggs/plone.app.portlets-5.0.7-py3.9.egg',
   '/home/gnuamua/radio/denverMesh/backend/eggs/plone.app.multilingual-7.0.4-py3.9.egg',
