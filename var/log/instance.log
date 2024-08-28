@@ -8382,3 +8382,213 @@ See https://pypi.org/project/Products.PrintingMailHost
 2024-08-27 08:32:30,951 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
 2024-08-27 08:36:12,120 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
 2024-08-27 08:36:13,535 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-27 09:37:35,216 WARNING [Products.PDBDebugMode:31][MainThread] 
+
+******************************************************************************
+
+Debug-Mode enabled!
+
+This will result in a pdb when a exception happens.
+Turn off debug mode or remove Products.PDBDebugMode to disable.
+
+See https://pypi.python.org/pypi/Products.PDBDebugMode
+
+******************************************************************************
+
+2024-08-27 09:37:35,532 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2024-08-27 09:37:35,532 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2024-08-27 09:37:35,793 INFO    [chameleon.config:39][MainThread] directory cache: /home/gnuamua/radio/denverMesh/backend/var/cache.
+2024-08-27 09:37:37,351 INFO    [plone.volto:23][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2024-08-27 09:37:37,351 INFO    [plone.volto:23][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2024-08-27 09:37:38,188 WARNING [PrintingMailHost:32][MainThread] Hold on to your hats folks, I'm a-patchin'
+2024-08-27 09:37:38,189 WARNING [PrintingMailHost:147][MainThread] 
+
+******************************************************************************
+
+Monkey patching MailHosts to print e-mails to the terminal.
+
+This is instead of sending them.
+
+NO MAIL WILL BE SENT FROM ZOPE AT ALL!
+
+Turn off debug mode or remove Products.PrintingMailHost from the eggs
+or remove ENABLE_PRINTING_MAILHOST from the environment variables to
+return to normal e-mail sending.
+
+See https://pypi.org/project/Products.PrintingMailHost
+
+******************************************************************************
+
+2024-08-27 09:37:38,208 INFO    [Zope:42][MainThread] Ready to handle requests
+2024-08-27 09:37:38,210 INFO    [waitress:486][MainThread] Serving on http://0.0.0.0:8080
+2024-08-27 09:37:38,210 INFO    [waitress:486][MainThread] Serving on http://0.0.0.0:8080
+2024-08-27 09:45:52,950 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-27 09:48:13,077 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-27 09:48:20,239 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-27 09:54:42,487 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-27 10:13:33,058 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-27 10:13:55,528 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-27 10:30:08,159 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-27 10:30:10,219 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-27 11:15:41,952 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-27 11:30:11,509 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-27 12:30:08,974 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-27 12:30:11,029 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-27 13:15:53,496 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-27 13:30:10,933 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-27 13:30:12,990 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-27 14:30:08,354 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-27 15:16:07,021 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-27 15:16:09,073 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-27 15:30:08,470 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-27 16:30:10,008 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-27 16:30:12,064 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-27 16:30:14,122 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-27 16:45:11,985 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-27 16:49:32,131 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-27 17:16:21,718 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-27 18:30:12,618 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-27 18:30:14,673 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-27 19:16:32,000 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-27 19:16:34,075 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-27 19:30:11,662 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-27 19:30:13,707 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-27 19:30:15,753 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-27 20:30:13,127 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-27 20:30:17,231 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-27 21:16:44,511 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-27 21:16:48,621 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-27 21:30:13,966 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-27 22:30:17,553 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-27 23:16:56,873 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-27 23:16:58,922 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-27 23:30:14,453 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-27 23:30:16,508 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-27 23:30:18,559 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 00:30:16,083 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 00:30:18,137 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 01:17:10,450 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 01:17:12,521 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 01:30:15,979 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 02:30:15,811 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 02:30:17,904 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 02:44:42,552 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 03:14:37,787 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 03:14:39,107 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 03:17:25,194 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 03:17:27,245 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 03:28:28,357 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 03:30:20,775 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 03:37:39,513 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 03:40:39,190 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 03:42:43,082 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 03:48:12,548 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 03:48:50,926 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 03:48:52,271 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 04:22:19,665 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 04:24:24,015 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 04:24:25,287 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 04:30:20,241 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 04:30:22,294 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 04:33:12,155 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 04:33:17,479 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 04:39:33,564 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 04:48:37,596 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 04:50:08,916 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 04:50:10,188 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 04:51:37,501 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 05:06:53,227 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 05:07:44,954 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 05:07:46,179 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 05:16:04,218 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 05:17:41,834 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 05:19:09,883 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 05:45:14,979 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 05:45:16,375 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 05:53:00,606 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 05:53:01,907 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 07:22:59,330 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 07:23:00,686 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 07:23:35,937 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 07:30:02,881 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 07:30:04,133 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 07:30:21,776 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 07:30:23,825 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 07:30:54,122 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 07:34:25,543 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 07:56:25,964 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 08:26:28,130 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 08:35:07,902 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 08:37:38,207 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 08:38:21,468 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 08:41:58,682 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 08:44:41,454 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 08:48:41,975 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 08:50:36,581 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 09:18:04,151 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 09:18:06,216 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 09:18:08,273 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 09:30:21,603 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 10:07:52,880 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 10:10:35,424 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 10:10:35,587 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 10:16:06,728 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 10:16:06,883 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 10:17:30,673 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 10:18:43,271 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 10:28:44,829 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 10:30:27,265 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 10:35:51,212 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 10:36:08,590 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 10:40:08,142 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 14:21:00,759 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 14:21:01,830 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 14:30:25,239 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 14:30:27,299 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 14:34:06,125 WARNING [Products.PDBDebugMode:31][MainThread] 
+
+******************************************************************************
+
+Debug-Mode enabled!
+
+This will result in a pdb when a exception happens.
+Turn off debug mode or remove Products.PDBDebugMode to disable.
+
+See https://pypi.python.org/pypi/Products.PDBDebugMode
+
+******************************************************************************
+
+2024-08-28 14:34:06,454 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2024-08-28 14:34:06,454 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2024-08-28 14:34:06,714 INFO    [chameleon.config:39][MainThread] directory cache: /home/gnuamua/radio/denverMesh/backend/var/cache.
+2024-08-28 14:34:08,348 INFO    [plone.volto:23][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2024-08-28 14:34:08,348 INFO    [plone.volto:23][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2024-08-28 14:34:09,239 WARNING [PrintingMailHost:32][MainThread] Hold on to your hats folks, I'm a-patchin'
+2024-08-28 14:34:09,240 WARNING [PrintingMailHost:147][MainThread] 
+
+******************************************************************************
+
+Monkey patching MailHosts to print e-mails to the terminal.
+
+This is instead of sending them.
+
+NO MAIL WILL BE SENT FROM ZOPE AT ALL!
+
+Turn off debug mode or remove Products.PrintingMailHost from the eggs
+or remove ENABLE_PRINTING_MAILHOST from the environment variables to
+return to normal e-mail sending.
+
+See https://pypi.org/project/Products.PrintingMailHost
+
+******************************************************************************
+
+2024-08-28 14:34:09,257 INFO    [Zope:42][MainThread] Ready to handle requests
+2024-08-28 14:34:09,259 INFO    [waitress:486][MainThread] Serving on http://0.0.0.0:8080
+2024-08-28 14:34:09,259 INFO    [waitress:486][MainThread] Serving on http://0.0.0.0:8080
+2024-08-28 14:36:57,502 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 14:37:14,888 WARNING [plone.restapi.search.query:119][waitress-1] No such index: 'show_inactive'
+2024-08-28 14:37:14,888 WARNING [plone.restapi.search.query:119][waitress-1] No such index: 'show_inactive'
+2024-08-28 14:37:27,503 WARNING [plone.restapi.search.query:119][waitress-1] No such index: 'show_inactive'
+2024-08-28 14:37:27,503 WARNING [plone.restapi.search.query:119][waitress-1] No such index: 'show_inactive'
+2024-08-28 14:38:41,086 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2024-08-28 14:39:18,116 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
