@@ -14454,3 +14454,191 @@ See https://pypi.org/project/Products.PrintingMailHost
 2025-01-01 23:52:43,980 INFO    [waitress:486][MainThread] Serving on http://0.0.0.0:8080
 2025-01-01 23:52:43,980 INFO    [waitress:486][MainThread] Serving on http://0.0.0.0:8080
 2025-01-01 23:53:45,163 WARNING [waitress.queue:114][MainThread] Task queue depth is 1
+2025-01-04 17:38:52,957 INFO    [chameleon.config:39][MainThread] directory cache: /home/gnuamua/radio/denverMesh/denvermesh-plone-backend/var/cache.
+2025-01-04 17:38:56,688 WARNING [Products.PDBDebugMode:31][MainThread] 
+
+******************************************************************************
+
+Debug-Mode enabled!
+
+This will result in a pdb when a exception happens.
+Turn off debug mode or remove Products.PDBDebugMode to disable.
+
+See https://pypi.python.org/pypi/Products.PDBDebugMode
+
+******************************************************************************
+
+2025-01-04 17:38:56,942 INFO    [ZODB.blob:349][MainThread] (67029) Blob temporary directory '/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/var/blobstorage/tmp' does not exist. Created new directory.
+2025-01-04 17:38:57,122 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-01-04 17:38:57,122 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-01-04 17:38:59,448 INFO    [plone.volto:23][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-01-04 17:38:59,448 INFO    [plone.volto:23][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-01-04 17:39:00,396 WARNING [PrintingMailHost:32][MainThread] Hold on to your hats folks, I'm a-patchin'
+2025-01-04 17:39:00,397 WARNING [PrintingMailHost:147][MainThread] 
+
+******************************************************************************
+
+Monkey patching MailHosts to print e-mails to the terminal.
+
+This is instead of sending them.
+
+NO MAIL WILL BE SENT FROM ZOPE AT ALL!
+
+Turn off debug mode or remove Products.PrintingMailHost from the eggs
+or remove ENABLE_PRINTING_MAILHOST from the environment variables to
+return to normal e-mail sending.
+
+See https://pypi.org/project/Products.PrintingMailHost
+
+******************************************************************************
+
+2025-01-04 17:39:00,416 INFO    [Zope:42][MainThread] Ready to handle requests
+2025-01-04 17:39:00,418 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-01-04 17:39:00,418 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-01-04 17:39:58,039 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-04 17:39:58,730 ERROR   [ZODB.Connection:38][waitress-3] Couldn't load state for ZODB.blob.Blob 0x28e1
+Traceback (most recent call last):
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/ZODB-6.0-py3.9.egg/ZODB/Connection.py", line 796, in setstate
+    obj._p_blob_committed = self._storage.loadBlob(oid, serial)
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/ZODB-6.0-py3.9.egg/ZODB/blob.py", line 695, in loadBlob
+    raise POSKeyError("No blob file at %s" % filename, oid, serial)
+ZODB.POSException.POSKeyError: 'No blob file at /home/gnuamua/radio/denverMesh/denvermesh-plone-backend/var/blobstorage/0x00/0x00/0x00/0x00/0x00/0x00/0x28/0xe1/0x03faef562fb56900.blob'
+2025-01-04 17:39:59,115 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-04 17:39:59,359 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-04 17:40:39,209 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-04 17:40:51,503 INFO    [plone.app.upgrade:285][waitress-1] Starting the migration from version: 6022
+2025-01-04 17:40:51,503 INFO    [plone.app.upgrade:285][waitress-1] Starting the migration from version: 6022
+2025-01-04 17:40:51,503 INFO    [plone.app.upgrade:291][waitress-1] Ran upgrade step: Miscellaneous
+2025-01-04 17:40:51,503 INFO    [plone.app.upgrade:291][waitress-1] Ran upgrade step: Miscellaneous
+2025-01-04 17:40:51,503 INFO    [plone.app.upgrade:291][waitress-1] Ran upgrade step: Miscellaneous
+2025-01-04 17:40:51,503 INFO    [plone.app.upgrade:291][waitress-1] Ran upgrade step: Miscellaneous
+2025-01-04 17:40:51,503 INFO    [plone.app.upgrade:291][waitress-1] Ran upgrade step: Miscellaneous
+2025-01-04 17:40:51,503 INFO    [plone.app.upgrade:291][waitress-1] Ran upgrade step: Miscellaneous
+2025-01-04 17:40:51,503 INFO    [plone.app.upgrade:304][waitress-1] End of upgrade path, main migration has finished.
+2025-01-04 17:40:51,503 INFO    [plone.app.upgrade:304][waitress-1] End of upgrade path, main migration has finished.
+2025-01-04 17:40:51,503 INFO    [plone.app.upgrade:310][waitress-1] Starting upgrade of core addons.
+2025-01-04 17:40:51,503 INFO    [plone.app.upgrade:310][waitress-1] Starting upgrade of core addons.
+2025-01-04 17:40:51,504 INFO    [Products.GenericSetup.tool:1421][waitress-1] Importing profile profile-plone.app.discussion:to_2002 with dependency strategy ignore.
+2025-01-04 17:40:51,504 INFO    [Products.GenericSetup.tool:1462][waitress-1] Applying main profile profile-plone.app.discussion:to_2002
+2025-01-04 17:40:51,506 INFO    [GenericSetup.rolemap:98][waitress-1] Role / permission map imported.
+2025-01-04 17:40:51,509 INFO    [GenericSetup.types:98][waitress-1] 'Discussion Item' type info imported.
+2025-01-04 17:40:51,528 INFO    [Products.CMFPlone.resources.browser.resource:320][waitress-1] Updated resource registry mtime.
+2025-01-04 17:40:51,529 INFO    [Products.GenericSetup.tool:1200][waitress-1] Profile plone.app.discussion:default upgraded to version '2002'.
+2025-01-04 17:40:51,530 INFO    [plone.app.upgrade:312][waitress-1] Done upgrading core addons.
+2025-01-04 17:40:51,530 INFO    [plone.app.upgrade:312][waitress-1] Done upgrading core addons.
+2025-01-04 17:40:51,531 INFO    [plone.app.upgrade:351][waitress-1] Your Plone instance is now up-to-date.
+2025-01-04 17:40:51,531 INFO    [plone.app.upgrade:351][waitress-1] Your Plone instance is now up-to-date.
+2025-01-04 17:41:01,983 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-04 17:41:01,993 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-04 17:41:01,995 WARNING [waitress.queue:113][MainThread] Task queue depth is 2
+2025-01-04 17:41:01,995 WARNING [waitress.queue:113][MainThread] Task queue depth is 3
+2025-01-04 17:41:02,072 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-04 17:41:02,072 WARNING [waitress.queue:113][MainThread] Task queue depth is 2
+2025-01-04 17:41:02,076 WARNING [waitress.queue:113][MainThread] Task queue depth is 3
+2025-01-04 17:41:26,647 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-04 17:41:26,650 WARNING [waitress.queue:113][MainThread] Task queue depth is 2
+2025-01-04 17:41:26,652 WARNING [waitress.queue:113][MainThread] Task queue depth is 3
+2025-01-04 17:41:26,739 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-04 17:41:26,742 WARNING [waitress.queue:113][MainThread] Task queue depth is 2
+2025-01-04 17:41:26,743 WARNING [waitress.queue:113][MainThread] Task queue depth is 3
+2025-01-04 17:41:26,747 WARNING [waitress.queue:113][MainThread] Task queue depth is 3
+2025-01-04 17:41:26,752 WARNING [waitress.queue:113][MainThread] Task queue depth is 3
+2025-01-04 17:41:58,167 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-04 17:41:58,172 WARNING [waitress.queue:113][MainThread] Task queue depth is 2
+2025-01-04 17:41:58,178 WARNING [waitress.queue:113][MainThread] Task queue depth is 3
+2025-01-04 17:41:58,260 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-04 17:41:58,265 WARNING [waitress.queue:113][MainThread] Task queue depth is 2
+2025-01-04 17:41:58,265 WARNING [waitress.queue:113][MainThread] Task queue depth is 3
+2025-01-04 17:41:58,272 WARNING [waitress.queue:113][MainThread] Task queue depth is 2
+2025-01-04 17:42:49,470 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-04 17:42:49,478 WARNING [waitress.queue:113][MainThread] Task queue depth is 2
+2025-01-04 17:42:49,481 WARNING [waitress.queue:113][MainThread] Task queue depth is 3
+2025-01-04 17:42:49,560 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-04 17:42:49,563 WARNING [waitress.queue:113][MainThread] Task queue depth is 2
+2025-01-04 17:42:49,567 WARNING [waitress.queue:113][MainThread] Task queue depth is 3
+2025-01-04 17:42:49,571 WARNING [waitress.queue:113][MainThread] Task queue depth is 3
+2025-01-04 17:42:49,577 WARNING [waitress.queue:113][MainThread] Task queue depth is 3
+2025-01-04 17:43:49,573 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-04 17:43:49,576 WARNING [waitress.queue:113][MainThread] Task queue depth is 2
+2025-01-04 17:43:49,576 WARNING [waitress.queue:113][MainThread] Task queue depth is 3
+2025-01-04 17:43:49,648 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-04 17:43:49,653 WARNING [waitress.queue:113][MainThread] Task queue depth is 2
+2025-01-04 17:43:49,655 WARNING [waitress.queue:113][MainThread] Task queue depth is 3
+2025-01-04 17:43:49,665 WARNING [waitress.queue:113][MainThread] Task queue depth is 3
+2025-01-04 17:43:49,674 WARNING [waitress.queue:113][MainThread] Task queue depth is 3
+2025-01-04 17:44:26,370 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-04 17:44:26,378 WARNING [waitress.queue:113][MainThread] Task queue depth is 2
+2025-01-04 17:44:26,380 WARNING [waitress.queue:113][MainThread] Task queue depth is 3
+2025-01-04 17:44:26,451 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-04 17:44:26,459 WARNING [waitress.queue:113][MainThread] Task queue depth is 2
+2025-01-04 17:44:26,466 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-04 17:44:26,466 WARNING [waitress.queue:113][MainThread] Task queue depth is 2
+2025-01-04 17:44:26,472 WARNING [waitress.queue:113][MainThread] Task queue depth is 2
+2025-01-04 17:45:42,270 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-04 17:45:42,272 WARNING [waitress.queue:113][MainThread] Task queue depth is 2
+2025-01-04 17:45:42,276 WARNING [waitress.queue:113][MainThread] Task queue depth is 3
+2025-01-04 17:45:42,353 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-04 17:45:42,357 WARNING [waitress.queue:113][MainThread] Task queue depth is 2
+2025-01-04 17:45:42,360 WARNING [waitress.queue:113][MainThread] Task queue depth is 3
+2025-01-04 17:45:42,370 WARNING [waitress.queue:113][MainThread] Task queue depth is 3
+2025-01-04 17:45:58,394 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-04 17:45:58,551 ERROR   [ZODB.Connection:38][waitress-0] Couldn't load state for ZODB.blob.Blob 0x28e1
+Traceback (most recent call last):
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/ZODB-6.0-py3.9.egg/ZODB/Connection.py", line 796, in setstate
+    obj._p_blob_committed = self._storage.loadBlob(oid, serial)
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/ZODB-6.0-py3.9.egg/ZODB/blob.py", line 695, in loadBlob
+    raise POSKeyError("No blob file at %s" % filename, oid, serial)
+ZODB.POSException.POSKeyError: 'No blob file at /home/gnuamua/radio/denverMesh/denvermesh-plone-backend/var/blobstorage/0x00/0x00/0x00/0x00/0x00/0x00/0x28/0xe1/0x03faef562fb56900.blob'
+2025-01-04 17:45:58,960 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-04 17:45:58,961 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-04 17:45:58,985 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-04 17:46:21,892 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-04 17:47:21,459 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-04 17:47:21,464 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-04 17:47:21,475 WARNING [waitress.queue:113][MainThread] Task queue depth is 2
+2025-01-04 17:47:22,189 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-04 17:47:22,190 WARNING [waitress.queue:113][MainThread] Task queue depth is 2
+2025-01-04 17:47:22,197 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-04 17:47:22,262 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-04 17:47:22,267 WARNING [waitress.queue:113][MainThread] Task queue depth is 2
+2025-01-04 17:47:22,268 WARNING [waitress.queue:113][MainThread] Task queue depth is 2
+2025-01-04 17:51:18,339 INFO    [chameleon.config:39][MainThread] directory cache: /home/gnuamua/radio/denverMesh/denvermesh-plone-backend/var/cache.
+2025-01-04 17:51:21,600 WARNING [Products.PDBDebugMode:31][MainThread] 
+
+******************************************************************************
+
+Debug-Mode enabled!
+
+This will result in a pdb when a exception happens.
+Turn off debug mode or remove Products.PDBDebugMode to disable.
+
+See https://pypi.python.org/pypi/Products.PDBDebugMode
+
+******************************************************************************
+
+2025-01-04 17:51:21,843 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-01-04 17:51:21,843 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-01-04 17:51:23,251 INFO    [plone.volto:23][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-01-04 17:51:23,251 INFO    [plone.volto:23][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-01-04 17:51:24,041 WARNING [PrintingMailHost:32][MainThread] Hold on to your hats folks, I'm a-patchin'
+2025-01-04 17:51:24,042 WARNING [PrintingMailHost:147][MainThread] 
+
+******************************************************************************
+
+Monkey patching MailHosts to print e-mails to the terminal.
+
+This is instead of sending them.
+
+NO MAIL WILL BE SENT FROM ZOPE AT ALL!
+
+Turn off debug mode or remove Products.PrintingMailHost from the eggs
+or remove ENABLE_PRINTING_MAILHOST from the environment variables to
+return to normal e-mail sending.
+
+See https://pypi.org/project/Products.PrintingMailHost
+
+******************************************************************************
+
+2025-01-04 17:51:24,062 INFO    [Zope:42][MainThread] Ready to handle requests
+2025-01-04 17:51:24,063 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-01-04 17:51:24,063 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
