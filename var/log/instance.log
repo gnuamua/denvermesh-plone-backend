@@ -14642,3 +14642,457 @@ See https://pypi.org/project/Products.PrintingMailHost
 2025-01-04 17:51:24,062 INFO    [Zope:42][MainThread] Ready to handle requests
 2025-01-04 17:51:24,063 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
 2025-01-04 17:51:24,063 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-01-04 17:52:39,144 INFO    [chameleon.config:39][MainThread] directory cache: /home/gnuamua/radio/denverMesh/denvermesh-plone-backend/var/cache.
+2025-01-04 17:52:42,311 WARNING [Products.PDBDebugMode:31][MainThread] 
+
+******************************************************************************
+
+Debug-Mode enabled!
+
+This will result in a pdb when a exception happens.
+Turn off debug mode or remove Products.PDBDebugMode to disable.
+
+See https://pypi.python.org/pypi/Products.PDBDebugMode
+
+******************************************************************************
+
+2025-01-04 17:52:42,546 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-01-04 17:52:42,546 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-01-04 17:52:43,928 INFO    [plone.volto:23][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-01-04 17:52:43,928 INFO    [plone.volto:23][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-01-04 17:52:44,683 WARNING [PrintingMailHost:32][MainThread] Hold on to your hats folks, I'm a-patchin'
+2025-01-04 17:52:44,684 WARNING [PrintingMailHost:147][MainThread] 
+
+******************************************************************************
+
+Monkey patching MailHosts to print e-mails to the terminal.
+
+This is instead of sending them.
+
+NO MAIL WILL BE SENT FROM ZOPE AT ALL!
+
+Turn off debug mode or remove Products.PrintingMailHost from the eggs
+or remove ENABLE_PRINTING_MAILHOST from the environment variables to
+return to normal e-mail sending.
+
+See https://pypi.org/project/Products.PrintingMailHost
+
+******************************************************************************
+
+2025-01-04 17:52:44,702 INFO    [Zope:42][MainThread] Ready to handle requests
+2025-01-04 17:52:44,703 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-01-04 17:52:44,703 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-01-04 17:53:17,266 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-04 17:53:18,234 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-05 22:08:13,472 INFO    [chameleon.config:39][MainThread] directory cache: /home/gnuamua/radio/denverMesh/denvermesh-plone-backend/var/cache.
+2025-01-05 22:08:16,378 WARNING [Products.PDBDebugMode:31][MainThread] 
+
+******************************************************************************
+
+Debug-Mode enabled!
+
+This will result in a pdb when a exception happens.
+Turn off debug mode or remove Products.PDBDebugMode to disable.
+
+See https://pypi.python.org/pypi/Products.PDBDebugMode
+
+******************************************************************************
+
+2025-01-05 22:08:16,639 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-01-05 22:08:16,639 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-01-05 22:08:18,157 INFO    [plone.volto:23][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-01-05 22:08:18,157 INFO    [plone.volto:23][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-01-05 22:08:18,886 WARNING [PrintingMailHost:32][MainThread] Hold on to your hats folks, I'm a-patchin'
+2025-01-05 22:08:18,886 WARNING [PrintingMailHost:147][MainThread] 
+
+******************************************************************************
+
+Monkey patching MailHosts to print e-mails to the terminal.
+
+This is instead of sending them.
+
+NO MAIL WILL BE SENT FROM ZOPE AT ALL!
+
+Turn off debug mode or remove Products.PrintingMailHost from the eggs
+or remove ENABLE_PRINTING_MAILHOST from the environment variables to
+return to normal e-mail sending.
+
+See https://pypi.org/project/Products.PrintingMailHost
+
+******************************************************************************
+
+2025-01-05 22:08:18,903 INFO    [Zope:42][MainThread] Ready to handle requests
+2025-01-05 22:08:18,905 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-01-05 22:08:18,905 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-01-05 23:50:30,075 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-05 23:50:32,247 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-05 23:50:36,579 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-05 23:50:38,633 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-05 23:50:40,693 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-06 23:04:23,778 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-06 23:04:24,208 ERROR   [ZODB.Connection:38][waitress-0] Couldn't load state for ZODB.blob.Blob 0x28e1
+Traceback (most recent call last):
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/ZODB-6.0-py3.9.egg/ZODB/Connection.py", line 796, in setstate
+    obj._p_blob_committed = self._storage.loadBlob(oid, serial)
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/ZODB-6.0-py3.9.egg/ZODB/blob.py", line 695, in loadBlob
+    raise POSKeyError("No blob file at %s" % filename, oid, serial)
+ZODB.POSException.POSKeyError: 'No blob file at /home/gnuamua/radio/denverMesh/denvermesh-plone-backend/var/blobstorage/0x00/0x00/0x00/0x00/0x00/0x00/0x28/0xe1/0x03faef562fb56900.blob'
+2025-01-06 23:04:24,606 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-06 23:07:57,094 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-06 23:07:57,825 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-06 23:07:57,901 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-06 23:07:57,908 WARNING [waitress.queue:113][MainThread] Task queue depth is 2
+2025-01-07 02:03:45,211 INFO    [chameleon.config:39][MainThread] directory cache: /home/gnuamua/radio/denverMesh/denvermesh-plone-backend/var/cache.
+2025-01-07 02:03:48,360 WARNING [Products.PDBDebugMode:31][MainThread] 
+
+******************************************************************************
+
+Debug-Mode enabled!
+
+This will result in a pdb when a exception happens.
+Turn off debug mode or remove Products.PDBDebugMode to disable.
+
+See https://pypi.python.org/pypi/Products.PDBDebugMode
+
+******************************************************************************
+
+2025-01-07 02:03:48,641 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-01-07 02:03:48,641 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-01-07 02:03:50,334 INFO    [plone.volto:23][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-01-07 02:03:50,334 INFO    [plone.volto:23][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-01-07 02:03:51,149 WARNING [PrintingMailHost:32][MainThread] Hold on to your hats folks, I'm a-patchin'
+2025-01-07 02:03:51,150 WARNING [PrintingMailHost:147][MainThread] 
+
+******************************************************************************
+
+Monkey patching MailHosts to print e-mails to the terminal.
+
+This is instead of sending them.
+
+NO MAIL WILL BE SENT FROM ZOPE AT ALL!
+
+Turn off debug mode or remove Products.PrintingMailHost from the eggs
+or remove ENABLE_PRINTING_MAILHOST from the environment variables to
+return to normal e-mail sending.
+
+See https://pypi.org/project/Products.PrintingMailHost
+
+******************************************************************************
+
+2025-01-07 02:03:51,168 INFO    [Zope:42][MainThread] Ready to handle requests
+2025-01-07 02:03:51,170 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-01-07 02:03:51,170 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-01-07 02:04:14,144 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-07 02:04:15,108 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-07 02:04:18,932 ERROR   [ZODB.Connection:38][waitress-1] Couldn't load state for ZODB.blob.Blob 0x27b0
+Traceback (most recent call last):
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/ZODB-6.0-py3.9.egg/ZODB/Connection.py", line 796, in setstate
+    obj._p_blob_committed = self._storage.loadBlob(oid, serial)
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/ZODB-6.0-py3.9.egg/ZODB/blob.py", line 695, in loadBlob
+    raise POSKeyError("No blob file at %s" % filename, oid, serial)
+ZODB.POSException.POSKeyError: 'No blob file at /home/gnuamua/radio/denverMesh/denvermesh-plone-backend/var/blobstorage/0x00/0x00/0x00/0x00/0x00/0x00/0x27/0xb0/0x03fa4ebaad6fe788.blob'
+2025-01-07 02:04:18,933 ERROR   [ZODB.Connection:38][waitress-0] Couldn't load state for ZODB.blob.Blob 0x27fb
+Traceback (most recent call last):
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/ZODB-6.0-py3.9.egg/ZODB/Connection.py", line 796, in setstate
+    obj._p_blob_committed = self._storage.loadBlob(oid, serial)
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/ZODB-6.0-py3.9.egg/ZODB/blob.py", line 695, in loadBlob
+    raise POSKeyError("No blob file at %s" % filename, oid, serial)
+ZODB.POSException.POSKeyError: 'No blob file at /home/gnuamua/radio/denverMesh/denvermesh-plone-backend/var/blobstorage/0x00/0x00/0x00/0x00/0x00/0x00/0x27/0xfb/0x03fa4edc42cd6155.blob'
+2025-01-07 02:04:37,369 ERROR   [Zope.SiteErrorLog:17][waitress-1] POSKeyError: http://localhost:8080/Plone/++api++/matter/mattermost-signup-link.png/@@images/image/index_html
+Traceback (innermost last):
+  Module ZPublisher.WSGIPublisher, line 181, in transaction_pubevents
+  Module ZPublisher.WSGIPublisher, line 390, in publish_module
+  Module ZPublisher.WSGIPublisher, line 284, in publish
+  Module ZPublisher.mapply, line 98, in mapply
+  Module Products.PDBDebugMode.wsgi_runcall, line 60, in pdb_runcall
+  Module plone.namedfile.scaling, line 213, in index_html
+  Module plone.namedfile.utils, line 161, in stream_data
+  Module ZODB.Connection, line 796, in setstate
+  Module ZODB.blob, line 695, in loadBlob
+ZODB.POSException.POSKeyError: 'No blob file at /home/gnuamua/radio/denverMesh/denvermesh-plone-backend/var/blobstorage/0x00/0x00/0x00/0x00/0x00/0x00/0x27/0xb0/0x03fa4ebaad6fe788.blob'
+2025-01-07 02:04:38,136 ERROR   [Zope.SiteErrorLog:17][waitress-0] POSKeyError: http://localhost:8080/Plone/++api++/matter/browse.png/@@images/image/index_html
+Traceback (innermost last):
+  Module ZPublisher.WSGIPublisher, line 181, in transaction_pubevents
+  Module ZPublisher.WSGIPublisher, line 390, in publish_module
+  Module ZPublisher.WSGIPublisher, line 284, in publish
+  Module ZPublisher.mapply, line 98, in mapply
+  Module Products.PDBDebugMode.wsgi_runcall, line 60, in pdb_runcall
+  Module plone.namedfile.scaling, line 213, in index_html
+  Module plone.namedfile.utils, line 161, in stream_data
+  Module ZODB.Connection, line 796, in setstate
+  Module ZODB.blob, line 695, in loadBlob
+ZODB.POSException.POSKeyError: 'No blob file at /home/gnuamua/radio/denverMesh/denvermesh-plone-backend/var/blobstorage/0x00/0x00/0x00/0x00/0x00/0x00/0x27/0xfb/0x03fa4edc42cd6155.blob'
+2025-01-07 02:04:38,792 ERROR   [waitress:38][waitress-0] Exception while serving /Plone/++api++/matter/browse.png/@@images/image
+Traceback (most recent call last):
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/Zope-5.11.1-py3.9.egg/ZPublisher/WSGIPublisher.py", line 181, in transaction_pubevents
+    yield
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/Zope-5.11.1-py3.9.egg/ZPublisher/WSGIPublisher.py", line 390, in publish_module
+    response = _publish(request, new_mod_info)
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/Zope-5.11.1-py3.9.egg/ZPublisher/WSGIPublisher.py", line 284, in publish
+    result = mapply(obj,
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/Zope-5.11.1-py3.9.egg/ZPublisher/mapply.py", line 98, in mapply
+    return debug(object, args, context)
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/Products.PDBDebugMode-2.0-py3.9-linux-x86_64.egg/Products/PDBDebugMode/wsgi_runcall.py", line 60, in pdb_runcall
+    return obj(*args)
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/plone.namedfile-6.4.0-py3.9.egg/plone/namedfile/scaling.py", line 213, in index_html
+    return stream_data(self.data)
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/plone.namedfile-6.4.0-py3.9.egg/plone/namedfile/utils/__init__.py", line 161, in stream_data
+    file._blob.committed(), "rb", start=start, end=end
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/ZODB-6.0-py3.9.egg/ZODB/Connection.py", line 796, in setstate
+    obj._p_blob_committed = self._storage.loadBlob(oid, serial)
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/ZODB-6.0-py3.9.egg/ZODB/blob.py", line 695, in loadBlob
+    raise POSKeyError("No blob file at %s" % filename, oid, serial)
+ZODB.POSException.POSKeyError: 'No blob file at /home/gnuamua/radio/denverMesh/denvermesh-plone-backend/var/blobstorage/0x00/0x00/0x00/0x00/0x00/0x00/0x27/0xfb/0x03fa4edc42cd6155.blob'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/waitress-3.0.2-py3.9.egg/waitress/channel.py", line 430, in service
+    task.service()
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/waitress-3.0.2-py3.9.egg/waitress/task.py", line 167, in service
+    self.execute()
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/waitress-3.0.2-py3.9.egg/waitress/task.py", line 435, in execute
+    app_iter = self.channel.server.application(environ, start_response)
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/Paste-3.10.1-py3.9.egg/paste/translogger.py", line 76, in __call__
+    return self.application(environ, replacement_start_response)
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/Zope-5.11.1-py3.9.egg/ZPublisher/httpexceptions.py", line 30, in __call__
+    return self.application(environ, start_response)
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/Zope-5.11.1-py3.9.egg/ZPublisher/WSGIPublisher.py", line 395, in publish_module
+    environ['REMOTE_USER'] = user.getUserName()
+  File "/usr/lib64/python3.9/contextlib.py", line 137, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/Zope-5.11.1-py3.9.egg/ZPublisher/WSGIPublisher.py", line 235, in transaction_pubevents
+    notify(pubevents.PubFailure(request, exc_info, retry))
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/zope.event-5.0-py3.9.egg/zope/event/__init__.py", line 33, in notify
+    subscriber(event)
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/zope.component-6.0-py3.9.egg/zope/component/event.py", line 27, in dispatch
+    component_subscribers(event, None)
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/zope.component-6.0-py3.9.egg/zope/component/_api.py", line 146, in subscribers
+    return sitemanager.subscribers(objects, interface)
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/zope.interface-7.1.1-py3.9-linux-x86_64.egg/zope/interface/registry.py", line 458, in subscribers
+    return self.adapters.subscribers(objects, provided)
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/zope.interface-7.1.1-py3.9-linux-x86_64.egg/zope/interface/adapter.py", line 918, in subscribers
+    subscription(*objects)
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/Products.SiteErrorLog-6.0-py3.9.egg/Products/SiteErrorLog/SiteErrorLog.py", line 359, in IPubFailureSubscriber
+    error_log.raising(event.exc_info)
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/Products.PDBDebugMode-2.0-py3.9-linux-x86_64.egg/Products/PDBDebugMode/errorlog.py", line 23, in raising
+    del SiteErrorLog.LOG.error
+AttributeError: error
+2025-01-07 02:04:38,792 ERROR   [waitress:38][waitress-0] Exception while serving /Plone/++api++/matter/browse.png/@@images/image
+Traceback (most recent call last):
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/Zope-5.11.1-py3.9.egg/ZPublisher/WSGIPublisher.py", line 181, in transaction_pubevents
+    yield
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/Zope-5.11.1-py3.9.egg/ZPublisher/WSGIPublisher.py", line 390, in publish_module
+    response = _publish(request, new_mod_info)
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/Zope-5.11.1-py3.9.egg/ZPublisher/WSGIPublisher.py", line 284, in publish
+    result = mapply(obj,
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/Zope-5.11.1-py3.9.egg/ZPublisher/mapply.py", line 98, in mapply
+    return debug(object, args, context)
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/Products.PDBDebugMode-2.0-py3.9-linux-x86_64.egg/Products/PDBDebugMode/wsgi_runcall.py", line 60, in pdb_runcall
+    return obj(*args)
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/plone.namedfile-6.4.0-py3.9.egg/plone/namedfile/scaling.py", line 213, in index_html
+    return stream_data(self.data)
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/plone.namedfile-6.4.0-py3.9.egg/plone/namedfile/utils/__init__.py", line 161, in stream_data
+    file._blob.committed(), "rb", start=start, end=end
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/ZODB-6.0-py3.9.egg/ZODB/Connection.py", line 796, in setstate
+    obj._p_blob_committed = self._storage.loadBlob(oid, serial)
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/ZODB-6.0-py3.9.egg/ZODB/blob.py", line 695, in loadBlob
+    raise POSKeyError("No blob file at %s" % filename, oid, serial)
+ZODB.POSException.POSKeyError: 'No blob file at /home/gnuamua/radio/denverMesh/denvermesh-plone-backend/var/blobstorage/0x00/0x00/0x00/0x00/0x00/0x00/0x27/0xfb/0x03fa4edc42cd6155.blob'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/waitress-3.0.2-py3.9.egg/waitress/channel.py", line 430, in service
+    task.service()
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/waitress-3.0.2-py3.9.egg/waitress/task.py", line 167, in service
+    self.execute()
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/waitress-3.0.2-py3.9.egg/waitress/task.py", line 435, in execute
+    app_iter = self.channel.server.application(environ, start_response)
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/Paste-3.10.1-py3.9.egg/paste/translogger.py", line 76, in __call__
+    return self.application(environ, replacement_start_response)
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/Zope-5.11.1-py3.9.egg/ZPublisher/httpexceptions.py", line 30, in __call__
+    return self.application(environ, start_response)
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/Zope-5.11.1-py3.9.egg/ZPublisher/WSGIPublisher.py", line 395, in publish_module
+    environ['REMOTE_USER'] = user.getUserName()
+  File "/usr/lib64/python3.9/contextlib.py", line 137, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/Zope-5.11.1-py3.9.egg/ZPublisher/WSGIPublisher.py", line 235, in transaction_pubevents
+    notify(pubevents.PubFailure(request, exc_info, retry))
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/zope.event-5.0-py3.9.egg/zope/event/__init__.py", line 33, in notify
+    subscriber(event)
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/zope.component-6.0-py3.9.egg/zope/component/event.py", line 27, in dispatch
+    component_subscribers(event, None)
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/zope.component-6.0-py3.9.egg/zope/component/_api.py", line 146, in subscribers
+    return sitemanager.subscribers(objects, interface)
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/zope.interface-7.1.1-py3.9-linux-x86_64.egg/zope/interface/registry.py", line 458, in subscribers
+    return self.adapters.subscribers(objects, provided)
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/zope.interface-7.1.1-py3.9-linux-x86_64.egg/zope/interface/adapter.py", line 918, in subscribers
+    subscription(*objects)
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/Products.SiteErrorLog-6.0-py3.9.egg/Products/SiteErrorLog/SiteErrorLog.py", line 359, in IPubFailureSubscriber
+    error_log.raising(event.exc_info)
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/Products.PDBDebugMode-2.0-py3.9-linux-x86_64.egg/Products/PDBDebugMode/errorlog.py", line 23, in raising
+    del SiteErrorLog.LOG.error
+AttributeError: error
+2025-01-07 02:04:44,234 INFO    [chameleon.config:39][MainThread] directory cache: /home/gnuamua/radio/denverMesh/denvermesh-plone-backend/var/cache.
+2025-01-07 02:04:47,324 WARNING [Products.PDBDebugMode:31][MainThread] 
+
+******************************************************************************
+
+Debug-Mode enabled!
+
+This will result in a pdb when a exception happens.
+Turn off debug mode or remove Products.PDBDebugMode to disable.
+
+See https://pypi.python.org/pypi/Products.PDBDebugMode
+
+******************************************************************************
+
+2025-01-07 02:04:47,554 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-01-07 02:04:47,554 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-01-07 02:04:48,892 INFO    [plone.volto:23][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-01-07 02:04:48,892 INFO    [plone.volto:23][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-01-07 02:04:49,638 WARNING [PrintingMailHost:32][MainThread] Hold on to your hats folks, I'm a-patchin'
+2025-01-07 02:04:49,638 WARNING [PrintingMailHost:147][MainThread] 
+
+******************************************************************************
+
+Monkey patching MailHosts to print e-mails to the terminal.
+
+This is instead of sending them.
+
+NO MAIL WILL BE SENT FROM ZOPE AT ALL!
+
+Turn off debug mode or remove Products.PrintingMailHost from the eggs
+or remove ENABLE_PRINTING_MAILHOST from the environment variables to
+return to normal e-mail sending.
+
+See https://pypi.org/project/Products.PrintingMailHost
+
+******************************************************************************
+
+2025-01-07 02:04:49,656 INFO    [Zope:42][MainThread] Ready to handle requests
+2025-01-07 02:04:49,657 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-01-07 02:04:49,657 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-01-07 02:04:52,631 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-07 02:04:58,285 ERROR   [ZODB.Connection:38][waitress-0] Couldn't load state for ZODB.blob.Blob 0x28e1
+Traceback (most recent call last):
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/ZODB-6.0-py3.9.egg/ZODB/Connection.py", line 796, in setstate
+    obj._p_blob_committed = self._storage.loadBlob(oid, serial)
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/ZODB-6.0-py3.9.egg/ZODB/blob.py", line 695, in loadBlob
+    raise POSKeyError("No blob file at %s" % filename, oid, serial)
+ZODB.POSException.POSKeyError: 'No blob file at /home/gnuamua/radio/denverMesh/denvermesh-plone-backend/var/blobstorage/0x00/0x00/0x00/0x00/0x00/0x00/0x28/0xe1/0x03faef562fb56900.blob'
+2025-01-07 02:05:01,192 ERROR   [Zope.SiteErrorLog:17][waitress-0] POSKeyError: http://localhost:8080/Plone/++api++/screenshot-2024-08-24.png/@@images/image/index_html
+Traceback (innermost last):
+  Module ZPublisher.WSGIPublisher, line 181, in transaction_pubevents
+  Module ZPublisher.WSGIPublisher, line 390, in publish_module
+  Module ZPublisher.WSGIPublisher, line 284, in publish
+  Module ZPublisher.mapply, line 98, in mapply
+  Module Products.PDBDebugMode.wsgi_runcall, line 60, in pdb_runcall
+  Module plone.namedfile.scaling, line 213, in index_html
+  Module plone.namedfile.utils, line 161, in stream_data
+  Module ZODB.Connection, line 796, in setstate
+  Module ZODB.blob, line 695, in loadBlob
+ZODB.POSException.POSKeyError: 'No blob file at /home/gnuamua/radio/denverMesh/denvermesh-plone-backend/var/blobstorage/0x00/0x00/0x00/0x00/0x00/0x00/0x28/0xe1/0x03faef562fb56900.blob'
+2025-01-07 02:05:05,631 INFO    [chameleon.config:39][MainThread] directory cache: /home/gnuamua/radio/denverMesh/denvermesh-plone-backend/var/cache.
+2025-01-07 02:05:08,671 WARNING [Products.PDBDebugMode:31][MainThread] 
+
+******************************************************************************
+
+Debug-Mode enabled!
+
+This will result in a pdb when a exception happens.
+Turn off debug mode or remove Products.PDBDebugMode to disable.
+
+See https://pypi.python.org/pypi/Products.PDBDebugMode
+
+******************************************************************************
+
+2025-01-07 02:05:08,893 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-01-07 02:05:08,893 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-01-07 02:05:10,214 INFO    [plone.volto:23][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-01-07 02:05:10,214 INFO    [plone.volto:23][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-01-07 02:05:10,949 WARNING [PrintingMailHost:32][MainThread] Hold on to your hats folks, I'm a-patchin'
+2025-01-07 02:05:10,949 WARNING [PrintingMailHost:147][MainThread] 
+
+******************************************************************************
+
+Monkey patching MailHosts to print e-mails to the terminal.
+
+This is instead of sending them.
+
+NO MAIL WILL BE SENT FROM ZOPE AT ALL!
+
+Turn off debug mode or remove Products.PrintingMailHost from the eggs
+or remove ENABLE_PRINTING_MAILHOST from the environment variables to
+return to normal e-mail sending.
+
+See https://pypi.org/project/Products.PrintingMailHost
+
+******************************************************************************
+
+2025-01-07 02:05:10,966 INFO    [Zope:42][MainThread] Ready to handle requests
+2025-01-07 02:05:10,967 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-01-07 02:05:10,967 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-01-07 02:05:16,917 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-07 02:05:17,616 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-07 02:05:24,568 ERROR   [ZODB.Connection:38][waitress-2] Couldn't load state for ZODB.blob.Blob 0x28d3
+Traceback (most recent call last):
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/ZODB-6.0-py3.9.egg/ZODB/Connection.py", line 796, in setstate
+    obj._p_blob_committed = self._storage.loadBlob(oid, serial)
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/ZODB-6.0-py3.9.egg/ZODB/blob.py", line 695, in loadBlob
+    raise POSKeyError("No blob file at %s" % filename, oid, serial)
+ZODB.POSException.POSKeyError: 'No blob file at /home/gnuamua/radio/denverMesh/denvermesh-plone-backend/var/blobstorage/0x00/0x00/0x00/0x00/0x00/0x00/0x28/0xd3/0x03faef55752bcc33.blob'
+2025-01-07 02:05:37,035 ERROR   [Zope.SiteErrorLog:17][waitress-2] POSKeyError: http://localhost:8080/Plone/++api++/screenshot-2024-08-24.png/@@images/image/index_html
+Traceback (innermost last):
+  Module ZPublisher.WSGIPublisher, line 181, in transaction_pubevents
+  Module ZPublisher.WSGIPublisher, line 390, in publish_module
+  Module ZPublisher.WSGIPublisher, line 284, in publish
+  Module ZPublisher.mapply, line 98, in mapply
+  Module Products.PDBDebugMode.wsgi_runcall, line 60, in pdb_runcall
+  Module plone.namedfile.scaling, line 213, in index_html
+  Module plone.namedfile.utils, line 161, in stream_data
+  Module ZODB.Connection, line 796, in setstate
+  Module ZODB.blob, line 695, in loadBlob
+ZODB.POSException.POSKeyError: 'No blob file at /home/gnuamua/radio/denverMesh/denvermesh-plone-backend/var/blobstorage/0x00/0x00/0x00/0x00/0x00/0x00/0x28/0xd3/0x03faef55752bcc33.blob'
+2025-01-07 03:28:13,317 INFO    [chameleon.config:39][MainThread] directory cache: /home/gnuamua/radio/denverMesh/denvermesh-plone-backend/var/cache.
+2025-01-07 03:28:16,533 WARNING [Products.PDBDebugMode:31][MainThread] 
+
+******************************************************************************
+
+Debug-Mode enabled!
+
+This will result in a pdb when a exception happens.
+Turn off debug mode or remove Products.PDBDebugMode to disable.
+
+See https://pypi.python.org/pypi/Products.PDBDebugMode
+
+******************************************************************************
+
+2025-01-07 03:28:16,660 WARNING [ZODB.FileStorage:409][MainThread] Ignoring index for /home/gnuamua/radio/denverMesh/denvermesh-plone-backend/var/filestorage/Data.fs
+2025-01-07 03:28:16,856 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-01-07 03:28:16,856 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-01-07 03:28:18,309 INFO    [plone.volto:23][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-01-07 03:28:18,309 INFO    [plone.volto:23][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-01-07 03:28:19,084 WARNING [PrintingMailHost:32][MainThread] Hold on to your hats folks, I'm a-patchin'
+2025-01-07 03:28:19,085 WARNING [PrintingMailHost:147][MainThread] 
+
+******************************************************************************
+
+Monkey patching MailHosts to print e-mails to the terminal.
+
+This is instead of sending them.
+
+NO MAIL WILL BE SENT FROM ZOPE AT ALL!
+
+Turn off debug mode or remove Products.PrintingMailHost from the eggs
+or remove ENABLE_PRINTING_MAILHOST from the environment variables to
+return to normal e-mail sending.
+
+See https://pypi.org/project/Products.PrintingMailHost
+
+******************************************************************************
+
+2025-01-07 03:28:19,102 INFO    [Zope:42][MainThread] Ready to handle requests
+2025-01-07 03:28:19,103 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-01-07 03:28:19,103 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
