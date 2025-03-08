@@ -17158,3 +17158,101 @@ See https://pypi.org/project/Products.PrintingMailHost
 2025-03-08 03:29:16,134 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
 2025-03-08 03:29:16,214 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
 2025-03-08 03:29:16,226 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-03-08 03:47:44,722 INFO    [chameleon.config:39][MainThread] directory cache: /home/gnuamua/radio/denverMesh/denvermesh-plone-backend/var/cache.
+2025-03-08 03:47:47,009 WARNING [Products.PDBDebugMode:31][MainThread] 
+
+******************************************************************************
+
+Debug-Mode enabled!
+
+This will result in a pdb when a exception happens.
+Turn off debug mode or remove Products.PDBDebugMode to disable.
+
+See https://pypi.python.org/pypi/Products.PDBDebugMode
+
+******************************************************************************
+
+2025-03-08 03:47:47,156 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-03-08 03:47:47,156 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-03-08 03:47:47,455 INFO    [plone.app.event:18][MainThread] icalendar has been set up to use pytz instead of zoneinfo.
+2025-03-08 03:47:47,455 INFO    [plone.app.event:18][MainThread] icalendar has been set up to use pytz instead of zoneinfo.
+2025-03-08 03:47:48,609 INFO    [plone.volto:22][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-03-08 03:47:48,609 INFO    [plone.volto:22][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-03-08 03:47:49,387 WARNING [PrintingMailHost:32][MainThread] Hold on to your hats folks, I'm a-patchin'
+2025-03-08 03:47:49,388 WARNING [PrintingMailHost:147][MainThread] 
+
+******************************************************************************
+
+Monkey patching MailHosts to print e-mails to the terminal.
+
+This is instead of sending them.
+
+NO MAIL WILL BE SENT FROM ZOPE AT ALL!
+
+Turn off debug mode or remove Products.PrintingMailHost from the eggs
+or remove ENABLE_PRINTING_MAILHOST from the environment variables to
+return to normal e-mail sending.
+
+See https://pypi.org/project/Products.PrintingMailHost
+
+******************************************************************************
+
+2025-03-08 03:47:49,399 INFO    [Zope:42][MainThread] Ready to handle requests
+2025-03-08 03:47:49,401 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-03-08 03:47:49,401 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-03-08 03:48:00,554 WARNING [OFS.Uninstalled:76][waitress-2] Could not import class 'PropertiesTool' from module 'Products.CMFPlone.PropertiesTool'
+2025-03-08 03:48:39,214 INFO    [plone.app.upgrade:285][waitress-0] Starting the migration from version: 6025
+2025-03-08 03:48:39,214 INFO    [plone.app.upgrade:285][waitress-0] Starting the migration from version: 6025
+2025-03-08 03:48:39,248 INFO    [plone.app.upgrade.v60.final:317][waitress-0] 0 globs were fixed
+2025-03-08 03:48:39,248 INFO    [plone.app.upgrade.v60.final:317][waitress-0] 0 globs were fixed
+2025-03-08 03:48:39,248 INFO    [plone.app.upgrade:291][waitress-0] Ran upgrade step: Miscellaneous
+2025-03-08 03:48:39,248 INFO    [plone.app.upgrade:291][waitress-0] Ran upgrade step: Miscellaneous
+2025-03-08 03:48:39,248 INFO    [plone.app.upgrade:291][waitress-0] Ran upgrade step: Miscellaneous
+2025-03-08 03:48:39,248 INFO    [plone.app.upgrade:291][waitress-0] Ran upgrade step: Miscellaneous
+2025-03-08 03:48:39,248 INFO    [plone.app.upgrade:291][waitress-0] Ran upgrade step: Miscellaneous
+2025-03-08 03:48:39,248 INFO    [plone.app.upgrade:291][waitress-0] Ran upgrade step: Miscellaneous
+2025-03-08 03:48:39,254 INFO    [plone.app.upgrade:291][waitress-0] Ran upgrade step: Add Feature to TinyMCE Editor
+2025-03-08 03:48:39,254 INFO    [plone.app.upgrade:291][waitress-0] Ran upgrade step: Add Feature to TinyMCE Editor
+2025-03-08 03:48:39,254 INFO    [Products.GenericSetup.tool:1421][waitress-0] Importing profile profile-plone.app.upgrade.v60:to_isiteschema with dependency strategy ignore.
+2025-03-08 03:48:39,255 INFO    [Products.GenericSetup.tool:1462][waitress-0] Applying main profile profile-plone.app.upgrade.v60:to_isiteschema
+2025-03-08 03:48:39,283 INFO    [GenericSetup.rolemap:98][waitress-0] Role / permission map imported.
+2025-03-08 03:48:39,283 INFO    [Products.CMFPlone.resources.browser.resource:320][waitress-0] Updated resource registry mtime.
+2025-03-08 03:48:39,284 INFO    [plone.app.upgrade:291][waitress-0] Ran upgrade step: Run to_isiteschema upgrade profile.
+2025-03-08 03:48:39,284 INFO    [plone.app.upgrade:291][waitress-0] Ran upgrade step: Run to_isiteschema upgrade profile.
+2025-03-08 03:48:39,284 INFO    [Products.GenericSetup.tool:1421][waitress-0] Importing profile profile-plone.app.upgrade.v61:to6103 with dependency strategy ignore.
+2025-03-08 03:48:39,284 INFO    [Products.GenericSetup.tool:1462][waitress-0] Applying main profile profile-plone.app.upgrade.v61:to6103
+2025-03-08 03:48:39,286 INFO    [GenericSetup.plone.app.registry:98][waitress-0] Removed record plone.libraries_spellchecker_choice.
+2025-03-08 03:48:39,286 INFO    [GenericSetup.plone.app.registry:98][waitress-0] Removed record plone.libraries_atd_ignore_strings.
+2025-03-08 03:48:39,286 INFO    [GenericSetup.plone.app.registry:98][waitress-0] Removed record plone.libraries_atd_show_types.
+2025-03-08 03:48:39,286 INFO    [GenericSetup.plone.app.registry:98][waitress-0] Removed record plone.libraries_atd_service_url.
+2025-03-08 03:48:39,293 INFO    [GenericSetup.rolemap:98][waitress-0] Role / permission map imported.
+2025-03-08 03:48:39,293 INFO    [Products.CMFPlone.resources.browser.resource:320][waitress-0] Updated resource registry mtime.
+2025-03-08 03:48:39,293 INFO    [plone.app.upgrade:291][waitress-0] Ran upgrade step: Run to6103 upgrade profile.
+2025-03-08 03:48:39,293 INFO    [plone.app.upgrade:291][waitress-0] Ran upgrade step: Run to6103 upgrade profile.
+2025-03-08 03:48:39,294 INFO    [plone.app.upgrade.v61.final:31][waitress-0] Removed portal_properties tool.
+2025-03-08 03:48:39,294 INFO    [plone.app.upgrade.v61.final:31][waitress-0] Removed portal_properties tool.
+2025-03-08 03:48:39,294 INFO    [plone.app.upgrade:291][waitress-0] Ran upgrade step: Remove the portal_properties tool.
+2025-03-08 03:48:39,294 INFO    [plone.app.upgrade:291][waitress-0] Ran upgrade step: Remove the portal_properties tool.
+2025-03-08 03:48:39,295 INFO    [plone.app.upgrade.v61.final:49][waitress-0] The plone.app.discussion package is available, so we do nothing.
+2025-03-08 03:48:39,295 INFO    [plone.app.upgrade.v61.final:49][waitress-0] The plone.app.discussion package is available, so we do nothing.
+2025-03-08 03:48:39,295 INFO    [plone.app.upgrade:291][waitress-0] Ran upgrade step: Maybe get rid of plone.app.discussion
+2025-03-08 03:48:39,295 INFO    [plone.app.upgrade:291][waitress-0] Ran upgrade step: Maybe get rid of plone.app.discussion
+2025-03-08 03:48:39,295 INFO    [plone.app.upgrade:291][waitress-0] Ran upgrade step: Miscellaneous
+2025-03-08 03:48:39,295 INFO    [plone.app.upgrade:291][waitress-0] Ran upgrade step: Miscellaneous
+2025-03-08 03:48:39,295 INFO    [plone.app.upgrade:291][waitress-0] Ran upgrade step: Miscellaneous
+2025-03-08 03:48:39,295 INFO    [plone.app.upgrade:291][waitress-0] Ran upgrade step: Miscellaneous
+2025-03-08 03:48:39,296 INFO    [plone.app.upgrade.v60.final:317][waitress-0] 0 globs were fixed
+2025-03-08 03:48:39,296 INFO    [plone.app.upgrade.v60.final:317][waitress-0] 0 globs were fixed
+2025-03-08 03:48:39,296 INFO    [plone.app.upgrade:291][waitress-0] Ran upgrade step: Miscellaneous
+2025-03-08 03:48:39,296 INFO    [plone.app.upgrade:291][waitress-0] Ran upgrade step: Miscellaneous
+2025-03-08 03:48:39,296 INFO    [plone.app.upgrade:304][waitress-0] End of upgrade path, main migration has finished.
+2025-03-08 03:48:39,296 INFO    [plone.app.upgrade:304][waitress-0] End of upgrade path, main migration has finished.
+2025-03-08 03:48:39,297 INFO    [plone.app.upgrade:310][waitress-0] Starting upgrade of core addons.
+2025-03-08 03:48:39,297 INFO    [plone.app.upgrade:310][waitress-0] Starting upgrade of core addons.
+2025-03-08 03:48:39,299 INFO    [plone.volto:190][waitress-0] Ignoring plone.robots_txt registry as it was modified in this portal.
+2025-03-08 03:48:39,299 INFO    [plone.volto:190][waitress-0] Ignoring plone.robots_txt registry as it was modified in this portal.
+2025-03-08 03:48:39,299 INFO    [Products.GenericSetup.tool:1200][waitress-0] Profile plone.volto:default upgraded to version '1019'.
+2025-03-08 03:48:39,299 INFO    [plone.app.upgrade:312][waitress-0] Done upgrading core addons.
+2025-03-08 03:48:39,299 INFO    [plone.app.upgrade:312][waitress-0] Done upgrading core addons.
+2025-03-08 03:48:39,299 INFO    [plone.app.upgrade:351][waitress-0] Your Plone instance is now up-to-date.
+2025-03-08 03:48:39,299 INFO    [plone.app.upgrade:351][waitress-0] Your Plone instance is now up-to-date.
