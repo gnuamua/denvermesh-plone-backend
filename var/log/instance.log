@@ -16998,3 +16998,55 @@ See https://pypi.org/project/Products.PrintingMailHost
 2025-03-08 02:00:24,317 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
 2025-03-08 02:00:24,435 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
 2025-03-08 02:09:32,792 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-03-08 02:13:26,536 INFO    [chameleon.config:39][MainThread] directory cache: /home/gnuamua/radio/denverMesh/denvermesh-plone-backend/var/cache.
+2025-03-08 02:13:29,782 WARNING [Products.PDBDebugMode:31][MainThread] 
+
+******************************************************************************
+
+Debug-Mode enabled!
+
+This will result in a pdb when a exception happens.
+Turn off debug mode or remove Products.PDBDebugMode to disable.
+
+See https://pypi.python.org/pypi/Products.PDBDebugMode
+
+******************************************************************************
+
+2025-03-08 02:13:30,026 INFO    [pas.plugins.authomatic:147][MainThread] Patched authomatic.providers.BaseProvider._fetch
+2025-03-08 02:13:30,027 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-03-08 02:13:30,027 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-03-08 02:13:31,644 INFO    [plone.volto:23][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-03-08 02:13:31,644 INFO    [plone.volto:23][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-03-08 02:13:32,464 WARNING [PrintingMailHost:32][MainThread] Hold on to your hats folks, I'm a-patchin'
+2025-03-08 02:13:32,465 WARNING [PrintingMailHost:147][MainThread] 
+
+******************************************************************************
+
+Monkey patching MailHosts to print e-mails to the terminal.
+
+This is instead of sending them.
+
+NO MAIL WILL BE SENT FROM ZOPE AT ALL!
+
+Turn off debug mode or remove Products.PrintingMailHost from the eggs
+or remove ENABLE_PRINTING_MAILHOST from the environment variables to
+return to normal e-mail sending.
+
+See https://pypi.org/project/Products.PrintingMailHost
+
+******************************************************************************
+
+2025-03-08 02:13:32,484 INFO    [Zope:42][MainThread] Ready to handle requests
+2025-03-08 02:13:32,485 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-03-08 02:13:32,485 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-03-08 02:13:51,017 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-03-08 02:13:51,025 WARNING [waitress.queue:113][MainThread] Task queue depth is 2
+2025-03-08 02:13:51,028 WARNING [waitress.queue:113][MainThread] Task queue depth is 2
+2025-03-08 02:13:51,033 WARNING [waitress.queue:113][MainThread] Task queue depth is 2
+2025-03-08 02:13:51,117 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-03-08 02:13:51,128 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-03-08 02:13:51,130 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-03-08 02:13:51,132 WARNING [waitress.queue:113][MainThread] Task queue depth is 2
+2025-03-08 02:15:03,099 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-03-08 02:15:03,850 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-03-08 02:15:03,954 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
