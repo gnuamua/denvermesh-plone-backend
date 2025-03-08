@@ -15096,3 +15096,1905 @@ See https://pypi.org/project/Products.PrintingMailHost
 2025-01-07 03:28:19,102 INFO    [Zope:42][MainThread] Ready to handle requests
 2025-01-07 03:28:19,103 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
 2025-01-07 03:28:19,103 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-01-07 03:29:47,711 INFO    [chameleon.config:39][MainThread] directory cache: /home/gnuamua/radio/denverMesh/denvermesh-plone-backend/var/cache.
+2025-01-07 03:29:50,659 WARNING [Products.PDBDebugMode:31][MainThread] 
+
+******************************************************************************
+
+Debug-Mode enabled!
+
+This will result in a pdb when a exception happens.
+Turn off debug mode or remove Products.PDBDebugMode to disable.
+
+See https://pypi.python.org/pypi/Products.PDBDebugMode
+
+******************************************************************************
+
+2025-01-07 03:29:50,899 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-01-07 03:29:50,899 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-01-07 03:29:52,212 INFO    [plone.volto:23][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-01-07 03:29:52,212 INFO    [plone.volto:23][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-01-07 03:29:52,962 WARNING [PrintingMailHost:32][MainThread] Hold on to your hats folks, I'm a-patchin'
+2025-01-07 03:29:52,962 WARNING [PrintingMailHost:147][MainThread] 
+
+******************************************************************************
+
+Monkey patching MailHosts to print e-mails to the terminal.
+
+This is instead of sending them.
+
+NO MAIL WILL BE SENT FROM ZOPE AT ALL!
+
+Turn off debug mode or remove Products.PrintingMailHost from the eggs
+or remove ENABLE_PRINTING_MAILHOST from the environment variables to
+return to normal e-mail sending.
+
+See https://pypi.org/project/Products.PrintingMailHost
+
+******************************************************************************
+
+2025-01-07 03:29:52,983 INFO    [Zope:42][MainThread] Ready to handle requests
+2025-01-07 03:29:52,984 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-01-07 03:29:52,984 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-01-07 03:51:51,607 INFO    [chameleon.config:39][MainThread] directory cache: /home/gnuamua/radio/denverMesh/denvermesh-plone-backend/var/cache.
+2025-01-07 03:51:55,086 WARNING [Products.PDBDebugMode:31][MainThread] 
+
+******************************************************************************
+
+Debug-Mode enabled!
+
+This will result in a pdb when a exception happens.
+Turn off debug mode or remove Products.PDBDebugMode to disable.
+
+See https://pypi.python.org/pypi/Products.PDBDebugMode
+
+******************************************************************************
+
+2025-01-07 03:51:55,400 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-01-07 03:51:55,400 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-01-07 03:57:59,327 INFO    [chameleon.config:39][MainThread] directory cache: /home/gnuamua/radio/denverMesh/denvermesh-plone-backend/var/cache.
+2025-01-07 03:58:02,426 WARNING [Products.PDBDebugMode:31][MainThread] 
+
+******************************************************************************
+
+Debug-Mode enabled!
+
+This will result in a pdb when a exception happens.
+Turn off debug mode or remove Products.PDBDebugMode to disable.
+
+See https://pypi.python.org/pypi/Products.PDBDebugMode
+
+******************************************************************************
+
+2025-01-07 03:58:02,612 INFO    [pas.plugins.authomatic:147][MainThread] Patched authomatic.providers.BaseProvider._fetch
+2025-01-07 03:58:02,613 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-01-07 03:58:02,613 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-01-07 04:01:58,260 INFO    [chameleon.config:39][MainThread] directory cache: /home/gnuamua/radio/denverMesh/denvermesh-plone-backend/var/cache.
+2025-01-07 04:02:01,351 WARNING [Products.PDBDebugMode:31][MainThread] 
+
+******************************************************************************
+
+Debug-Mode enabled!
+
+This will result in a pdb when a exception happens.
+Turn off debug mode or remove Products.PDBDebugMode to disable.
+
+See https://pypi.python.org/pypi/Products.PDBDebugMode
+
+******************************************************************************
+
+2025-01-07 04:02:01,560 INFO    [pas.plugins.authomatic:147][MainThread] Patched authomatic.providers.BaseProvider._fetch
+2025-01-07 04:02:01,561 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-01-07 04:02:01,561 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-01-07 04:02:02,970 INFO    [plone.volto:23][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-01-07 04:02:02,970 INFO    [plone.volto:23][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-01-07 04:02:03,844 WARNING [PrintingMailHost:32][MainThread] Hold on to your hats folks, I'm a-patchin'
+2025-01-07 04:02:03,845 WARNING [PrintingMailHost:147][MainThread] 
+
+******************************************************************************
+
+Monkey patching MailHosts to print e-mails to the terminal.
+
+This is instead of sending them.
+
+NO MAIL WILL BE SENT FROM ZOPE AT ALL!
+
+Turn off debug mode or remove Products.PrintingMailHost from the eggs
+or remove ENABLE_PRINTING_MAILHOST from the environment variables to
+return to normal e-mail sending.
+
+See https://pypi.org/project/Products.PrintingMailHost
+
+******************************************************************************
+
+2025-01-07 04:02:03,863 INFO    [Zope:42][MainThread] Ready to handle requests
+2025-01-07 04:02:03,864 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-01-07 04:02:03,864 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-01-07 04:02:42,967 INFO    [plone.app.upgrade:285][waitress-0] Starting the migration from version: 6022
+2025-01-07 04:02:42,967 INFO    [plone.app.upgrade:285][waitress-0] Starting the migration from version: 6022
+2025-01-07 04:02:42,967 INFO    [plone.app.upgrade:291][waitress-0] Ran upgrade step: Miscellaneous
+2025-01-07 04:02:42,967 INFO    [plone.app.upgrade:291][waitress-0] Ran upgrade step: Miscellaneous
+2025-01-07 04:02:42,967 INFO    [plone.app.upgrade:291][waitress-0] Ran upgrade step: Miscellaneous
+2025-01-07 04:02:42,967 INFO    [plone.app.upgrade:291][waitress-0] Ran upgrade step: Miscellaneous
+2025-01-07 04:02:42,967 INFO    [plone.app.upgrade:291][waitress-0] Ran upgrade step: Miscellaneous
+2025-01-07 04:02:42,967 INFO    [plone.app.upgrade:291][waitress-0] Ran upgrade step: Miscellaneous
+2025-01-07 04:02:42,967 INFO    [plone.app.upgrade:304][waitress-0] End of upgrade path, main migration has finished.
+2025-01-07 04:02:42,967 INFO    [plone.app.upgrade:304][waitress-0] End of upgrade path, main migration has finished.
+2025-01-07 04:02:42,967 INFO    [plone.app.upgrade:310][waitress-0] Starting upgrade of core addons.
+2025-01-07 04:02:42,967 INFO    [plone.app.upgrade:310][waitress-0] Starting upgrade of core addons.
+2025-01-07 04:02:42,969 INFO    [Products.GenericSetup.tool:1421][waitress-0] Importing profile profile-plone.app.discussion:to_2002 with dependency strategy ignore.
+2025-01-07 04:02:42,969 INFO    [Products.GenericSetup.tool:1462][waitress-0] Applying main profile profile-plone.app.discussion:to_2002
+2025-01-07 04:02:42,972 INFO    [GenericSetup.rolemap:98][waitress-0] Role / permission map imported.
+2025-01-07 04:02:42,994 INFO    [GenericSetup.types:98][waitress-0] 'Discussion Item' type info imported.
+2025-01-07 04:02:42,998 INFO    [Products.CMFPlone.resources.browser.resource:320][waitress-0] Updated resource registry mtime.
+2025-01-07 04:02:42,998 INFO    [Products.GenericSetup.tool:1200][waitress-0] Profile plone.app.discussion:default upgraded to version '2002'.
+2025-01-07 04:02:43,000 INFO    [plone.app.upgrade:312][waitress-0] Done upgrading core addons.
+2025-01-07 04:02:43,000 INFO    [plone.app.upgrade:312][waitress-0] Done upgrading core addons.
+2025-01-07 04:02:43,000 INFO    [plone.app.upgrade:351][waitress-0] Your Plone instance is now up-to-date.
+2025-01-07 04:02:43,000 INFO    [plone.app.upgrade:351][waitress-0] Your Plone instance is now up-to-date.
+2025-01-07 04:02:46,894 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-07 04:02:46,894 WARNING [waitress.queue:113][MainThread] Task queue depth is 2
+2025-01-07 04:02:46,960 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-07 04:02:46,982 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-07 04:02:46,984 WARNING [waitress.queue:113][MainThread] Task queue depth is 2
+2025-01-07 04:03:44,907 INFO    [plone.protect:32][waitress-1] auto rotating keyring _forms
+2025-01-07 04:03:44,907 INFO    [plone.protect:32][waitress-1] auto rotating keyring _forms
+2025-01-07 04:03:44,907 INFO    [plone.protect:32][waitress-1] auto rotating keyring _anon
+2025-01-07 04:03:44,907 INFO    [plone.protect:32][waitress-1] auto rotating keyring _anon
+2025-01-07 04:03:44,925 INFO    [plone.protect:32][waitress-1] auto rotating keyring _forms
+2025-01-07 04:03:44,925 INFO    [plone.protect:32][waitress-1] auto rotating keyring _forms
+2025-01-07 04:03:44,926 INFO    [plone.protect:32][waitress-1] auto rotating keyring _anon
+2025-01-07 04:03:44,926 INFO    [plone.protect:32][waitress-1] auto rotating keyring _anon
+2025-01-07 04:05:10,226 INFO    [Products.GenericSetup.tool:1421][waitress-3] Importing profile profile-collective.volto.dropdownmenu:uninstall with dependency strategy upgrade.
+2025-01-07 04:05:10,226 INFO    [Products.GenericSetup.tool:1462][waitress-3] Applying main profile profile-collective.volto.dropdownmenu:uninstall
+2025-01-07 04:05:10,228 INFO    [GenericSetup.rolemap:98][waitress-3] Role / permission map imported.
+2025-01-07 04:05:10,231 INFO    [GenericSetup.browserlayer:98][waitress-3] Browser layers imported
+2025-01-07 04:05:10,232 INFO    [GenericSetup.controlpanel:98][waitress-3] Control panel imported.
+2025-01-07 04:05:10,243 INFO    [GenericSetup.plone.app.registry:98][waitress-3] Removed record collective.volto.dropdownmenu.interfaces.IDropDownMenu.menu_configuration.
+2025-01-07 04:05:10,244 INFO    [Products.CMFPlone.resources.browser.resource:320][waitress-3] Updated resource registry mtime.
+2025-01-07 04:05:10,250 WARNING [waitress:339][waitress-3] application-written content was ignored due to HTTP response that may not contain a message-body: (204 No Content)
+2025-01-07 04:05:10,250 WARNING [waitress:339][waitress-3] application-written content was ignored due to HTTP response that may not contain a message-body: (204 No Content)
+2025-01-07 04:05:49,421 ERROR   [Zope.SiteErrorLog:17][waitress-2] KeyError: http://localhost:3000/@dropdown-menu
+Traceback (innermost last):
+  Module ZPublisher.WSGIPublisher, line 181, in transaction_pubevents
+  Module ZPublisher.WSGIPublisher, line 390, in publish_module
+  Module ZPublisher.WSGIPublisher, line 284, in publish
+  Module ZPublisher.mapply, line 98, in mapply
+  Module Products.PDBDebugMode.wsgi_runcall, line 60, in pdb_runcall
+  Module plone.rest.service, line 21, in __call__
+  Module plone.restapi.services, line 19, in render
+  Module collective.volto.dropdownmenu.restapi.dropdown_menu.get, line 34, in reply
+  Module decorator, line 232, in fun
+  Module plone.api.validation, line 73, in wrapped
+  Module plone.api.portal, line 283, in get_registry_record
+  Module plone.registry.registry, line 36, in __getitem__
+KeyError: 'collective.volto.dropdownmenu.interfaces.IDropDownMenu.menu_configuration'
+2025-01-07 04:06:03,107 ERROR   [Zope.SiteErrorLog:17][waitress-2] KeyError: http://localhost:3000/@dropdown-menu
+Traceback (innermost last):
+  Module ZPublisher.WSGIPublisher, line 181, in transaction_pubevents
+  Module ZPublisher.WSGIPublisher, line 390, in publish_module
+  Module ZPublisher.WSGIPublisher, line 284, in publish
+  Module ZPublisher.mapply, line 98, in mapply
+  Module Products.PDBDebugMode.wsgi_runcall, line 60, in pdb_runcall
+  Module plone.rest.service, line 21, in __call__
+  Module plone.restapi.services, line 19, in render
+  Module collective.volto.dropdownmenu.restapi.dropdown_menu.get, line 34, in reply
+  Module decorator, line 232, in fun
+  Module plone.api.validation, line 73, in wrapped
+  Module plone.api.portal, line 283, in get_registry_record
+  Module plone.registry.registry, line 36, in __getitem__
+KeyError: 'collective.volto.dropdownmenu.interfaces.IDropDownMenu.menu_configuration'
+2025-01-07 04:06:03,121 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-07 04:06:03,145 ERROR   [Zope.SiteErrorLog:17][waitress-0] KeyError: http://localhost:3000/@dropdown-menu
+Traceback (innermost last):
+  Module ZPublisher.WSGIPublisher, line 181, in transaction_pubevents
+  Module ZPublisher.WSGIPublisher, line 390, in publish_module
+  Module ZPublisher.WSGIPublisher, line 284, in publish
+  Module ZPublisher.mapply, line 98, in mapply
+  Module Products.PDBDebugMode.wsgi_runcall, line 60, in pdb_runcall
+  Module plone.rest.service, line 21, in __call__
+  Module plone.restapi.services, line 19, in render
+  Module collective.volto.dropdownmenu.restapi.dropdown_menu.get, line 34, in reply
+  Module decorator, line 232, in fun
+  Module plone.api.validation, line 73, in wrapped
+  Module plone.api.portal, line 283, in get_registry_record
+  Module plone.registry.registry, line 36, in __getitem__
+KeyError: 'collective.volto.dropdownmenu.interfaces.IDropDownMenu.menu_configuration'
+2025-01-07 04:06:04,140 ERROR   [waitress:38][waitress-0] Exception while serving /VirtualHostBase/http/localhost:3000/Plone/++api++/VirtualHostRoot/@dropdown-menu
+Traceback (most recent call last):
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/Zope-5.11.1-py3.9.egg/ZPublisher/WSGIPublisher.py", line 181, in transaction_pubevents
+    yield
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/Zope-5.11.1-py3.9.egg/ZPublisher/WSGIPublisher.py", line 390, in publish_module
+    response = _publish(request, new_mod_info)
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/Zope-5.11.1-py3.9.egg/ZPublisher/WSGIPublisher.py", line 284, in publish
+    result = mapply(obj,
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/Zope-5.11.1-py3.9.egg/ZPublisher/mapply.py", line 98, in mapply
+    return debug(object, args, context)
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/Products.PDBDebugMode-2.0-py3.9-linux-x86_64.egg/Products/PDBDebugMode/wsgi_runcall.py", line 60, in pdb_runcall
+    return obj(*args)
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/plone.rest-4.1.3-py3.9.egg/plone/rest/service.py", line 21, in __call__
+    return self.render()
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/plone.restapi-9.9.0-py3.9.egg/plone/restapi/services/__init__.py", line 19, in render
+    content = self.reply()
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/collective.volto.dropdownmenu-1.3.2-py3.9.egg/collective/volto/dropdownmenu/restapi/dropdown_menu/get.py", line 34, in reply
+    record = api.portal.get_registry_record(
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/decorator-5.1.1-py3.9.egg/decorator.py", line 232, in fun
+    return caller(func, *(extras + args), **kw)
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/plone.api-2.2.4-py3.9.egg/plone/api/validation.py", line 73, in wrapped
+    return function(*args, **kwargs)
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/plone.api-2.2.4-py3.9.egg/plone/api/portal.py", line 283, in get_registry_record
+    return registry[f"{interface.__identifier__}.{name}"]
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/plone.registry-2.0.1-py3.9.egg/plone/registry/registry.py", line 36, in __getitem__
+    return self.records._values[name]
+KeyError: 'collective.volto.dropdownmenu.interfaces.IDropDownMenu.menu_configuration'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/waitress-3.0.2-py3.9.egg/waitress/channel.py", line 430, in service
+    task.service()
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/waitress-3.0.2-py3.9.egg/waitress/task.py", line 167, in service
+    self.execute()
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/waitress-3.0.2-py3.9.egg/waitress/task.py", line 435, in execute
+    app_iter = self.channel.server.application(environ, start_response)
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/Paste-3.10.1-py3.9.egg/paste/translogger.py", line 76, in __call__
+    return self.application(environ, replacement_start_response)
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/Zope-5.11.1-py3.9.egg/ZPublisher/httpexceptions.py", line 30, in __call__
+    return self.application(environ, start_response)
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/Zope-5.11.1-py3.9.egg/ZPublisher/WSGIPublisher.py", line 395, in publish_module
+    environ['REMOTE_USER'] = user.getUserName()
+  File "/usr/lib64/python3.9/contextlib.py", line 137, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/Zope-5.11.1-py3.9.egg/ZPublisher/WSGIPublisher.py", line 235, in transaction_pubevents
+    notify(pubevents.PubFailure(request, exc_info, retry))
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/zope.event-5.0-py3.9.egg/zope/event/__init__.py", line 33, in notify
+    subscriber(event)
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/zope.component-6.0-py3.9.egg/zope/component/event.py", line 27, in dispatch
+    component_subscribers(event, None)
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/zope.component-6.0-py3.9.egg/zope/component/_api.py", line 146, in subscribers
+    return sitemanager.subscribers(objects, interface)
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/zope.interface-7.1.1-py3.9-linux-x86_64.egg/zope/interface/registry.py", line 458, in subscribers
+    return self.adapters.subscribers(objects, provided)
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/zope.interface-7.1.1-py3.9-linux-x86_64.egg/zope/interface/adapter.py", line 918, in subscribers
+    subscription(*objects)
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/Products.SiteErrorLog-6.0-py3.9.egg/Products/SiteErrorLog/SiteErrorLog.py", line 359, in IPubFailureSubscriber
+    error_log.raising(event.exc_info)
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/Products.PDBDebugMode-2.0-py3.9-linux-x86_64.egg/Products/PDBDebugMode/errorlog.py", line 23, in raising
+    del SiteErrorLog.LOG.error
+AttributeError: error
+2025-01-07 04:06:04,140 ERROR   [waitress:38][waitress-0] Exception while serving /VirtualHostBase/http/localhost:3000/Plone/++api++/VirtualHostRoot/@dropdown-menu
+Traceback (most recent call last):
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/Zope-5.11.1-py3.9.egg/ZPublisher/WSGIPublisher.py", line 181, in transaction_pubevents
+    yield
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/Zope-5.11.1-py3.9.egg/ZPublisher/WSGIPublisher.py", line 390, in publish_module
+    response = _publish(request, new_mod_info)
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/Zope-5.11.1-py3.9.egg/ZPublisher/WSGIPublisher.py", line 284, in publish
+    result = mapply(obj,
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/Zope-5.11.1-py3.9.egg/ZPublisher/mapply.py", line 98, in mapply
+    return debug(object, args, context)
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/Products.PDBDebugMode-2.0-py3.9-linux-x86_64.egg/Products/PDBDebugMode/wsgi_runcall.py", line 60, in pdb_runcall
+    return obj(*args)
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/plone.rest-4.1.3-py3.9.egg/plone/rest/service.py", line 21, in __call__
+    return self.render()
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/plone.restapi-9.9.0-py3.9.egg/plone/restapi/services/__init__.py", line 19, in render
+    content = self.reply()
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/collective.volto.dropdownmenu-1.3.2-py3.9.egg/collective/volto/dropdownmenu/restapi/dropdown_menu/get.py", line 34, in reply
+    record = api.portal.get_registry_record(
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/decorator-5.1.1-py3.9.egg/decorator.py", line 232, in fun
+    return caller(func, *(extras + args), **kw)
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/plone.api-2.2.4-py3.9.egg/plone/api/validation.py", line 73, in wrapped
+    return function(*args, **kwargs)
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/plone.api-2.2.4-py3.9.egg/plone/api/portal.py", line 283, in get_registry_record
+    return registry[f"{interface.__identifier__}.{name}"]
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/plone.registry-2.0.1-py3.9.egg/plone/registry/registry.py", line 36, in __getitem__
+    return self.records._values[name]
+KeyError: 'collective.volto.dropdownmenu.interfaces.IDropDownMenu.menu_configuration'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/waitress-3.0.2-py3.9.egg/waitress/channel.py", line 430, in service
+    task.service()
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/waitress-3.0.2-py3.9.egg/waitress/task.py", line 167, in service
+    self.execute()
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/waitress-3.0.2-py3.9.egg/waitress/task.py", line 435, in execute
+    app_iter = self.channel.server.application(environ, start_response)
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/Paste-3.10.1-py3.9.egg/paste/translogger.py", line 76, in __call__
+    return self.application(environ, replacement_start_response)
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/Zope-5.11.1-py3.9.egg/ZPublisher/httpexceptions.py", line 30, in __call__
+    return self.application(environ, start_response)
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/Zope-5.11.1-py3.9.egg/ZPublisher/WSGIPublisher.py", line 395, in publish_module
+    environ['REMOTE_USER'] = user.getUserName()
+  File "/usr/lib64/python3.9/contextlib.py", line 137, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/Zope-5.11.1-py3.9.egg/ZPublisher/WSGIPublisher.py", line 235, in transaction_pubevents
+    notify(pubevents.PubFailure(request, exc_info, retry))
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/zope.event-5.0-py3.9.egg/zope/event/__init__.py", line 33, in notify
+    subscriber(event)
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/zope.component-6.0-py3.9.egg/zope/component/event.py", line 27, in dispatch
+    component_subscribers(event, None)
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/zope.component-6.0-py3.9.egg/zope/component/_api.py", line 146, in subscribers
+    return sitemanager.subscribers(objects, interface)
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/zope.interface-7.1.1-py3.9-linux-x86_64.egg/zope/interface/registry.py", line 458, in subscribers
+    return self.adapters.subscribers(objects, provided)
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/zope.interface-7.1.1-py3.9-linux-x86_64.egg/zope/interface/adapter.py", line 918, in subscribers
+    subscription(*objects)
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/Products.SiteErrorLog-6.0-py3.9.egg/Products/SiteErrorLog/SiteErrorLog.py", line 359, in IPubFailureSubscriber
+    error_log.raising(event.exc_info)
+  File "/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/Products.PDBDebugMode-2.0-py3.9-linux-x86_64.egg/Products/PDBDebugMode/errorlog.py", line 23, in raising
+    del SiteErrorLog.LOG.error
+AttributeError: error
+2025-01-07 04:06:09,199 INFO    [chameleon.config:39][MainThread] directory cache: /home/gnuamua/radio/denverMesh/denvermesh-plone-backend/var/cache.
+2025-01-07 04:06:12,125 WARNING [Products.PDBDebugMode:31][MainThread] 
+
+******************************************************************************
+
+Debug-Mode enabled!
+
+This will result in a pdb when a exception happens.
+Turn off debug mode or remove Products.PDBDebugMode to disable.
+
+See https://pypi.python.org/pypi/Products.PDBDebugMode
+
+******************************************************************************
+
+2025-01-07 04:06:12,327 INFO    [pas.plugins.authomatic:147][MainThread] Patched authomatic.providers.BaseProvider._fetch
+2025-01-07 04:06:12,327 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-01-07 04:06:12,327 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-01-07 04:06:13,660 INFO    [plone.volto:23][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-01-07 04:06:13,660 INFO    [plone.volto:23][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-01-07 04:06:14,421 WARNING [PrintingMailHost:32][MainThread] Hold on to your hats folks, I'm a-patchin'
+2025-01-07 04:06:14,421 WARNING [PrintingMailHost:147][MainThread] 
+
+******************************************************************************
+
+Monkey patching MailHosts to print e-mails to the terminal.
+
+This is instead of sending them.
+
+NO MAIL WILL BE SENT FROM ZOPE AT ALL!
+
+Turn off debug mode or remove Products.PrintingMailHost from the eggs
+or remove ENABLE_PRINTING_MAILHOST from the environment variables to
+return to normal e-mail sending.
+
+See https://pypi.org/project/Products.PrintingMailHost
+
+******************************************************************************
+
+2025-01-07 04:06:14,438 INFO    [Zope:42][MainThread] Ready to handle requests
+2025-01-07 04:06:14,440 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-01-07 04:06:14,440 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-01-07 04:06:29,908 ERROR   [Zope.SiteErrorLog:17][waitress-1] KeyError: http://localhost:3000/@dropdown-menu
+Traceback (innermost last):
+  Module ZPublisher.WSGIPublisher, line 181, in transaction_pubevents
+  Module ZPublisher.WSGIPublisher, line 390, in publish_module
+  Module ZPublisher.WSGIPublisher, line 284, in publish
+  Module ZPublisher.mapply, line 98, in mapply
+  Module Products.PDBDebugMode.wsgi_runcall, line 60, in pdb_runcall
+  Module plone.rest.service, line 21, in __call__
+  Module plone.restapi.services, line 19, in render
+  Module collective.volto.dropdownmenu.restapi.dropdown_menu.get, line 34, in reply
+  Module decorator, line 232, in fun
+  Module plone.api.validation, line 73, in wrapped
+  Module plone.api.portal, line 283, in get_registry_record
+  Module plone.registry.registry, line 36, in __getitem__
+KeyError: 'collective.volto.dropdownmenu.interfaces.IDropDownMenu.menu_configuration'
+2025-01-07 04:09:16,908 INFO    [chameleon.config:39][MainThread] directory cache: /home/gnuamua/radio/denverMesh/denvermesh-plone-backend/var/cache.
+2025-01-07 04:09:20,067 WARNING [Products.PDBDebugMode:31][MainThread] 
+
+******************************************************************************
+
+Debug-Mode enabled!
+
+This will result in a pdb when a exception happens.
+Turn off debug mode or remove Products.PDBDebugMode to disable.
+
+See https://pypi.python.org/pypi/Products.PDBDebugMode
+
+******************************************************************************
+
+2025-01-07 04:09:20,276 INFO    [pas.plugins.authomatic:147][MainThread] Patched authomatic.providers.BaseProvider._fetch
+2025-01-07 04:09:20,277 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-01-07 04:09:20,277 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-01-07 04:09:21,679 INFO    [plone.volto:23][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-01-07 04:09:21,679 INFO    [plone.volto:23][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-01-07 04:09:22,451 WARNING [PrintingMailHost:32][MainThread] Hold on to your hats folks, I'm a-patchin'
+2025-01-07 04:09:22,451 WARNING [PrintingMailHost:147][MainThread] 
+
+******************************************************************************
+
+Monkey patching MailHosts to print e-mails to the terminal.
+
+This is instead of sending them.
+
+NO MAIL WILL BE SENT FROM ZOPE AT ALL!
+
+Turn off debug mode or remove Products.PrintingMailHost from the eggs
+or remove ENABLE_PRINTING_MAILHOST from the environment variables to
+return to normal e-mail sending.
+
+See https://pypi.org/project/Products.PrintingMailHost
+
+******************************************************************************
+
+2025-01-07 04:09:22,470 INFO    [Zope:42][MainThread] Ready to handle requests
+2025-01-07 04:09:22,471 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-01-07 04:09:22,471 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-01-07 04:09:54,631 WARNING [plone.restapi.search.query:119][waitress-0] No such index: 'show_inactive'
+2025-01-07 04:09:54,631 WARNING [plone.restapi.search.query:119][waitress-0] No such index: 'show_inactive'
+2025-01-07 04:18:16,409 INFO    [collective.volto.formsupport:229][waitress-3] ### START UPGRADE SEND FROM STRING TO ARRAY ###
+2025-01-07 04:18:16,410 INFO    [collective.volto.formsupport:56][waitress-3] Progress: 1/21
+2025-01-07 04:18:16,424 INFO    [collective.volto.formsupport:221][waitress-3] [CONVERTED] - <FolderishDocument at contact> form send value from True to ['recipient']
+2025-01-07 04:18:16,424 INFO    [collective.volto.formsupport:236][waitress-3] ### FINISHED UPGRADE SEND FROM STRING TO ARRAY ###
+2025-01-07 04:18:16,426 INFO    [Products.GenericSetup.tool:1421][waitress-3] Importing profile profile-collective.volto.otp:default with dependency strategy upgrade.
+2025-01-07 04:18:16,426 INFO    [Products.GenericSetup.tool:1462][waitress-3] Applying main profile profile-collective.volto.otp:default
+2025-01-07 04:18:16,428 INFO    [GenericSetup.rolemap:98][waitress-3] Role / permission map imported.
+2025-01-07 04:18:16,432 INFO    [GenericSetup.browserlayer:98][waitress-3] Browser layers imported
+2025-01-07 04:18:16,433 INFO    [GenericSetup.catalog:98][waitress-3] Catalog imported.
+2025-01-07 04:18:16,450 INFO    [Products.CMFPlone.resources.browser.resource:320][waitress-3] Updated resource registry mtime.
+2025-01-07 04:18:16,450 INFO    [plone.app.upgrade:187][waitress-3] Installed collective.volto.otp
+2025-01-07 04:18:16,450 INFO    [plone.app.upgrade:187][waitress-3] Installed collective.volto.otp
+2025-01-07 04:18:16,450 INFO    [Products.GenericSetup.tool:1200][waitress-3] Profile collective.volto.formsupport:default upgraded to version '1301'.
+2025-01-07 04:18:16,455 WARNING [waitress:339][waitress-3] application-written content was ignored due to HTTP response that may not contain a message-body: (204 No Content)
+2025-01-07 04:18:16,455 WARNING [waitress:339][waitress-3] application-written content was ignored due to HTTP response that may not contain a message-body: (204 No Content)
+2025-01-07 04:18:29,327 INFO    [Products.GenericSetup.tool:1421][waitress-2] Importing profile profile-collective.easyform.upgrades:1016 with dependency strategy ignore.
+2025-01-07 04:18:29,327 INFO    [Products.GenericSetup.tool:1462][waitress-2] Applying main profile profile-collective.easyform.upgrades:1016
+2025-01-07 04:18:29,329 INFO    [GenericSetup.rolemap:98][waitress-2] Role / permission map imported.
+2025-01-07 04:18:29,332 INFO    [GenericSetup.actions:98][waitress-2] Actions tool imported.
+2025-01-07 04:18:29,346 INFO    [Products.CMFPlone.resources.browser.resource:320][waitress-2] Updated resource registry mtime.
+2025-01-07 04:18:29,346 INFO    [Products.GenericSetup.tool:1421][waitress-2] Importing profile profile-collective.easyform.upgrades:1017 with dependency strategy ignore.
+2025-01-07 04:18:29,346 INFO    [Products.GenericSetup.tool:1462][waitress-2] Applying main profile profile-collective.easyform.upgrades:1017
+2025-01-07 04:18:29,347 INFO    [GenericSetup.rolemap:98][waitress-2] Role / permission map imported.
+2025-01-07 04:18:29,348 INFO    [GenericSetup.types:98][waitress-2] 'EasyForm' type info imported.
+2025-01-07 04:18:29,357 INFO    [Products.CMFPlone.resources.browser.resource:320][waitress-2] Updated resource registry mtime.
+2025-01-07 04:18:29,358 INFO    [Products.GenericSetup.tool:1200][waitress-2] Profile collective.easyform:default upgraded to version '1017'.
+2025-01-07 04:18:29,363 WARNING [waitress:339][waitress-2] application-written content was ignored due to HTTP response that may not contain a message-body: (204 No Content)
+2025-01-07 04:18:29,363 WARNING [waitress:339][waitress-2] application-written content was ignored due to HTTP response that may not contain a message-body: (204 No Content)
+2025-01-07 04:19:45,040 WARNING [plone.restapi.search.query:119][waitress-0] No such index: 'show_inactive'
+2025-01-07 04:19:45,040 WARNING [plone.restapi.search.query:119][waitress-0] No such index: 'show_inactive'
+2025-01-07 04:32:23,304 INFO    [chameleon.config:39][MainThread] directory cache: /home/gnuamua/radio/denverMesh/denvermesh-plone-backend/var/cache.
+2025-01-07 04:32:26,245 WARNING [Products.PDBDebugMode:31][MainThread] 
+
+******************************************************************************
+
+Debug-Mode enabled!
+
+This will result in a pdb when a exception happens.
+Turn off debug mode or remove Products.PDBDebugMode to disable.
+
+See https://pypi.python.org/pypi/Products.PDBDebugMode
+
+******************************************************************************
+
+2025-01-07 04:32:26,482 INFO    [pas.plugins.authomatic:147][MainThread] Patched authomatic.providers.BaseProvider._fetch
+2025-01-07 04:32:26,484 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-01-07 04:32:26,484 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-01-07 04:32:28,018 INFO    [plone.volto:23][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-01-07 04:32:28,018 INFO    [plone.volto:23][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-01-07 04:32:28,762 WARNING [PrintingMailHost:32][MainThread] Hold on to your hats folks, I'm a-patchin'
+2025-01-07 04:32:28,762 WARNING [PrintingMailHost:147][MainThread] 
+
+******************************************************************************
+
+Monkey patching MailHosts to print e-mails to the terminal.
+
+This is instead of sending them.
+
+NO MAIL WILL BE SENT FROM ZOPE AT ALL!
+
+Turn off debug mode or remove Products.PrintingMailHost from the eggs
+or remove ENABLE_PRINTING_MAILHOST from the environment variables to
+return to normal e-mail sending.
+
+See https://pypi.org/project/Products.PrintingMailHost
+
+******************************************************************************
+
+2025-01-07 04:32:28,780 INFO    [Zope:42][MainThread] Ready to handle requests
+2025-01-07 04:32:28,781 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-01-07 04:32:28,781 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-01-07 05:19:00,555 WARNING [plone.restapi.search.query:119][waitress-1] No such index: 'show_inactive'
+2025-01-07 05:19:00,555 WARNING [plone.restapi.search.query:119][waitress-1] No such index: 'show_inactive'
+2025-01-07 22:23:59,442 INFO    [Products.CMFPlone.relationhelper:118][waitress-1] 
+Found the following relations:
+isReferencing: 5
+
+2025-01-07 22:23:59,445 INFO    [Products.CMFPlone.relationhelper:137][waitress-1] zc.relation catalog purged.
+2025-01-07 22:23:59,445 INFO    [Products.CMFPlone.relationhelper:336][waitress-1] Clean up intIds.
+2025-01-07 22:23:59,447 INFO    [Products.CMFPlone.relationhelper:342][waitress-1] Counter({'z3c.relationfield.relation.RelationValue': 19, 'plone.volto.content.FolderishDocument': 12, 'plone.app.contenttypes.content.Image': 5, 'plone.app.contenttypes.content.Folder': 3})
+2025-01-07 22:23:59,447 INFO    [Products.CMFPlone.relationhelper:350][waitress-1] Removed all 19 RelationValues from IntId-tool
+2025-01-07 22:23:59,450 INFO    [Products.CMFPlone.relationhelper:357][waitress-1] Removed 0 broken references from IntId-tool
+2025-01-07 22:23:59,450 INFO    [Products.CMFPlone.relationhelper:363][waitress-1] Counter({'plone.volto.content.FolderishDocument': 12, 'plone.app.contenttypes.content.Image': 5, 'plone.app.contenttypes.content.Folder': 3})
+2025-01-07 22:23:59,450 INFO    [Products.CMFPlone.relationhelper:146][waitress-1] Loaded 5 relations to restore.
+2025-01-07 22:23:59,453 INFO    [Products.CMFPlone.relationhelper:276][waitress-1] Updating linkintegrity for 4 items.
+2025-01-07 22:23:59,461 INFO    [Products.CMFPlone.relationhelper:281][waitress-1] Updating relations for 0 items.
+2025-01-07 22:23:59,461 INFO    [Products.CMFPlone.relationhelper:295][waitress-1] All valid relations restored.
+2025-01-07 22:23:59,461 INFO    [Products.CMFPlone.relationhelper:303][waitress-1] 
+Restored relations: 
+isReferencing: 5
+
+2025-01-08 20:16:55,872 INFO    [chameleon.config:39][MainThread] directory cache: /home/gnuamua/radio/denverMesh/denvermesh-plone-backend/var/cache.
+2025-01-08 20:16:59,023 WARNING [Products.PDBDebugMode:31][MainThread] 
+
+******************************************************************************
+
+Debug-Mode enabled!
+
+This will result in a pdb when a exception happens.
+Turn off debug mode or remove Products.PDBDebugMode to disable.
+
+See https://pypi.python.org/pypi/Products.PDBDebugMode
+
+******************************************************************************
+
+2025-01-08 20:16:59,284 INFO    [pas.plugins.authomatic:147][MainThread] Patched authomatic.providers.BaseProvider._fetch
+2025-01-08 20:16:59,286 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-01-08 20:16:59,286 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-01-08 20:17:00,935 INFO    [plone.volto:23][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-01-08 20:17:00,935 INFO    [plone.volto:23][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-01-08 20:17:01,755 WARNING [PrintingMailHost:32][MainThread] Hold on to your hats folks, I'm a-patchin'
+2025-01-08 20:17:01,756 WARNING [PrintingMailHost:147][MainThread] 
+
+******************************************************************************
+
+Monkey patching MailHosts to print e-mails to the terminal.
+
+This is instead of sending them.
+
+NO MAIL WILL BE SENT FROM ZOPE AT ALL!
+
+Turn off debug mode or remove Products.PrintingMailHost from the eggs
+or remove ENABLE_PRINTING_MAILHOST from the environment variables to
+return to normal e-mail sending.
+
+See https://pypi.org/project/Products.PrintingMailHost
+
+******************************************************************************
+
+2025-01-08 20:17:01,774 INFO    [Zope:42][MainThread] Ready to handle requests
+2025-01-08 20:17:01,775 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-01-08 20:17:01,775 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-01-11 21:25:58,549 INFO    [chameleon.config:39][MainThread] directory cache: /home/gnuamua/radio/denverMesh/denvermesh-plone-backend/var/cache.
+2025-01-11 21:26:02,035 WARNING [Products.PDBDebugMode:31][MainThread] 
+
+******************************************************************************
+
+Debug-Mode enabled!
+
+This will result in a pdb when a exception happens.
+Turn off debug mode or remove Products.PDBDebugMode to disable.
+
+See https://pypi.python.org/pypi/Products.PDBDebugMode
+
+******************************************************************************
+
+2025-01-11 21:26:02,322 INFO    [pas.plugins.authomatic:147][MainThread] Patched authomatic.providers.BaseProvider._fetch
+2025-01-11 21:26:02,323 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-01-11 21:26:02,323 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-01-11 21:26:04,079 INFO    [plone.volto:23][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-01-11 21:26:04,079 INFO    [plone.volto:23][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-01-11 21:26:04,933 WARNING [PrintingMailHost:32][MainThread] Hold on to your hats folks, I'm a-patchin'
+2025-01-11 21:26:04,934 WARNING [PrintingMailHost:147][MainThread] 
+
+******************************************************************************
+
+Monkey patching MailHosts to print e-mails to the terminal.
+
+This is instead of sending them.
+
+NO MAIL WILL BE SENT FROM ZOPE AT ALL!
+
+Turn off debug mode or remove Products.PrintingMailHost from the eggs
+or remove ENABLE_PRINTING_MAILHOST from the environment variables to
+return to normal e-mail sending.
+
+See https://pypi.org/project/Products.PrintingMailHost
+
+******************************************************************************
+
+2025-01-11 21:26:04,953 INFO    [Zope:42][MainThread] Ready to handle requests
+2025-01-11 21:26:04,954 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-01-11 21:26:04,954 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-01-11 21:26:27,782 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-11 21:26:27,811 ERROR   [Zope.SiteErrorLog:17][waitress-2] KeyError: http://localhost:3000/@dropdown-menu
+Traceback (innermost last):
+  Module ZPublisher.WSGIPublisher, line 181, in transaction_pubevents
+  Module ZPublisher.WSGIPublisher, line 390, in publish_module
+  Module ZPublisher.WSGIPublisher, line 284, in publish
+  Module ZPublisher.mapply, line 98, in mapply
+  Module Products.PDBDebugMode.wsgi_runcall, line 60, in pdb_runcall
+  Module plone.rest.service, line 21, in __call__
+  Module plone.restapi.services, line 19, in render
+  Module collective.volto.dropdownmenu.restapi.dropdown_menu.get, line 34, in reply
+  Module decorator, line 232, in fun
+  Module plone.api.validation, line 73, in wrapped
+  Module plone.api.portal, line 283, in get_registry_record
+  Module plone.registry.registry, line 36, in __getitem__
+KeyError: 'collective.volto.dropdownmenu.interfaces.IDropDownMenu.menu_configuration'
+2025-01-11 21:26:45,965 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-11 21:26:45,975 ERROR   [Zope.SiteErrorLog:17][waitress-0] KeyError: http://localhost:3000/@dropdown-menu
+Traceback (innermost last):
+  Module ZPublisher.WSGIPublisher, line 181, in transaction_pubevents
+  Module ZPublisher.WSGIPublisher, line 390, in publish_module
+  Module ZPublisher.WSGIPublisher, line 284, in publish
+  Module ZPublisher.mapply, line 98, in mapply
+  Module Products.PDBDebugMode.wsgi_runcall, line 60, in pdb_runcall
+  Module plone.rest.service, line 21, in __call__
+  Module plone.restapi.services, line 19, in render
+  Module collective.volto.dropdownmenu.restapi.dropdown_menu.get, line 34, in reply
+  Module decorator, line 232, in fun
+  Module plone.api.validation, line 73, in wrapped
+  Module plone.api.portal, line 283, in get_registry_record
+  Module plone.registry.registry, line 36, in __getitem__
+KeyError: 'collective.volto.dropdownmenu.interfaces.IDropDownMenu.menu_configuration'
+2025-01-11 21:27:16,386 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-11 21:27:16,394 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-11 21:27:16,414 WARNING [waitress.queue:113][MainThread] Task queue depth is 2
+2025-01-11 21:27:16,431 ERROR   [Zope.SiteErrorLog:17][waitress-3] KeyError: http://localhost:3000/@dropdown-menu
+Traceback (innermost last):
+  Module ZPublisher.WSGIPublisher, line 181, in transaction_pubevents
+  Module ZPublisher.WSGIPublisher, line 390, in publish_module
+  Module ZPublisher.WSGIPublisher, line 284, in publish
+  Module ZPublisher.mapply, line 98, in mapply
+  Module Products.PDBDebugMode.wsgi_runcall, line 60, in pdb_runcall
+  Module plone.rest.service, line 21, in __call__
+  Module plone.restapi.services, line 19, in render
+  Module collective.volto.dropdownmenu.restapi.dropdown_menu.get, line 34, in reply
+  Module decorator, line 232, in fun
+  Module plone.api.validation, line 73, in wrapped
+  Module plone.api.portal, line 283, in get_registry_record
+  Module plone.registry.registry, line 36, in __getitem__
+KeyError: 'collective.volto.dropdownmenu.interfaces.IDropDownMenu.menu_configuration'
+2025-01-11 21:27:16,603 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-11 21:27:16,603 WARNING [waitress.queue:113][MainThread] Task queue depth is 2
+2025-01-11 21:27:16,603 WARNING [waitress.queue:113][MainThread] Task queue depth is 3
+2025-01-11 21:27:16,603 WARNING [waitress.queue:113][MainThread] Task queue depth is 4
+2025-01-11 21:27:16,619 ERROR   [Zope.SiteErrorLog:17][waitress-1] KeyError: http://localhost:3000/@dropdown-menu
+Traceback (innermost last):
+  Module ZPublisher.WSGIPublisher, line 181, in transaction_pubevents
+  Module ZPublisher.WSGIPublisher, line 390, in publish_module
+  Module ZPublisher.WSGIPublisher, line 284, in publish
+  Module ZPublisher.mapply, line 98, in mapply
+  Module Products.PDBDebugMode.wsgi_runcall, line 60, in pdb_runcall
+  Module plone.rest.service, line 21, in __call__
+  Module plone.restapi.services, line 19, in render
+  Module collective.volto.dropdownmenu.restapi.dropdown_menu.get, line 34, in reply
+  Module decorator, line 232, in fun
+  Module plone.api.validation, line 73, in wrapped
+  Module plone.api.portal, line 283, in get_registry_record
+  Module plone.registry.registry, line 36, in __getitem__
+KeyError: 'collective.volto.dropdownmenu.interfaces.IDropDownMenu.menu_configuration'
+2025-01-11 21:27:38,875 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-11 21:27:38,876 WARNING [waitress.queue:113][MainThread] Task queue depth is 2
+2025-01-11 21:27:38,877 WARNING [waitress.queue:113][MainThread] Task queue depth is 3
+2025-01-11 21:27:38,878 WARNING [waitress.queue:113][MainThread] Task queue depth is 4
+2025-01-11 21:27:38,878 WARNING [waitress.queue:113][MainThread] Task queue depth is 5
+2025-01-11 21:27:55,456 INFO    [chameleon.config:39][MainThread] directory cache: /home/gnuamua/radio/denverMesh/denvermesh-plone-backend/var/cache.
+2025-01-11 21:27:58,382 WARNING [Products.PDBDebugMode:31][MainThread] 
+
+******************************************************************************
+
+Debug-Mode enabled!
+
+This will result in a pdb when a exception happens.
+Turn off debug mode or remove Products.PDBDebugMode to disable.
+
+See https://pypi.python.org/pypi/Products.PDBDebugMode
+
+******************************************************************************
+
+2025-01-11 21:27:58,583 INFO    [pas.plugins.authomatic:147][MainThread] Patched authomatic.providers.BaseProvider._fetch
+2025-01-11 21:27:58,584 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-01-11 21:27:58,584 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-01-11 21:27:59,904 INFO    [plone.volto:23][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-01-11 21:27:59,904 INFO    [plone.volto:23][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-01-11 21:28:00,702 WARNING [PrintingMailHost:32][MainThread] Hold on to your hats folks, I'm a-patchin'
+2025-01-11 21:28:00,702 WARNING [PrintingMailHost:147][MainThread] 
+
+******************************************************************************
+
+Monkey patching MailHosts to print e-mails to the terminal.
+
+This is instead of sending them.
+
+NO MAIL WILL BE SENT FROM ZOPE AT ALL!
+
+Turn off debug mode or remove Products.PrintingMailHost from the eggs
+or remove ENABLE_PRINTING_MAILHOST from the environment variables to
+return to normal e-mail sending.
+
+See https://pypi.org/project/Products.PrintingMailHost
+
+******************************************************************************
+
+2025-01-11 21:28:00,721 INFO    [Zope:42][MainThread] Ready to handle requests
+2025-01-11 21:28:00,722 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-01-11 21:28:00,722 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-01-11 21:28:24,328 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-11 21:28:24,550 ERROR   [Zope.SiteErrorLog:17][waitress-0] KeyError: http://localhost:3000/@dropdown-menu
+Traceback (innermost last):
+  Module ZPublisher.WSGIPublisher, line 181, in transaction_pubevents
+  Module ZPublisher.WSGIPublisher, line 390, in publish_module
+  Module ZPublisher.WSGIPublisher, line 284, in publish
+  Module ZPublisher.mapply, line 98, in mapply
+  Module Products.PDBDebugMode.wsgi_runcall, line 60, in pdb_runcall
+  Module plone.rest.service, line 21, in __call__
+  Module plone.restapi.services, line 19, in render
+  Module collective.volto.dropdownmenu.restapi.dropdown_menu.get, line 34, in reply
+  Module decorator, line 232, in fun
+  Module plone.api.validation, line 73, in wrapped
+  Module plone.api.portal, line 283, in get_registry_record
+  Module plone.registry.registry, line 36, in __getitem__
+KeyError: 'collective.volto.dropdownmenu.interfaces.IDropDownMenu.menu_configuration'
+2025-01-11 21:32:46,983 INFO    [chameleon.config:39][MainThread] directory cache: /home/gnuamua/radio/denverMesh/denvermesh-plone-backend/var/cache.
+2025-01-11 21:32:50,057 WARNING [Products.PDBDebugMode:31][MainThread] 
+
+******************************************************************************
+
+Debug-Mode enabled!
+
+This will result in a pdb when a exception happens.
+Turn off debug mode or remove Products.PDBDebugMode to disable.
+
+See https://pypi.python.org/pypi/Products.PDBDebugMode
+
+******************************************************************************
+
+2025-01-11 21:32:50,302 INFO    [pas.plugins.authomatic:147][MainThread] Patched authomatic.providers.BaseProvider._fetch
+2025-01-11 21:32:50,303 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-01-11 21:32:50,303 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-01-11 21:32:51,867 INFO    [plone.volto:23][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-01-11 21:32:51,867 INFO    [plone.volto:23][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-01-11 21:32:52,662 WARNING [PrintingMailHost:32][MainThread] Hold on to your hats folks, I'm a-patchin'
+2025-01-11 21:32:52,663 WARNING [PrintingMailHost:147][MainThread] 
+
+******************************************************************************
+
+Monkey patching MailHosts to print e-mails to the terminal.
+
+This is instead of sending them.
+
+NO MAIL WILL BE SENT FROM ZOPE AT ALL!
+
+Turn off debug mode or remove Products.PrintingMailHost from the eggs
+or remove ENABLE_PRINTING_MAILHOST from the environment variables to
+return to normal e-mail sending.
+
+See https://pypi.org/project/Products.PrintingMailHost
+
+******************************************************************************
+
+2025-01-11 21:32:52,680 INFO    [Zope:42][MainThread] Ready to handle requests
+2025-01-11 21:32:52,681 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-01-11 21:32:52,681 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-01-11 21:33:31,843 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-11 21:33:32,053 ERROR   [Zope.SiteErrorLog:17][waitress-0] KeyError: http://localhost:3000/@dropdown-menu
+Traceback (innermost last):
+  Module ZPublisher.WSGIPublisher, line 181, in transaction_pubevents
+  Module ZPublisher.WSGIPublisher, line 390, in publish_module
+  Module ZPublisher.WSGIPublisher, line 284, in publish
+  Module ZPublisher.mapply, line 98, in mapply
+  Module Products.PDBDebugMode.wsgi_runcall, line 60, in pdb_runcall
+  Module plone.rest.service, line 21, in __call__
+  Module plone.restapi.services, line 19, in render
+  Module collective.volto.dropdownmenu.restapi.dropdown_menu.get, line 34, in reply
+  Module decorator, line 232, in fun
+  Module plone.api.validation, line 73, in wrapped
+  Module plone.api.portal, line 283, in get_registry_record
+  Module plone.registry.registry, line 36, in __getitem__
+KeyError: 'collective.volto.dropdownmenu.interfaces.IDropDownMenu.menu_configuration'
+2025-01-11 21:34:28,369 ERROR   [Zope.SiteErrorLog:17][waitress-0] KeyError: http://localhost:3000/@dropdown-menu
+Traceback (innermost last):
+  Module ZPublisher.WSGIPublisher, line 181, in transaction_pubevents
+  Module ZPublisher.WSGIPublisher, line 390, in publish_module
+  Module ZPublisher.WSGIPublisher, line 284, in publish
+  Module ZPublisher.mapply, line 98, in mapply
+  Module Products.PDBDebugMode.wsgi_runcall, line 60, in pdb_runcall
+  Module plone.rest.service, line 21, in __call__
+  Module plone.restapi.services, line 19, in render
+  Module collective.volto.dropdownmenu.restapi.dropdown_menu.get, line 34, in reply
+  Module decorator, line 232, in fun
+  Module plone.api.validation, line 73, in wrapped
+  Module plone.api.portal, line 283, in get_registry_record
+  Module plone.registry.registry, line 36, in __getitem__
+KeyError: 'collective.volto.dropdownmenu.interfaces.IDropDownMenu.menu_configuration'
+2025-01-11 21:34:41,369 INFO    [chameleon.config:39][MainThread] directory cache: /home/gnuamua/radio/denverMesh/denvermesh-plone-backend/var/cache.
+2025-01-11 21:34:44,257 WARNING [Products.PDBDebugMode:31][MainThread] 
+
+******************************************************************************
+
+Debug-Mode enabled!
+
+This will result in a pdb when a exception happens.
+Turn off debug mode or remove Products.PDBDebugMode to disable.
+
+See https://pypi.python.org/pypi/Products.PDBDebugMode
+
+******************************************************************************
+
+2025-01-11 21:34:44,461 INFO    [pas.plugins.authomatic:147][MainThread] Patched authomatic.providers.BaseProvider._fetch
+2025-01-11 21:34:44,461 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-01-11 21:34:44,461 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-01-11 21:34:45,792 INFO    [plone.volto:23][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-01-11 21:34:45,792 INFO    [plone.volto:23][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-01-11 21:34:46,532 WARNING [PrintingMailHost:32][MainThread] Hold on to your hats folks, I'm a-patchin'
+2025-01-11 21:34:46,532 WARNING [PrintingMailHost:147][MainThread] 
+
+******************************************************************************
+
+Monkey patching MailHosts to print e-mails to the terminal.
+
+This is instead of sending them.
+
+NO MAIL WILL BE SENT FROM ZOPE AT ALL!
+
+Turn off debug mode or remove Products.PrintingMailHost from the eggs
+or remove ENABLE_PRINTING_MAILHOST from the environment variables to
+return to normal e-mail sending.
+
+See https://pypi.org/project/Products.PrintingMailHost
+
+******************************************************************************
+
+2025-01-11 21:34:46,549 INFO    [Zope:42][MainThread] Ready to handle requests
+2025-01-11 21:34:46,551 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-01-11 21:34:46,551 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-01-11 21:35:05,467 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-11 21:35:05,468 WARNING [waitress.queue:113][MainThread] Task queue depth is 2
+2025-01-11 21:35:05,479 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-11 21:35:05,479 WARNING [waitress.queue:113][MainThread] Task queue depth is 2
+2025-01-11 21:35:11,749 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-11 21:35:11,757 WARNING [waitress.queue:113][MainThread] Task queue depth is 2
+2025-01-11 21:35:11,777 WARNING [waitress.queue:113][MainThread] Task queue depth is 2
+2025-01-11 21:35:11,820 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-11 21:35:11,836 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-11 21:35:11,843 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-11 21:35:11,843 WARNING [waitress.queue:113][MainThread] Task queue depth is 2
+2025-01-11 21:35:27,350 INFO    [Products.GenericSetup.tool:1421][waitress-1] Importing profile profile-collective.volto.dropdownmenu:default with dependency strategy upgrade.
+2025-01-11 21:35:27,350 INFO    [Products.GenericSetup.tool:1185][waitress-1] No upgrades available for profile profile-plone.restapi:default. Profile stays at version '0007'.
+2025-01-11 21:35:27,350 INFO    [Products.GenericSetup.tool:1462][waitress-1] Applying main profile profile-collective.volto.dropdownmenu:default
+2025-01-11 21:35:27,358 INFO    [GenericSetup.controlpanel:98][waitress-1] Control panel imported.
+2025-01-11 21:35:27,367 INFO    [GenericSetup.browserlayer:98][waitress-1] Browser layers imported
+2025-01-11 21:35:27,383 INFO    [GenericSetup.rolemap:98][waitress-1] Role / permission map imported.
+2025-01-11 21:35:27,384 INFO    [Products.CMFPlone.resources.browser.resource:320][waitress-1] Updated resource registry mtime.
+2025-01-11 21:42:01,765 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-11 21:42:41,792 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-11 21:42:43,840 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-11 21:42:45,885 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-11 21:46:45,431 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-11 21:48:06,068 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-11 21:50:52,759 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-11 21:51:58,547 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-11 21:52:52,285 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-11 21:52:52,832 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-11 21:56:23,186 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-11 21:56:23,983 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-11 21:58:28,659 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-11 22:00:13,897 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-11 22:01:40,125 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-11 22:04:12,938 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-11 22:06:16,639 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-11 22:08:14,512 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-11 22:08:15,061 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-12 21:28:25,467 INFO    [chameleon.config:39][MainThread] directory cache: /home/gnuamua/radio/denverMesh/denvermesh-plone-backend/var/cache.
+2025-01-12 21:28:28,487 WARNING [Products.PDBDebugMode:31][MainThread] 
+
+******************************************************************************
+
+Debug-Mode enabled!
+
+This will result in a pdb when a exception happens.
+Turn off debug mode or remove Products.PDBDebugMode to disable.
+
+See https://pypi.python.org/pypi/Products.PDBDebugMode
+
+******************************************************************************
+
+2025-01-12 21:28:28,754 INFO    [pas.plugins.authomatic:147][MainThread] Patched authomatic.providers.BaseProvider._fetch
+2025-01-12 21:28:28,755 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-01-12 21:28:28,755 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-01-12 21:28:30,488 INFO    [plone.volto:23][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-01-12 21:28:30,488 INFO    [plone.volto:23][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-01-12 21:28:31,268 WARNING [PrintingMailHost:32][MainThread] Hold on to your hats folks, I'm a-patchin'
+2025-01-12 21:28:31,269 WARNING [PrintingMailHost:147][MainThread] 
+
+******************************************************************************
+
+Monkey patching MailHosts to print e-mails to the terminal.
+
+This is instead of sending them.
+
+NO MAIL WILL BE SENT FROM ZOPE AT ALL!
+
+Turn off debug mode or remove Products.PrintingMailHost from the eggs
+or remove ENABLE_PRINTING_MAILHOST from the environment variables to
+return to normal e-mail sending.
+
+See https://pypi.org/project/Products.PrintingMailHost
+
+******************************************************************************
+
+2025-01-12 21:28:31,286 INFO    [Zope:42][MainThread] Ready to handle requests
+2025-01-12 21:28:31,287 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-01-12 21:28:31,287 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-01-12 21:28:39,845 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-12 21:28:41,478 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-12 21:29:37,941 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-12 21:29:38,005 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-12 21:29:38,016 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-12 21:29:38,016 WARNING [waitress.queue:113][MainThread] Task queue depth is 2
+2025-01-12 21:29:56,585 INFO    [plone.protect:32][waitress-2] auto rotating keyring _system
+2025-01-12 21:29:56,585 INFO    [plone.protect:32][waitress-2] auto rotating keyring _system
+2025-01-12 21:29:56,586 INFO    [plone.protect:32][waitress-2] auto rotating keyring _forms
+2025-01-12 21:29:56,586 INFO    [plone.protect:32][waitress-2] auto rotating keyring _forms
+2025-01-12 21:29:56,586 INFO    [plone.protect:32][waitress-2] auto rotating keyring _anon
+2025-01-12 21:29:56,586 INFO    [plone.protect:32][waitress-2] auto rotating keyring _anon
+2025-01-12 21:29:56,587 INFO    [plone.protect:32][waitress-2] auto rotating keyring _system
+2025-01-12 21:29:56,587 INFO    [plone.protect:32][waitress-2] auto rotating keyring _system
+2025-01-12 21:29:56,587 INFO    [plone.protect:32][waitress-2] auto rotating keyring _forms
+2025-01-12 21:29:56,587 INFO    [plone.protect:32][waitress-2] auto rotating keyring _forms
+2025-01-12 21:29:56,587 INFO    [plone.protect:32][waitress-2] auto rotating keyring _anon
+2025-01-12 21:29:56,587 INFO    [plone.protect:32][waitress-2] auto rotating keyring _anon
+2025-01-12 21:32:35,297 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-12 21:34:57,291 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-12 21:41:37,534 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-12 21:41:38,555 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-12 21:41:51,146 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-12 21:41:51,165 WARNING [waitress.queue:113][MainThread] Task queue depth is 2
+2025-01-12 21:41:51,185 WARNING [waitress.queue:113][MainThread] Task queue depth is 3
+2025-01-12 21:41:51,185 WARNING [waitress.queue:113][MainThread] Task queue depth is 4
+2025-01-12 21:41:51,191 WARNING [waitress.queue:113][MainThread] Task queue depth is 4
+2025-01-12 21:41:51,206 WARNING [waitress.queue:113][MainThread] Task queue depth is 2
+2025-01-12 21:41:56,724 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-12 21:41:56,737 WARNING [waitress.queue:113][MainThread] Task queue depth is 2
+2025-01-12 21:43:11,929 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-12 21:48:55,991 INFO    [Products.GenericSetup.tool:1421][waitress-3] Importing profile profile-collective.volto.dropdownmenu:uninstall with dependency strategy upgrade.
+2025-01-12 21:48:55,991 INFO    [Products.GenericSetup.tool:1462][waitress-3] Applying main profile profile-collective.volto.dropdownmenu:uninstall
+2025-01-12 21:48:55,995 INFO    [GenericSetup.rolemap:98][waitress-3] Role / permission map imported.
+2025-01-12 21:48:55,997 INFO    [GenericSetup.controlpanel:98][waitress-3] Control panel imported.
+2025-01-12 21:48:56,012 INFO    [GenericSetup.plone.app.registry:98][waitress-3] Removed record collective.volto.dropdownmenu.interfaces.IDropDownMenu.menu_configuration.
+2025-01-12 21:48:56,014 INFO    [GenericSetup.browserlayer:98][waitress-3] Browser layers imported
+2025-01-12 21:48:56,023 INFO    [Products.CMFPlone.resources.browser.resource:320][waitress-3] Updated resource registry mtime.
+2025-01-12 21:48:56,031 WARNING [waitress:339][waitress-3] application-written content was ignored due to HTTP response that may not contain a message-body: (204 No Content)
+2025-01-12 21:48:56,031 WARNING [waitress:339][waitress-3] application-written content was ignored due to HTTP response that may not contain a message-body: (204 No Content)
+2025-01-12 21:49:06,493 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-12 21:49:06,520 ERROR   [Zope.SiteErrorLog:17][waitress-2] KeyError: http://localhost:3000/@dropdown-menu
+Traceback (innermost last):
+  Module ZPublisher.WSGIPublisher, line 181, in transaction_pubevents
+  Module ZPublisher.WSGIPublisher, line 390, in publish_module
+  Module ZPublisher.WSGIPublisher, line 284, in publish
+  Module ZPublisher.mapply, line 98, in mapply
+  Module Products.PDBDebugMode.wsgi_runcall, line 60, in pdb_runcall
+  Module plone.rest.service, line 21, in __call__
+  Module plone.restapi.services, line 19, in render
+  Module collective.volto.dropdownmenu.restapi.dropdown_menu.get, line 34, in reply
+  Module decorator, line 232, in fun
+  Module plone.api.validation, line 73, in wrapped
+  Module plone.api.portal, line 283, in get_registry_record
+  Module plone.registry.registry, line 36, in __getitem__
+KeyError: 'collective.volto.dropdownmenu.interfaces.IDropDownMenu.menu_configuration'
+2025-01-12 21:49:50,623 INFO    [chameleon.config:39][MainThread] directory cache: /home/gnuamua/radio/denverMesh/denvermesh-plone-backend/var/cache.
+2025-01-12 21:49:54,111 WARNING [Products.PDBDebugMode:31][MainThread] 
+
+******************************************************************************
+
+Debug-Mode enabled!
+
+This will result in a pdb when a exception happens.
+Turn off debug mode or remove Products.PDBDebugMode to disable.
+
+See https://pypi.python.org/pypi/Products.PDBDebugMode
+
+******************************************************************************
+
+2025-01-12 21:49:54,361 INFO    [pas.plugins.authomatic:147][MainThread] Patched authomatic.providers.BaseProvider._fetch
+2025-01-12 21:49:54,365 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-01-12 21:49:54,365 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-01-12 21:49:56,039 INFO    [plone.volto:23][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-01-12 21:49:56,039 INFO    [plone.volto:23][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-01-12 21:49:56,829 WARNING [PrintingMailHost:32][MainThread] Hold on to your hats folks, I'm a-patchin'
+2025-01-12 21:49:56,829 WARNING [PrintingMailHost:147][MainThread] 
+
+******************************************************************************
+
+Monkey patching MailHosts to print e-mails to the terminal.
+
+This is instead of sending them.
+
+NO MAIL WILL BE SENT FROM ZOPE AT ALL!
+
+Turn off debug mode or remove Products.PrintingMailHost from the eggs
+or remove ENABLE_PRINTING_MAILHOST from the environment variables to
+return to normal e-mail sending.
+
+See https://pypi.org/project/Products.PrintingMailHost
+
+******************************************************************************
+
+2025-01-12 21:49:56,847 INFO    [Zope:42][MainThread] Ready to handle requests
+2025-01-12 21:49:56,848 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-01-12 21:49:56,848 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-01-12 22:01:19,029 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-12 22:01:19,030 WARNING [waitress.queue:113][MainThread] Task queue depth is 2
+2025-01-12 22:01:19,273 ERROR   [Zope.SiteErrorLog:17][waitress-3] KeyError: http://localhost:3000/@dropdown-menu
+Traceback (innermost last):
+  Module ZPublisher.WSGIPublisher, line 181, in transaction_pubevents
+  Module ZPublisher.WSGIPublisher, line 390, in publish_module
+  Module ZPublisher.WSGIPublisher, line 284, in publish
+  Module ZPublisher.mapply, line 98, in mapply
+  Module Products.PDBDebugMode.wsgi_runcall, line 60, in pdb_runcall
+  Module plone.rest.service, line 21, in __call__
+  Module plone.restapi.services, line 19, in render
+  Module collective.volto.dropdownmenu.restapi.dropdown_menu.get, line 34, in reply
+  Module decorator, line 232, in fun
+  Module plone.api.validation, line 73, in wrapped
+  Module plone.api.portal, line 283, in get_registry_record
+  Module plone.registry.registry, line 36, in __getitem__
+KeyError: 'collective.volto.dropdownmenu.interfaces.IDropDownMenu.menu_configuration'
+2025-01-12 22:01:30,669 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-12 22:01:30,685 WARNING [waitress.queue:113][MainThread] Task queue depth is 2
+2025-01-12 22:01:30,685 WARNING [waitress.queue:113][MainThread] Task queue depth is 3
+2025-01-12 22:01:30,723 ERROR   [Zope.SiteErrorLog:17][waitress-0] KeyError: http://localhost:3000/@dropdown-menu
+Traceback (innermost last):
+  Module ZPublisher.WSGIPublisher, line 181, in transaction_pubevents
+  Module ZPublisher.WSGIPublisher, line 390, in publish_module
+  Module ZPublisher.WSGIPublisher, line 284, in publish
+  Module ZPublisher.mapply, line 98, in mapply
+  Module Products.PDBDebugMode.wsgi_runcall, line 60, in pdb_runcall
+  Module plone.rest.service, line 21, in __call__
+  Module plone.restapi.services, line 19, in render
+  Module collective.volto.dropdownmenu.restapi.dropdown_menu.get, line 34, in reply
+  Module decorator, line 232, in fun
+  Module plone.api.validation, line 73, in wrapped
+  Module plone.api.portal, line 283, in get_registry_record
+  Module plone.registry.registry, line 36, in __getitem__
+KeyError: 'collective.volto.dropdownmenu.interfaces.IDropDownMenu.menu_configuration'
+2025-01-12 22:01:51,081 INFO    [chameleon.config:39][MainThread] directory cache: /home/gnuamua/radio/denverMesh/denvermesh-plone-backend/var/cache.
+2025-01-12 22:01:53,953 WARNING [Products.PDBDebugMode:31][MainThread] 
+
+******************************************************************************
+
+Debug-Mode enabled!
+
+This will result in a pdb when a exception happens.
+Turn off debug mode or remove Products.PDBDebugMode to disable.
+
+See https://pypi.python.org/pypi/Products.PDBDebugMode
+
+******************************************************************************
+
+2025-01-12 22:01:54,146 INFO    [pas.plugins.authomatic:147][MainThread] Patched authomatic.providers.BaseProvider._fetch
+2025-01-12 22:01:54,146 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-01-12 22:01:54,146 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-01-12 22:01:55,459 INFO    [plone.volto:23][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-01-12 22:01:55,459 INFO    [plone.volto:23][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-01-12 22:01:56,189 WARNING [PrintingMailHost:32][MainThread] Hold on to your hats folks, I'm a-patchin'
+2025-01-12 22:01:56,190 WARNING [PrintingMailHost:147][MainThread] 
+
+******************************************************************************
+
+Monkey patching MailHosts to print e-mails to the terminal.
+
+This is instead of sending them.
+
+NO MAIL WILL BE SENT FROM ZOPE AT ALL!
+
+Turn off debug mode or remove Products.PrintingMailHost from the eggs
+or remove ENABLE_PRINTING_MAILHOST from the environment variables to
+return to normal e-mail sending.
+
+See https://pypi.org/project/Products.PrintingMailHost
+
+******************************************************************************
+
+2025-01-12 22:01:56,207 INFO    [Zope:42][MainThread] Ready to handle requests
+2025-01-12 22:01:56,208 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-01-12 22:01:56,208 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-01-12 22:02:12,323 INFO    [Products.GenericSetup.tool:1421][waitress-1] Importing profile profile-collective.volto.dropdownmenu:default with dependency strategy upgrade.
+2025-01-12 22:02:12,324 INFO    [Products.GenericSetup.tool:1185][waitress-1] No upgrades available for profile profile-plone.restapi:default. Profile stays at version '0007'.
+2025-01-12 22:02:12,324 INFO    [Products.GenericSetup.tool:1462][waitress-1] Applying main profile profile-collective.volto.dropdownmenu:default
+2025-01-12 22:02:12,346 INFO    [GenericSetup.browserlayer:98][waitress-1] Browser layers imported
+2025-01-12 22:02:12,350 INFO    [GenericSetup.controlpanel:98][waitress-1] Control panel imported.
+2025-01-12 22:02:12,351 INFO    [GenericSetup.rolemap:98][waitress-1] Role / permission map imported.
+2025-01-12 22:02:12,352 INFO    [Products.CMFPlone.resources.browser.resource:320][waitress-1] Updated resource registry mtime.
+2025-01-12 22:02:19,904 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-12 22:02:20,459 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-12 22:02:54,321 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-12 22:02:54,336 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-12 22:02:55,062 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-12 22:02:55,182 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-12 22:02:55,188 WARNING [waitress.queue:113][MainThread] Task queue depth is 2
+2025-01-12 22:03:10,188 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-12 22:05:31,734 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-12 22:05:32,160 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-12 22:05:35,938 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-12 22:07:06,463 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-12 22:07:40,729 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-12 22:09:12,021 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-12 22:09:13,482 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-12 22:09:15,825 WARNING [plone.restapi.search.query:119][waitress-2] No such index: 'show_inactive'
+2025-01-12 22:09:15,825 WARNING [plone.restapi.search.query:119][waitress-2] No such index: 'show_inactive'
+2025-01-12 22:09:24,486 WARNING [plone.restapi.search.query:119][waitress-0] No such index: 'show_inactive'
+2025-01-12 22:09:24,486 WARNING [plone.restapi.search.query:119][waitress-0] No such index: 'show_inactive'
+2025-01-12 22:09:45,351 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-12 22:09:45,423 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-12 22:09:46,719 WARNING [plone.restapi.search.query:119][waitress-3] No such index: 'show_inactive'
+2025-01-12 22:09:46,719 WARNING [plone.restapi.search.query:119][waitress-3] No such index: 'show_inactive'
+2025-01-12 22:09:58,462 WARNING [plone.restapi.search.query:119][waitress-3] No such index: 'show_inactive'
+2025-01-12 22:09:58,462 WARNING [plone.restapi.search.query:119][waitress-3] No such index: 'show_inactive'
+2025-01-12 22:10:15,206 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-12 22:10:20,240 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-12 22:10:22,781 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-12 22:10:34,317 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-12 22:10:37,471 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-12 22:10:39,437 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-12 22:10:55,340 WARNING [plone.restapi.search.query:119][waitress-3] No such index: 'show_inactive'
+2025-01-12 22:10:55,340 WARNING [plone.restapi.search.query:119][waitress-3] No such index: 'show_inactive'
+2025-01-12 22:11:01,928 WARNING [plone.restapi.search.query:119][waitress-0] No such index: 'show_inactive'
+2025-01-12 22:11:01,928 WARNING [plone.restapi.search.query:119][waitress-0] No such index: 'show_inactive'
+2025-01-12 22:14:02,126 INFO    [Products.GenericSetup.tool:1421][waitress-3] Importing profile profile-collective.volto.formsupport:uninstall with dependency strategy upgrade.
+2025-01-12 22:14:02,126 INFO    [Products.GenericSetup.tool:1462][waitress-3] Applying main profile profile-collective.volto.formsupport:uninstall
+2025-01-12 22:14:02,141 INFO    [GenericSetup.browserlayer:98][waitress-3] Browser layers imported
+2025-01-12 22:14:02,143 INFO    [GenericSetup.rolemap:98][waitress-3] Role / permission map imported.
+2025-01-12 22:14:02,144 INFO    [Products.CMFPlone.resources.browser.resource:320][waitress-3] Updated resource registry mtime.
+2025-01-12 22:14:02,151 WARNING [waitress:339][waitress-3] application-written content was ignored due to HTTP response that may not contain a message-body: (204 No Content)
+2025-01-12 22:14:02,151 WARNING [waitress:339][waitress-3] application-written content was ignored due to HTTP response that may not contain a message-body: (204 No Content)
+2025-01-12 22:14:08,725 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-12 22:14:24,577 WARNING [plone.restapi.search.query:119][waitress-0] No such index: 'show_inactive'
+2025-01-12 22:14:24,577 WARNING [plone.restapi.search.query:119][waitress-0] No such index: 'show_inactive'
+2025-01-12 22:15:10,730 WARNING [plone.restapi.search.query:119][waitress-0] No such index: 'show_inactive'
+2025-01-12 22:15:10,730 WARNING [plone.restapi.search.query:119][waitress-0] No such index: 'show_inactive'
+2025-01-12 22:33:01,622 WARNING [plone.restapi.search.query:119][waitress-0] No such index: 'show_inactive'
+2025-01-12 22:33:01,622 WARNING [plone.restapi.search.query:119][waitress-0] No such index: 'show_inactive'
+2025-01-12 22:35:00,113 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-12 22:35:00,852 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-12 22:35:17,845 INFO    [Products.GenericSetup.tool:1421][waitress-1] Importing profile profile-collective.volto.formsupport:default with dependency strategy upgrade.
+2025-01-12 22:35:17,845 INFO    [Products.GenericSetup.tool:1185][waitress-1] No upgrades available for profile profile-collective.volto.otp:default. Profile stays at version '1000'.
+2025-01-12 22:35:17,845 INFO    [Products.GenericSetup.tool:1462][waitress-1] Applying main profile profile-collective.volto.formsupport:default
+2025-01-12 22:35:17,847 INFO    [GenericSetup.catalog:98][waitress-1] Catalog imported.
+2025-01-12 22:35:17,857 INFO    [GenericSetup.browserlayer:98][waitress-1] Browser layers imported
+2025-01-12 22:35:17,859 INFO    [GenericSetup.rolemap:98][waitress-1] Role / permission map imported.
+2025-01-12 22:35:17,859 INFO    [Products.CMFPlone.resources.browser.resource:320][waitress-1] Updated resource registry mtime.
+2025-01-12 22:35:17,909 WARNING [waitress:339][waitress-1] application-written content was ignored due to HTTP response that may not contain a message-body: (204 No Content)
+2025-01-12 22:35:17,909 WARNING [waitress:339][waitress-1] application-written content was ignored due to HTTP response that may not contain a message-body: (204 No Content)
+2025-01-12 22:35:36,253 WARNING [plone.restapi.search.query:119][waitress-3] No such index: 'show_inactive'
+2025-01-12 22:35:36,253 WARNING [plone.restapi.search.query:119][waitress-3] No such index: 'show_inactive'
+2025-01-12 22:40:58,621 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-12 22:41:03,112 WARNING [plone.restapi.search.query:119][waitress-1] No such index: 'show_inactive'
+2025-01-12 22:41:03,112 WARNING [plone.restapi.search.query:119][waitress-1] No such index: 'show_inactive'
+2025-01-12 22:53:14,677 ERROR   [Zope.SiteErrorLog:17][waitress-1] ValueError: http://localhost:3000/contact/GET_application_json_
+Traceback (innermost last):
+  Module ZPublisher.WSGIPublisher, line 181, in transaction_pubevents
+  Module ZPublisher.WSGIPublisher, line 390, in publish_module
+  Module ZPublisher.WSGIPublisher, line 284, in publish
+  Module ZPublisher.mapply, line 98, in mapply
+  Module Products.PDBDebugMode.wsgi_runcall, line 60, in pdb_runcall
+  Module plone.rest.service, line 21, in __call__
+  Module plone.restapi.services, line 19, in render
+  Module plone.restapi.services.content.get, line 16, in reply
+  Module plone.restapi.serializer.dxcontent, line 181, in __call__
+  Module plone.restapi.serializer.dxcontent, line 135, in __call__
+  Module plone.restapi.serializer.blocks, line 39, in __call__
+  Module collective.volto.formsupport.restapi.serializer.blocks, line 37, in __call__
+  Module zope.component._api, line 111, in getMultiAdapter
+  Module zope.component._api, line 126, in queryMultiAdapter
+  Module zope.interface.registry, line 373, in queryMultiAdapter
+  Module zope.interface.adapter, line 855, in queryMultiAdapter
+ValueError: name is not a string
+2025-01-12 22:53:36,575 ERROR   [Zope.SiteErrorLog:17][waitress-0] ValueError: http://localhost:3000/contact/GET_application_json_
+Traceback (innermost last):
+  Module ZPublisher.WSGIPublisher, line 181, in transaction_pubevents
+  Module ZPublisher.WSGIPublisher, line 390, in publish_module
+  Module ZPublisher.WSGIPublisher, line 284, in publish
+  Module ZPublisher.mapply, line 98, in mapply
+  Module Products.PDBDebugMode.wsgi_runcall, line 60, in pdb_runcall
+  Module plone.rest.service, line 21, in __call__
+  Module plone.restapi.services, line 19, in render
+  Module plone.restapi.services.content.get, line 16, in reply
+  Module plone.restapi.serializer.dxcontent, line 181, in __call__
+  Module plone.restapi.serializer.dxcontent, line 135, in __call__
+  Module plone.restapi.serializer.blocks, line 39, in __call__
+  Module collective.volto.formsupport.restapi.serializer.blocks, line 37, in __call__
+  Module zope.component._api, line 111, in getMultiAdapter
+  Module zope.component._api, line 126, in queryMultiAdapter
+  Module zope.interface.registry, line 373, in queryMultiAdapter
+  Module zope.interface.adapter, line 855, in queryMultiAdapter
+ValueError: name is not a string
+2025-01-12 22:54:27,870 INFO    [chameleon.config:39][MainThread] directory cache: /home/gnuamua/radio/denverMesh/denvermesh-plone-backend/var/cache.
+2025-01-12 22:54:31,714 WARNING [Products.PDBDebugMode:31][MainThread] 
+
+******************************************************************************
+
+Debug-Mode enabled!
+
+This will result in a pdb when a exception happens.
+Turn off debug mode or remove Products.PDBDebugMode to disable.
+
+See https://pypi.python.org/pypi/Products.PDBDebugMode
+
+******************************************************************************
+
+2025-01-12 22:54:32,037 INFO    [pas.plugins.authomatic:147][MainThread] Patched authomatic.providers.BaseProvider._fetch
+2025-01-12 22:54:32,039 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-01-12 22:54:32,039 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-01-12 22:54:34,188 INFO    [plone.volto:23][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-01-12 22:54:34,188 INFO    [plone.volto:23][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-01-12 22:54:35,181 WARNING [PrintingMailHost:32][MainThread] Hold on to your hats folks, I'm a-patchin'
+2025-01-12 22:54:35,181 WARNING [PrintingMailHost:147][MainThread] 
+
+******************************************************************************
+
+Monkey patching MailHosts to print e-mails to the terminal.
+
+This is instead of sending them.
+
+NO MAIL WILL BE SENT FROM ZOPE AT ALL!
+
+Turn off debug mode or remove Products.PrintingMailHost from the eggs
+or remove ENABLE_PRINTING_MAILHOST from the environment variables to
+return to normal e-mail sending.
+
+See https://pypi.org/project/Products.PrintingMailHost
+
+******************************************************************************
+
+2025-01-12 22:54:35,202 INFO    [Zope:42][MainThread] Ready to handle requests
+2025-01-12 22:54:35,203 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-01-12 22:54:35,203 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-01-12 22:54:47,179 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-12 22:54:47,451 ERROR   [Zope.SiteErrorLog:17][waitress-1] ValueError: http://localhost:3000/contact/GET_application_json_
+Traceback (innermost last):
+  Module ZPublisher.WSGIPublisher, line 181, in transaction_pubevents
+  Module ZPublisher.WSGIPublisher, line 390, in publish_module
+  Module ZPublisher.WSGIPublisher, line 284, in publish
+  Module ZPublisher.mapply, line 98, in mapply
+  Module Products.PDBDebugMode.wsgi_runcall, line 60, in pdb_runcall
+  Module plone.rest.service, line 21, in __call__
+  Module plone.restapi.services, line 19, in render
+  Module plone.restapi.services.content.get, line 16, in reply
+  Module plone.restapi.serializer.dxcontent, line 181, in __call__
+  Module plone.restapi.serializer.dxcontent, line 135, in __call__
+  Module plone.restapi.serializer.blocks, line 39, in __call__
+  Module collective.volto.formsupport.restapi.serializer.blocks, line 37, in __call__
+  Module zope.component._api, line 111, in getMultiAdapter
+  Module zope.component._api, line 126, in queryMultiAdapter
+  Module zope.interface.registry, line 373, in queryMultiAdapter
+  Module zope.interface.adapter, line 855, in queryMultiAdapter
+ValueError: name is not a string
+2025-01-12 22:55:01,300 ERROR   [Zope.SiteErrorLog:17][waitress-0] ValueError: http://localhost:3000/contact/GET_application_json_
+Traceback (innermost last):
+  Module ZPublisher.WSGIPublisher, line 181, in transaction_pubevents
+  Module ZPublisher.WSGIPublisher, line 390, in publish_module
+  Module ZPublisher.WSGIPublisher, line 284, in publish
+  Module ZPublisher.mapply, line 98, in mapply
+  Module Products.PDBDebugMode.wsgi_runcall, line 60, in pdb_runcall
+  Module plone.rest.service, line 21, in __call__
+  Module plone.restapi.services, line 19, in render
+  Module plone.restapi.services.content.get, line 16, in reply
+  Module plone.restapi.serializer.dxcontent, line 181, in __call__
+  Module plone.restapi.serializer.dxcontent, line 135, in __call__
+  Module plone.restapi.serializer.blocks, line 39, in __call__
+  Module collective.volto.formsupport.restapi.serializer.blocks, line 37, in __call__
+  Module zope.component._api, line 111, in getMultiAdapter
+  Module zope.component._api, line 126, in queryMultiAdapter
+  Module zope.interface.registry, line 373, in queryMultiAdapter
+  Module zope.interface.adapter, line 855, in queryMultiAdapter
+ValueError: name is not a string
+2025-01-12 22:55:02,233 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-12 22:55:10,991 INFO    [chameleon.config:39][MainThread] directory cache: /home/gnuamua/radio/denverMesh/denvermesh-plone-backend/var/cache.
+2025-01-12 22:55:14,533 WARNING [Products.PDBDebugMode:31][MainThread] 
+
+******************************************************************************
+
+Debug-Mode enabled!
+
+This will result in a pdb when a exception happens.
+Turn off debug mode or remove Products.PDBDebugMode to disable.
+
+See https://pypi.python.org/pypi/Products.PDBDebugMode
+
+******************************************************************************
+
+2025-01-12 22:55:14,762 INFO    [pas.plugins.authomatic:147][MainThread] Patched authomatic.providers.BaseProvider._fetch
+2025-01-12 22:55:14,763 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-01-12 22:55:14,763 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-01-12 22:55:16,202 INFO    [plone.volto:23][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-01-12 22:55:16,202 INFO    [plone.volto:23][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-01-12 22:55:17,015 WARNING [PrintingMailHost:32][MainThread] Hold on to your hats folks, I'm a-patchin'
+2025-01-12 22:55:17,015 WARNING [PrintingMailHost:147][MainThread] 
+
+******************************************************************************
+
+Monkey patching MailHosts to print e-mails to the terminal.
+
+This is instead of sending them.
+
+NO MAIL WILL BE SENT FROM ZOPE AT ALL!
+
+Turn off debug mode or remove Products.PrintingMailHost from the eggs
+or remove ENABLE_PRINTING_MAILHOST from the environment variables to
+return to normal e-mail sending.
+
+See https://pypi.org/project/Products.PrintingMailHost
+
+******************************************************************************
+
+2025-01-12 22:55:17,033 INFO    [Zope:42][MainThread] Ready to handle requests
+2025-01-12 22:55:17,034 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-01-12 22:55:17,034 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-01-12 22:55:24,243 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-12 22:55:25,207 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-12 22:55:29,490 WARNING [plone.restapi.search.query:119][waitress-0] No such index: 'show_inactive'
+2025-01-12 22:55:29,490 WARNING [plone.restapi.search.query:119][waitress-0] No such index: 'show_inactive'
+2025-01-12 22:55:39,621 WARNING [plone.restapi.search.query:119][waitress-3] No such index: 'show_inactive'
+2025-01-12 22:55:39,621 WARNING [plone.restapi.search.query:119][waitress-3] No such index: 'show_inactive'
+2025-01-12 22:56:44,586 ERROR   [Zope.SiteErrorLog:17][waitress-0] ValueError: http://localhost:3000/POST_application_json_
+Traceback (innermost last):
+  Module ZPublisher.WSGIPublisher, line 181, in transaction_pubevents
+  Module ZPublisher.WSGIPublisher, line 390, in publish_module
+  Module ZPublisher.WSGIPublisher, line 284, in publish
+  Module ZPublisher.mapply, line 98, in mapply
+  Module Products.PDBDebugMode.wsgi_runcall, line 60, in pdb_runcall
+  Module plone.rest.service, line 21, in __call__
+  Module plone.restapi.services, line 19, in render
+  Module plone.restapi.services.content.add, line 115, in reply
+  Module plone.restapi.serializer.dxcontent, line 181, in __call__
+  Module plone.restapi.serializer.dxcontent, line 135, in __call__
+  Module plone.restapi.serializer.blocks, line 39, in __call__
+  Module collective.volto.formsupport.restapi.serializer.blocks, line 37, in __call__
+  Module zope.component._api, line 111, in getMultiAdapter
+  Module zope.component._api, line 126, in queryMultiAdapter
+  Module zope.interface.registry, line 373, in queryMultiAdapter
+  Module zope.interface.adapter, line 855, in queryMultiAdapter
+ValueError: name is not a string
+2025-01-12 22:57:35,457 INFO    [chameleon.config:39][MainThread] directory cache: /home/gnuamua/radio/denverMesh/denvermesh-plone-backend/var/cache.
+2025-01-12 22:57:38,807 WARNING [Products.PDBDebugMode:31][MainThread] 
+
+******************************************************************************
+
+Debug-Mode enabled!
+
+This will result in a pdb when a exception happens.
+Turn off debug mode or remove Products.PDBDebugMode to disable.
+
+See https://pypi.python.org/pypi/Products.PDBDebugMode
+
+******************************************************************************
+
+2025-01-12 22:57:39,025 INFO    [pas.plugins.authomatic:147][MainThread] Patched authomatic.providers.BaseProvider._fetch
+2025-01-12 22:57:39,026 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-01-12 22:57:39,026 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-01-12 22:57:40,459 INFO    [plone.volto:23][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-01-12 22:57:40,459 INFO    [plone.volto:23][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-01-12 22:57:41,254 WARNING [PrintingMailHost:32][MainThread] Hold on to your hats folks, I'm a-patchin'
+2025-01-12 22:57:41,254 WARNING [PrintingMailHost:147][MainThread] 
+
+******************************************************************************
+
+Monkey patching MailHosts to print e-mails to the terminal.
+
+This is instead of sending them.
+
+NO MAIL WILL BE SENT FROM ZOPE AT ALL!
+
+Turn off debug mode or remove Products.PrintingMailHost from the eggs
+or remove ENABLE_PRINTING_MAILHOST from the environment variables to
+return to normal e-mail sending.
+
+See https://pypi.org/project/Products.PrintingMailHost
+
+******************************************************************************
+
+2025-01-12 22:57:41,272 INFO    [Zope:42][MainThread] Ready to handle requests
+2025-01-12 22:57:41,274 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-01-12 22:57:41,274 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-01-12 22:58:05,341 ERROR   [Zope.SiteErrorLog:17][waitress-0] ValueError: http://localhost:3000/POST_application_json_
+Traceback (innermost last):
+  Module ZPublisher.WSGIPublisher, line 181, in transaction_pubevents
+  Module ZPublisher.WSGIPublisher, line 390, in publish_module
+  Module ZPublisher.WSGIPublisher, line 284, in publish
+  Module ZPublisher.mapply, line 98, in mapply
+  Module Products.PDBDebugMode.wsgi_runcall, line 60, in pdb_runcall
+  Module plone.rest.service, line 21, in __call__
+  Module plone.restapi.services, line 19, in render
+  Module plone.restapi.services.content.add, line 115, in reply
+  Module plone.restapi.serializer.dxcontent, line 181, in __call__
+  Module plone.restapi.serializer.dxcontent, line 135, in __call__
+  Module plone.restapi.serializer.blocks, line 39, in __call__
+  Module collective.volto.formsupport.restapi.serializer.blocks, line 37, in __call__
+  Module zope.component._api, line 111, in getMultiAdapter
+  Module zope.component._api, line 126, in queryMultiAdapter
+  Module zope.interface.registry, line 373, in queryMultiAdapter
+  Module zope.interface.adapter, line 855, in queryMultiAdapter
+ValueError: name is not a string
+2025-01-12 22:58:19,225 INFO    [chameleon.config:39][MainThread] directory cache: /home/gnuamua/radio/denverMesh/denvermesh-plone-backend/var/cache.
+2025-01-12 22:58:22,612 WARNING [Products.PDBDebugMode:31][MainThread] 
+
+******************************************************************************
+
+Debug-Mode enabled!
+
+This will result in a pdb when a exception happens.
+Turn off debug mode or remove Products.PDBDebugMode to disable.
+
+See https://pypi.python.org/pypi/Products.PDBDebugMode
+
+******************************************************************************
+
+2025-01-12 22:58:22,837 INFO    [pas.plugins.authomatic:147][MainThread] Patched authomatic.providers.BaseProvider._fetch
+2025-01-12 22:58:22,838 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-01-12 22:58:22,838 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-01-12 22:58:24,270 INFO    [plone.volto:23][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-01-12 22:58:24,270 INFO    [plone.volto:23][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-01-12 22:58:25,079 WARNING [PrintingMailHost:32][MainThread] Hold on to your hats folks, I'm a-patchin'
+2025-01-12 22:58:25,079 WARNING [PrintingMailHost:147][MainThread] 
+
+******************************************************************************
+
+Monkey patching MailHosts to print e-mails to the terminal.
+
+This is instead of sending them.
+
+NO MAIL WILL BE SENT FROM ZOPE AT ALL!
+
+Turn off debug mode or remove Products.PrintingMailHost from the eggs
+or remove ENABLE_PRINTING_MAILHOST from the environment variables to
+return to normal e-mail sending.
+
+See https://pypi.org/project/Products.PrintingMailHost
+
+******************************************************************************
+
+2025-01-12 22:58:25,098 INFO    [Zope:42][MainThread] Ready to handle requests
+2025-01-12 22:58:25,099 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-01-12 22:58:25,099 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-01-12 22:58:30,484 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-12 22:58:31,432 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-12 22:58:33,707 WARNING [plone.restapi.search.query:119][waitress-1] No such index: 'show_inactive'
+2025-01-12 22:58:33,707 WARNING [plone.restapi.search.query:119][waitress-1] No such index: 'show_inactive'
+2025-01-12 22:59:42,937 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-12 22:59:43,575 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-12 22:59:47,884 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-12 22:59:51,394 WARNING [plone.restapi.search.query:119][waitress-0] No such index: 'show_inactive'
+2025-01-12 22:59:51,394 WARNING [plone.restapi.search.query:119][waitress-0] No such index: 'show_inactive'
+2025-01-12 23:00:11,208 WARNING [plone.restapi.search.query:119][waitress-1] No such index: 'show_inactive'
+2025-01-12 23:00:11,208 WARNING [plone.restapi.search.query:119][waitress-1] No such index: 'show_inactive'
+2025-01-12 23:00:21,622 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-12 23:00:22,680 WARNING [plone.restapi.search.query:119][waitress-1] No such index: 'show_inactive'
+2025-01-12 23:00:22,680 WARNING [plone.restapi.search.query:119][waitress-1] No such index: 'show_inactive'
+2025-01-12 23:00:40,589 WARNING [plone.restapi.search.query:119][waitress-0] No such index: 'show_inactive'
+2025-01-12 23:00:40,589 WARNING [plone.restapi.search.query:119][waitress-0] No such index: 'show_inactive'
+2025-01-12 23:01:00,865 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-12 23:01:03,241 WARNING [plone.restapi.search.query:119][waitress-3] No such index: 'show_inactive'
+2025-01-12 23:01:03,241 WARNING [plone.restapi.search.query:119][waitress-3] No such index: 'show_inactive'
+2025-01-12 23:01:08,029 WARNING [plone.restapi.search.query:119][waitress-2] No such index: 'show_inactive'
+2025-01-12 23:01:08,029 WARNING [plone.restapi.search.query:119][waitress-2] No such index: 'show_inactive'
+2025-01-12 23:02:29,267 ERROR   [Zope.SiteErrorLog:17][waitress-3] ValueError: http://localhost:3000/POST_application_json_
+Traceback (innermost last):
+  Module ZPublisher.WSGIPublisher, line 181, in transaction_pubevents
+  Module ZPublisher.WSGIPublisher, line 390, in publish_module
+  Module ZPublisher.WSGIPublisher, line 284, in publish
+  Module ZPublisher.mapply, line 98, in mapply
+  Module Products.PDBDebugMode.wsgi_runcall, line 60, in pdb_runcall
+  Module plone.rest.service, line 21, in __call__
+  Module plone.restapi.services, line 19, in render
+  Module plone.restapi.services.content.add, line 115, in reply
+  Module plone.restapi.serializer.dxcontent, line 181, in __call__
+  Module plone.restapi.serializer.dxcontent, line 135, in __call__
+  Module plone.restapi.serializer.blocks, line 39, in __call__
+  Module collective.volto.formsupport.restapi.serializer.blocks, line 37, in __call__
+  Module zope.component._api, line 111, in getMultiAdapter
+  Module zope.component._api, line 126, in queryMultiAdapter
+  Module zope.interface.registry, line 373, in queryMultiAdapter
+  Module zope.interface.adapter, line 855, in queryMultiAdapter
+ValueError: name is not a string
+2025-01-12 23:03:38,288 INFO    [chameleon.config:39][MainThread] directory cache: /home/gnuamua/radio/denverMesh/denvermesh-plone-backend/var/cache.
+2025-01-12 23:03:41,577 WARNING [Products.PDBDebugMode:31][MainThread] 
+
+******************************************************************************
+
+Debug-Mode enabled!
+
+This will result in a pdb when a exception happens.
+Turn off debug mode or remove Products.PDBDebugMode to disable.
+
+See https://pypi.python.org/pypi/Products.PDBDebugMode
+
+******************************************************************************
+
+2025-01-12 23:03:41,786 INFO    [pas.plugins.authomatic:147][MainThread] Patched authomatic.providers.BaseProvider._fetch
+2025-01-12 23:03:41,787 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-01-12 23:03:41,787 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-01-12 23:03:43,173 INFO    [plone.volto:23][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-01-12 23:03:43,173 INFO    [plone.volto:23][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-01-12 23:03:43,957 WARNING [PrintingMailHost:32][MainThread] Hold on to your hats folks, I'm a-patchin'
+2025-01-12 23:03:43,957 WARNING [PrintingMailHost:147][MainThread] 
+
+******************************************************************************
+
+Monkey patching MailHosts to print e-mails to the terminal.
+
+This is instead of sending them.
+
+NO MAIL WILL BE SENT FROM ZOPE AT ALL!
+
+Turn off debug mode or remove Products.PrintingMailHost from the eggs
+or remove ENABLE_PRINTING_MAILHOST from the environment variables to
+return to normal e-mail sending.
+
+See https://pypi.org/project/Products.PrintingMailHost
+
+******************************************************************************
+
+2025-01-12 23:03:43,975 INFO    [Zope:42][MainThread] Ready to handle requests
+2025-01-12 23:03:43,976 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-01-12 23:03:43,976 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-01-12 23:03:52,673 ERROR   [Zope.SiteErrorLog:17][waitress-0] ValueError: http://localhost:3000/POST_application_json_
+Traceback (innermost last):
+  Module ZPublisher.WSGIPublisher, line 181, in transaction_pubevents
+  Module ZPublisher.WSGIPublisher, line 390, in publish_module
+  Module ZPublisher.WSGIPublisher, line 284, in publish
+  Module ZPublisher.mapply, line 98, in mapply
+  Module Products.PDBDebugMode.wsgi_runcall, line 60, in pdb_runcall
+  Module plone.rest.service, line 21, in __call__
+  Module plone.restapi.services, line 19, in render
+  Module plone.restapi.services.content.add, line 115, in reply
+  Module plone.restapi.serializer.dxcontent, line 181, in __call__
+  Module plone.restapi.serializer.dxcontent, line 135, in __call__
+  Module plone.restapi.serializer.blocks, line 39, in __call__
+  Module collective.volto.formsupport.restapi.serializer.blocks, line 37, in __call__
+  Module zope.component._api, line 111, in getMultiAdapter
+  Module zope.component._api, line 126, in queryMultiAdapter
+  Module zope.interface.registry, line 373, in queryMultiAdapter
+  Module zope.interface.adapter, line 855, in queryMultiAdapter
+ValueError: name is not a string
+2025-01-12 23:04:00,059 INFO    [chameleon.config:39][MainThread] directory cache: /home/gnuamua/radio/denverMesh/denvermesh-plone-backend/var/cache.
+2025-01-12 23:04:03,289 WARNING [Products.PDBDebugMode:31][MainThread] 
+
+******************************************************************************
+
+Debug-Mode enabled!
+
+This will result in a pdb when a exception happens.
+Turn off debug mode or remove Products.PDBDebugMode to disable.
+
+See https://pypi.python.org/pypi/Products.PDBDebugMode
+
+******************************************************************************
+
+2025-01-12 23:04:03,509 INFO    [pas.plugins.authomatic:147][MainThread] Patched authomatic.providers.BaseProvider._fetch
+2025-01-12 23:04:03,510 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-01-12 23:04:03,510 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-01-12 23:04:04,951 INFO    [plone.volto:23][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-01-12 23:04:04,951 INFO    [plone.volto:23][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-01-12 23:04:05,756 WARNING [PrintingMailHost:32][MainThread] Hold on to your hats folks, I'm a-patchin'
+2025-01-12 23:04:05,757 WARNING [PrintingMailHost:147][MainThread] 
+
+******************************************************************************
+
+Monkey patching MailHosts to print e-mails to the terminal.
+
+This is instead of sending them.
+
+NO MAIL WILL BE SENT FROM ZOPE AT ALL!
+
+Turn off debug mode or remove Products.PrintingMailHost from the eggs
+or remove ENABLE_PRINTING_MAILHOST from the environment variables to
+return to normal e-mail sending.
+
+See https://pypi.org/project/Products.PrintingMailHost
+
+******************************************************************************
+
+2025-01-12 23:04:05,775 INFO    [Zope:42][MainThread] Ready to handle requests
+2025-01-12 23:04:05,776 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-01-12 23:04:05,776 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-01-12 23:05:48,411 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-12 23:05:50,055 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-12 23:05:51,912 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-12 23:06:40,955 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-12 23:06:41,815 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-12 23:11:35,243 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-12 23:11:35,267 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-12 23:11:35,285 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-12 23:13:33,202 WARNING [plone.restapi.search.query:119][waitress-3] No such index: 'show_inactive'
+2025-01-12 23:13:33,202 WARNING [plone.restapi.search.query:119][waitress-3] No such index: 'show_inactive'
+2025-01-12 23:13:39,457 WARNING [plone.restapi.search.query:119][waitress-2] No such index: 'show_inactive'
+2025-01-12 23:13:39,457 WARNING [plone.restapi.search.query:119][waitress-2] No such index: 'show_inactive'
+2025-01-14 19:01:42,011 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-26 21:40:12,275 INFO    [chameleon.config:39][MainThread] directory cache: /home/gnuamua/radio/denverMesh/denvermesh-plone-backend/var/cache.
+2025-01-26 21:40:15,403 WARNING [Products.PDBDebugMode:31][MainThread] 
+
+******************************************************************************
+
+Debug-Mode enabled!
+
+This will result in a pdb when a exception happens.
+Turn off debug mode or remove Products.PDBDebugMode to disable.
+
+See https://pypi.python.org/pypi/Products.PDBDebugMode
+
+******************************************************************************
+
+2025-01-26 21:40:15,669 INFO    [pas.plugins.authomatic:147][MainThread] Patched authomatic.providers.BaseProvider._fetch
+2025-01-26 21:40:15,671 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-01-26 21:40:15,671 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-01-26 21:40:17,401 INFO    [plone.volto:23][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-01-26 21:40:17,401 INFO    [plone.volto:23][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-01-26 21:40:18,235 WARNING [PrintingMailHost:32][MainThread] Hold on to your hats folks, I'm a-patchin'
+2025-01-26 21:40:18,235 WARNING [PrintingMailHost:147][MainThread] 
+
+******************************************************************************
+
+Monkey patching MailHosts to print e-mails to the terminal.
+
+This is instead of sending them.
+
+NO MAIL WILL BE SENT FROM ZOPE AT ALL!
+
+Turn off debug mode or remove Products.PrintingMailHost from the eggs
+or remove ENABLE_PRINTING_MAILHOST from the environment variables to
+return to normal e-mail sending.
+
+See https://pypi.org/project/Products.PrintingMailHost
+
+******************************************************************************
+
+2025-01-26 21:40:18,255 INFO    [Zope:42][MainThread] Ready to handle requests
+2025-01-26 21:40:18,256 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-01-26 21:40:18,256 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-01-26 23:14:40,603 INFO    [plone.protect:32][waitress-2] auto rotating keyring _system
+2025-01-26 23:14:40,603 INFO    [plone.protect:32][waitress-2] auto rotating keyring _system
+2025-01-26 23:14:40,603 INFO    [plone.protect:32][waitress-2] auto rotating keyring _forms
+2025-01-26 23:14:40,603 INFO    [plone.protect:32][waitress-2] auto rotating keyring _forms
+2025-01-26 23:14:40,603 INFO    [plone.protect:32][waitress-2] auto rotating keyring _anon
+2025-01-26 23:14:40,603 INFO    [plone.protect:32][waitress-2] auto rotating keyring _anon
+2025-01-26 23:14:40,604 INFO    [plone.protect:32][waitress-2] auto rotating keyring _system
+2025-01-26 23:14:40,604 INFO    [plone.protect:32][waitress-2] auto rotating keyring _system
+2025-01-26 23:14:40,604 INFO    [plone.protect:32][waitress-2] auto rotating keyring _forms
+2025-01-26 23:14:40,604 INFO    [plone.protect:32][waitress-2] auto rotating keyring _forms
+2025-01-26 23:14:40,604 INFO    [plone.protect:32][waitress-2] auto rotating keyring _anon
+2025-01-26 23:14:40,604 INFO    [plone.protect:32][waitress-2] auto rotating keyring _anon
+2025-01-26 23:14:49,533 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-26 23:16:19,405 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-26 23:18:41,809 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-26 23:56:21,131 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-26 23:56:22,045 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-26 23:57:32,792 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-26 23:57:33,677 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-26 23:58:15,768 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-26 23:58:19,337 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-26 23:58:19,631 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-26 23:58:19,791 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-27 00:16:46,049 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-27 00:20:56,909 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-27 00:20:57,408 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-27 00:21:37,462 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-27 00:22:37,835 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-27 00:22:38,333 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-27 00:25:13,027 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-27 00:26:03,723 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-27 00:29:41,680 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-27 00:36:05,215 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-27 00:37:23,400 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-27 00:46:09,851 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-27 00:46:11,104 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-27 00:46:52,153 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-27 00:50:48,744 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-27 04:13:26,300 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-27 04:13:26,828 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-27 04:31:39,374 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-27 04:31:55,112 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-27 04:31:55,312 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-27 04:33:23,780 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-27 04:33:24,081 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-27 06:09:10,494 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-27 06:09:11,745 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-27 06:10:27,706 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-27 06:15:17,153 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-27 06:15:17,606 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-01-29 15:07:01,631 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-02-02 00:55:54,914 INFO    [chameleon.config:39][MainThread] directory cache: /home/gnuamua/radio/denverMesh/denvermesh-plone-backend/var/cache.
+2025-02-02 00:55:58,134 WARNING [Products.PDBDebugMode:31][MainThread] 
+
+******************************************************************************
+
+Debug-Mode enabled!
+
+This will result in a pdb when a exception happens.
+Turn off debug mode or remove Products.PDBDebugMode to disable.
+
+See https://pypi.python.org/pypi/Products.PDBDebugMode
+
+******************************************************************************
+
+2025-02-02 00:55:58,404 INFO    [pas.plugins.authomatic:147][MainThread] Patched authomatic.providers.BaseProvider._fetch
+2025-02-02 00:55:58,405 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-02-02 00:55:58,405 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-02-02 00:56:00,102 INFO    [plone.volto:23][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-02-02 00:56:00,102 INFO    [plone.volto:23][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-02-02 00:56:00,956 WARNING [PrintingMailHost:32][MainThread] Hold on to your hats folks, I'm a-patchin'
+2025-02-02 00:56:00,956 WARNING [PrintingMailHost:147][MainThread] 
+
+******************************************************************************
+
+Monkey patching MailHosts to print e-mails to the terminal.
+
+This is instead of sending them.
+
+NO MAIL WILL BE SENT FROM ZOPE AT ALL!
+
+Turn off debug mode or remove Products.PrintingMailHost from the eggs
+or remove ENABLE_PRINTING_MAILHOST from the environment variables to
+return to normal e-mail sending.
+
+See https://pypi.org/project/Products.PrintingMailHost
+
+******************************************************************************
+
+2025-02-02 00:56:00,974 INFO    [Zope:42][MainThread] Ready to handle requests
+2025-02-02 00:56:00,975 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-02-02 00:56:00,975 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-02-04 23:19:31,417 INFO    [chameleon.config:39][MainThread] directory cache: /home/gnuamua/radio/denverMesh/denvermesh-plone-backend/var/cache.
+2025-02-04 23:19:34,881 WARNING [Products.PDBDebugMode:31][MainThread] 
+
+******************************************************************************
+
+Debug-Mode enabled!
+
+This will result in a pdb when a exception happens.
+Turn off debug mode or remove Products.PDBDebugMode to disable.
+
+See https://pypi.python.org/pypi/Products.PDBDebugMode
+
+******************************************************************************
+
+2025-02-04 23:19:35,160 INFO    [pas.plugins.authomatic:147][MainThread] Patched authomatic.providers.BaseProvider._fetch
+2025-02-04 23:19:35,162 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-02-04 23:19:35,162 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-02-04 23:19:36,987 INFO    [plone.volto:23][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-02-04 23:19:36,987 INFO    [plone.volto:23][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-02-04 23:19:37,902 WARNING [PrintingMailHost:32][MainThread] Hold on to your hats folks, I'm a-patchin'
+2025-02-04 23:19:37,903 WARNING [PrintingMailHost:147][MainThread] 
+
+******************************************************************************
+
+Monkey patching MailHosts to print e-mails to the terminal.
+
+This is instead of sending them.
+
+NO MAIL WILL BE SENT FROM ZOPE AT ALL!
+
+Turn off debug mode or remove Products.PrintingMailHost from the eggs
+or remove ENABLE_PRINTING_MAILHOST from the environment variables to
+return to normal e-mail sending.
+
+See https://pypi.org/project/Products.PrintingMailHost
+
+******************************************************************************
+
+2025-02-04 23:19:37,921 INFO    [Zope:42][MainThread] Ready to handle requests
+2025-02-04 23:19:37,923 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-02-04 23:19:37,923 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-03-02 16:32:39,860 INFO    [chameleon.config:39][MainThread] directory cache: /home/gnuamua/radio/denverMesh/denvermesh-plone-backend/var/cache.
+2025-03-02 16:32:43,336 WARNING [Products.PDBDebugMode:31][MainThread] 
+
+******************************************************************************
+
+Debug-Mode enabled!
+
+This will result in a pdb when a exception happens.
+Turn off debug mode or remove Products.PDBDebugMode to disable.
+
+See https://pypi.python.org/pypi/Products.PDBDebugMode
+
+******************************************************************************
+
+2025-03-02 16:32:43,623 INFO    [pas.plugins.authomatic:147][MainThread] Patched authomatic.providers.BaseProvider._fetch
+2025-03-02 16:32:43,625 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-03-02 16:32:43,625 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-03-02 16:32:45,559 INFO    [plone.volto:23][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-03-02 16:32:45,559 INFO    [plone.volto:23][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-03-02 16:32:46,473 WARNING [PrintingMailHost:32][MainThread] Hold on to your hats folks, I'm a-patchin'
+2025-03-02 16:32:46,473 WARNING [PrintingMailHost:147][MainThread] 
+
+******************************************************************************
+
+Monkey patching MailHosts to print e-mails to the terminal.
+
+This is instead of sending them.
+
+NO MAIL WILL BE SENT FROM ZOPE AT ALL!
+
+Turn off debug mode or remove Products.PrintingMailHost from the eggs
+or remove ENABLE_PRINTING_MAILHOST from the environment variables to
+return to normal e-mail sending.
+
+See https://pypi.org/project/Products.PrintingMailHost
+
+******************************************************************************
+
+2025-03-02 16:32:46,493 INFO    [Zope:42][MainThread] Ready to handle requests
+2025-03-02 16:32:46,494 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-03-02 16:32:46,494 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-03-02 16:34:46,608 INFO    [plone.protect:32][waitress-0] auto rotating keyring _system
+2025-03-02 16:34:46,608 INFO    [plone.protect:32][waitress-0] auto rotating keyring _system
+2025-03-02 16:34:46,617 INFO    [plone.protect:32][waitress-0] auto rotating keyring _forms
+2025-03-02 16:34:46,617 INFO    [plone.protect:32][waitress-0] auto rotating keyring _forms
+2025-03-02 16:34:46,617 INFO    [plone.protect:32][waitress-0] auto rotating keyring _anon
+2025-03-02 16:34:46,617 INFO    [plone.protect:32][waitress-0] auto rotating keyring _anon
+2025-03-02 16:34:46,617 INFO    [plone.protect:32][waitress-0] auto rotating keyring _system
+2025-03-02 16:34:46,617 INFO    [plone.protect:32][waitress-0] auto rotating keyring _system
+2025-03-02 16:34:46,617 INFO    [plone.protect:32][waitress-0] auto rotating keyring _forms
+2025-03-02 16:34:46,617 INFO    [plone.protect:32][waitress-0] auto rotating keyring _forms
+2025-03-02 16:34:46,618 INFO    [plone.protect:32][waitress-0] auto rotating keyring _anon
+2025-03-02 16:34:46,618 INFO    [plone.protect:32][waitress-0] auto rotating keyring _anon
+2025-03-02 16:40:10,776 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-03-02 16:46:34,916 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-03-02 16:46:35,674 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-03-02 16:46:39,457 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-03-02 16:46:39,657 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-03-02 16:48:01,505 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-03-02 16:48:02,175 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-03-02 16:48:02,282 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-03-02 20:42:24,250 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-03-02 20:43:30,649 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-03-02 20:43:39,542 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-03-02 20:45:02,189 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-03-02 20:45:02,972 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-03-02 20:50:41,423 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-03-02 20:50:42,189 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-03-07 20:01:16,575 INFO    [chameleon.config:39][MainThread] directory cache: /home/gnuamua/radio/denverMesh/denvermesh-plone-backend/var/cache.
+2025-03-07 20:01:20,311 WARNING [Products.PDBDebugMode:31][MainThread] 
+
+******************************************************************************
+
+Debug-Mode enabled!
+
+This will result in a pdb when a exception happens.
+Turn off debug mode or remove Products.PDBDebugMode to disable.
+
+See https://pypi.python.org/pypi/Products.PDBDebugMode
+
+******************************************************************************
+
+2025-03-07 20:01:20,646 INFO    [pas.plugins.authomatic:147][MainThread] Patched authomatic.providers.BaseProvider._fetch
+2025-03-07 20:01:20,647 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-03-07 20:01:20,647 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-03-07 20:01:22,606 INFO    [plone.volto:23][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-03-07 20:01:22,606 INFO    [plone.volto:23][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-03-07 20:01:23,529 WARNING [PrintingMailHost:32][MainThread] Hold on to your hats folks, I'm a-patchin'
+2025-03-07 20:01:23,529 WARNING [PrintingMailHost:147][MainThread] 
+
+******************************************************************************
+
+Monkey patching MailHosts to print e-mails to the terminal.
+
+This is instead of sending them.
+
+NO MAIL WILL BE SENT FROM ZOPE AT ALL!
+
+Turn off debug mode or remove Products.PrintingMailHost from the eggs
+or remove ENABLE_PRINTING_MAILHOST from the environment variables to
+return to normal e-mail sending.
+
+See https://pypi.org/project/Products.PrintingMailHost
+
+******************************************************************************
+
+2025-03-07 20:01:23,548 INFO    [Zope:42][MainThread] Ready to handle requests
+2025-03-07 20:01:23,549 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-03-07 20:01:23,549 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-03-07 20:03:25,860 INFO    [plone.protect:32][waitress-3] auto rotating keyring _forms
+2025-03-07 20:03:25,860 INFO    [plone.protect:32][waitress-3] auto rotating keyring _forms
+2025-03-07 20:03:25,868 INFO    [plone.protect:32][waitress-3] auto rotating keyring _anon
+2025-03-07 20:03:25,868 INFO    [plone.protect:32][waitress-3] auto rotating keyring _anon
+2025-03-07 20:03:25,868 INFO    [plone.protect:32][waitress-3] auto rotating keyring _forms
+2025-03-07 20:03:25,868 INFO    [plone.protect:32][waitress-3] auto rotating keyring _forms
+2025-03-07 20:03:25,868 INFO    [plone.protect:32][waitress-3] auto rotating keyring _anon
+2025-03-07 20:03:25,868 INFO    [plone.protect:32][waitress-3] auto rotating keyring _anon
+2025-03-08 02:00:23,583 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-03-08 02:00:24,317 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-03-08 02:00:24,435 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-03-08 02:09:32,792 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
