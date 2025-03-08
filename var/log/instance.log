@@ -17050,3 +17050,111 @@ See https://pypi.org/project/Products.PrintingMailHost
 2025-03-08 02:15:03,099 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
 2025-03-08 02:15:03,850 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
 2025-03-08 02:15:03,954 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-03-08 02:24:52,711 INFO    [chameleon.config:39][MainThread] directory cache: /home/gnuamua/radio/denverMesh/denvermesh-plone-backend/var/cache.
+2025-03-08 02:24:55,740 WARNING [Products.PDBDebugMode:31][MainThread] 
+
+******************************************************************************
+
+Debug-Mode enabled!
+
+This will result in a pdb when a exception happens.
+Turn off debug mode or remove Products.PDBDebugMode to disable.
+
+See https://pypi.python.org/pypi/Products.PDBDebugMode
+
+******************************************************************************
+
+2025-03-08 02:24:55,969 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-03-08 02:24:55,969 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-03-08 02:24:56,076 INFO    [pas.plugins.authomatic:147][MainThread] Patched authomatic.providers.BaseProvider._fetch
+2025-03-08 02:24:56,327 INFO    [plone.app.event:18][MainThread] icalendar has been set up to use pytz instead of zoneinfo.
+2025-03-08 02:24:56,327 INFO    [plone.app.event:18][MainThread] icalendar has been set up to use pytz instead of zoneinfo.
+2025-03-08 03:06:54,053 INFO    [chameleon.config:39][MainThread] directory cache: /home/gnuamua/radio/denverMesh/denvermesh-plone-backend/var/cache.
+2025-03-08 03:06:56,913 WARNING [Products.PDBDebugMode:31][MainThread] 
+
+******************************************************************************
+
+Debug-Mode enabled!
+
+This will result in a pdb when a exception happens.
+Turn off debug mode or remove Products.PDBDebugMode to disable.
+
+See https://pypi.python.org/pypi/Products.PDBDebugMode
+
+******************************************************************************
+
+2025-03-08 03:06:57,292 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-03-08 03:06:57,292 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-03-08 03:06:57,352 INFO    [pas.plugins.authomatic:147][MainThread] Patched authomatic.providers.BaseProvider._fetch
+2025-03-08 03:06:57,663 INFO    [plone.app.event:18][MainThread] icalendar has been set up to use pytz instead of zoneinfo.
+2025-03-08 03:06:57,663 INFO    [plone.app.event:18][MainThread] icalendar has been set up to use pytz instead of zoneinfo.
+2025-03-08 03:07:00,024 INFO    [plone.volto:22][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-03-08 03:07:00,024 INFO    [plone.volto:22][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-03-08 03:22:22,323 INFO    [chameleon.config:39][MainThread] directory cache: /home/gnuamua/radio/denverMesh/denvermesh-plone-backend/var/cache.
+2025-03-08 03:22:25,356 WARNING [Products.PDBDebugMode:31][MainThread] 
+
+******************************************************************************
+
+Debug-Mode enabled!
+
+This will result in a pdb when a exception happens.
+Turn off debug mode or remove Products.PDBDebugMode to disable.
+
+See https://pypi.python.org/pypi/Products.PDBDebugMode
+
+******************************************************************************
+
+2025-03-08 03:22:25,755 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-03-08 03:22:25,755 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-03-08 03:22:25,816 INFO    [pas.plugins.authomatic:147][MainThread] Patched authomatic.providers.BaseProvider._fetch
+2025-03-08 03:22:26,190 INFO    [plone.app.event:18][MainThread] icalendar has been set up to use pytz instead of zoneinfo.
+2025-03-08 03:22:26,190 INFO    [plone.app.event:18][MainThread] icalendar has been set up to use pytz instead of zoneinfo.
+2025-03-08 03:22:28,713 INFO    [plone.volto:22][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-03-08 03:22:28,713 INFO    [plone.volto:22][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-03-08 03:29:02,031 INFO    [chameleon.config:39][MainThread] directory cache: /home/gnuamua/radio/denverMesh/denvermesh-plone-backend/var/cache.
+2025-03-08 03:29:04,345 WARNING [Products.PDBDebugMode:31][MainThread] 
+
+******************************************************************************
+
+Debug-Mode enabled!
+
+This will result in a pdb when a exception happens.
+Turn off debug mode or remove Products.PDBDebugMode to disable.
+
+See https://pypi.python.org/pypi/Products.PDBDebugMode
+
+******************************************************************************
+
+2025-03-08 03:29:04,495 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-03-08 03:29:04,495 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-03-08 03:29:04,796 INFO    [plone.app.event:18][MainThread] icalendar has been set up to use pytz instead of zoneinfo.
+2025-03-08 03:29:04,796 INFO    [plone.app.event:18][MainThread] icalendar has been set up to use pytz instead of zoneinfo.
+2025-03-08 03:29:05,970 INFO    [plone.volto:22][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-03-08 03:29:05,970 INFO    [plone.volto:22][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-03-08 03:29:06,769 WARNING [PrintingMailHost:32][MainThread] Hold on to your hats folks, I'm a-patchin'
+2025-03-08 03:29:06,770 WARNING [PrintingMailHost:147][MainThread] 
+
+******************************************************************************
+
+Monkey patching MailHosts to print e-mails to the terminal.
+
+This is instead of sending them.
+
+NO MAIL WILL BE SENT FROM ZOPE AT ALL!
+
+Turn off debug mode or remove Products.PrintingMailHost from the eggs
+or remove ENABLE_PRINTING_MAILHOST from the environment variables to
+return to normal e-mail sending.
+
+See https://pypi.org/project/Products.PrintingMailHost
+
+******************************************************************************
+
+2025-03-08 03:29:06,781 INFO    [Zope:42][MainThread] Ready to handle requests
+2025-03-08 03:29:06,782 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-03-08 03:29:06,782 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-03-08 03:29:15,320 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-03-08 03:29:15,380 WARNING [OFS.Uninstalled:76][waitress-2] Could not import class 'PropertiesTool' from module 'Products.CMFPlone.PropertiesTool'
+2025-03-08 03:29:16,134 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-03-08 03:29:16,214 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-03-08 03:29:16,226 WARNING [waitress.queue:113][MainThread] Task queue depth is 1

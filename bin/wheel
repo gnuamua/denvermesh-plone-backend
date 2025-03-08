@@ -1,4 +1,4 @@
-#!/home/gnuamua/radio/denverMesh/backend/bin/python
+#!/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/bin/python3.12
 # -*- coding: utf-8 -*-
 import re
 import sys

@@ -1,11 +1,8 @@
-#!/home/gnuamua/radio/denverMesh/backend/bin/python
+#!/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/bin/python3.12
 
 import sys
 sys.path[0:0] = [
-  '/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/zc.buildout-3.3-py3.9.egg',
-  '/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/setuptools-75.6.0-py3.9.egg',
-  '/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/wheel-0.45.1-py3.9.egg',
-  '/home/gnuamua/radio/denverMesh/backend/lib/python3.9/site-packages',
+  '/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/lib/python3.12/site-packages',
   ]
 
 import zc.buildout.buildout

@@ -1,20 +1,20 @@
-#!/home/gnuamua/radio/denverMesh/backend/bin/python
+#!/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/bin/python3.12
 
 import sys
 sys.path[0:0] = [
-  '/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/ZODB-6.0-py3.9.egg',
-  '/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/zodbpickle-4.1.1-py3.9-linux-x86_64.egg',
-  '/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/zope.interface-7.1.1-py3.9-linux-x86_64.egg',
-  '/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/zc.lockfile-3.0.post1-py3.9.egg',
-  '/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/transaction-5.0-py3.9.egg',
-  '/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/ZConfig-4.1-py3.9.egg',
-  '/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/BTrees-6.1-py3.9-linux-x86_64.egg',
-  '/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/persistent-6.1-py3.9-linux-x86_64.egg',
-  '/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/setuptools-75.6.0-py3.9.egg',
-  '/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/cffi-1.17.1-py3.9-linux-x86_64.egg',
-  '/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/zope.deferredimport-5.0-py3.9.egg',
-  '/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/pycparser-2.22-py3.9.egg',
-  '/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/zope.proxy-6.1-py3.9-linux-x86_64.egg',
+  '/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/lib/python3.12/site-packages',
+  '/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/ZODB-6.0-py3.12.egg',
+  '/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/zodbpickle-4.1.1-py3.12-linux-x86_64.egg',
+  '/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/zope.interface-7.2-py3.12-linux-x86_64.egg',
+  '/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/zc.lockfile-3.0.post1-py3.12.egg',
+  '/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/transaction-5.0-py3.12.egg',
+  '/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/ZConfig-4.1-py3.12.egg',
+  '/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/BTrees-6.1-py3.12-linux-x86_64.egg',
+  '/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/persistent-6.1-py3.12-linux-x86_64.egg',
+  '/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/cffi-1.17.1-py3.12-linux-x86_64.egg',
+  '/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/zope.deferredimport-5.0-py3.12.egg',
+  '/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/pycparser-2.22-py3.12.egg',
+  '/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/eggs/zope.proxy-6.1-py3.12-linux-x86_64.egg',
   ]
 
 import ZODB.scripts.repozo
