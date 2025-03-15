@@ -17446,3 +17446,80 @@ See https://pypi.org/project/Products.PrintingMailHost
 2025-03-11 03:20:04,732 INFO    [Zope:42][MainThread] Ready to handle requests
 2025-03-11 03:20:04,733 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
 2025-03-11 03:20:04,733 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-03-13 04:46:33,574 INFO    [chameleon.config:39][MainThread] directory cache: /home/gnuamua/radio/denverMesh/denvermesh-plone-backend/var/cache.
+2025-03-13 04:46:36,318 WARNING [Products.PDBDebugMode:31][MainThread] 
+
+******************************************************************************
+
+Debug-Mode enabled!
+
+This will result in a pdb when a exception happens.
+Turn off debug mode or remove Products.PDBDebugMode to disable.
+
+See https://pypi.python.org/pypi/Products.PDBDebugMode
+
+******************************************************************************
+
+2025-03-13 04:46:36,536 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-03-13 04:46:36,536 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-03-13 04:46:36,930 INFO    [plone.app.event:18][MainThread] icalendar has been set up to use pytz instead of zoneinfo.
+2025-03-13 04:46:36,930 INFO    [plone.app.event:18][MainThread] icalendar has been set up to use pytz instead of zoneinfo.
+2025-03-13 04:46:38,463 INFO    [plone.volto:22][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-03-13 04:46:38,463 INFO    [plone.volto:22][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-03-13 04:46:39,328 WARNING [PrintingMailHost:32][MainThread] Hold on to your hats folks, I'm a-patchin'
+2025-03-13 04:46:39,329 WARNING [PrintingMailHost:147][MainThread] 
+
+******************************************************************************
+
+Monkey patching MailHosts to print e-mails to the terminal.
+
+This is instead of sending them.
+
+NO MAIL WILL BE SENT FROM ZOPE AT ALL!
+
+Turn off debug mode or remove Products.PrintingMailHost from the eggs
+or remove ENABLE_PRINTING_MAILHOST from the environment variables to
+return to normal e-mail sending.
+
+See https://pypi.org/project/Products.PrintingMailHost
+
+******************************************************************************
+
+2025-03-13 04:46:39,341 INFO    [Zope:42][MainThread] Ready to handle requests
+2025-03-13 04:46:39,343 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-03-13 04:46:39,343 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-03-15 04:18:41,177 INFO    [plone.protect:32][waitress-3] auto rotating keyring _system
+2025-03-15 04:18:41,177 INFO    [plone.protect:32][waitress-3] auto rotating keyring _system
+2025-03-15 04:18:41,179 INFO    [plone.protect:32][waitress-3] auto rotating keyring _forms
+2025-03-15 04:18:41,179 INFO    [plone.protect:32][waitress-3] auto rotating keyring _forms
+2025-03-15 04:18:41,179 INFO    [plone.protect:32][waitress-3] auto rotating keyring _anon
+2025-03-15 04:18:41,179 INFO    [plone.protect:32][waitress-3] auto rotating keyring _anon
+2025-03-15 04:18:41,180 INFO    [plone.protect:32][waitress-3] auto rotating keyring _system
+2025-03-15 04:18:41,180 INFO    [plone.protect:32][waitress-3] auto rotating keyring _system
+2025-03-15 04:18:41,180 INFO    [plone.protect:32][waitress-3] auto rotating keyring _forms
+2025-03-15 04:18:41,180 INFO    [plone.protect:32][waitress-3] auto rotating keyring _forms
+2025-03-15 04:18:41,180 INFO    [plone.protect:32][waitress-3] auto rotating keyring _anon
+2025-03-15 04:18:41,180 INFO    [plone.protect:32][waitress-3] auto rotating keyring _anon
+2025-03-15 04:19:24,327 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-03-15 04:21:55,221 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-03-15 04:22:03,112 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-03-15 04:22:03,417 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-03-15 04:24:47,770 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-03-15 04:25:06,566 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-03-15 04:25:07,367 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-03-15 04:35:48,170 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-03-15 04:38:16,815 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-03-15 04:38:17,812 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-03-15 05:12:38,911 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-03-15 05:12:40,712 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-03-15 05:15:45,070 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-03-15 05:17:19,440 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-03-15 05:19:28,138 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-03-15 05:19:57,276 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-03-15 05:23:22,918 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-03-15 05:24:40,495 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-03-15 05:24:41,241 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-03-15 05:24:41,360 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-03-15 05:25:06,289 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-03-15 05:25:59,327 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-03-15 05:27:07,980 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
