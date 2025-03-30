@@ -17609,3 +17609,109 @@ See https://pypi.org/project/Products.PrintingMailHost
 2025-03-15 06:06:20,788 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
 2025-03-15 06:06:34,207 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
 2025-03-15 06:06:35,181 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-03-20 20:15:07,247 INFO    [chameleon.config:39][MainThread] directory cache: /home/gnuamua/radio/denverMesh/denvermesh-plone-backend/var/cache.
+2025-03-20 20:15:09,877 WARNING [Products.PDBDebugMode:31][MainThread] 
+
+******************************************************************************
+
+Debug-Mode enabled!
+
+This will result in a pdb when a exception happens.
+Turn off debug mode or remove Products.PDBDebugMode to disable.
+
+See https://pypi.python.org/pypi/Products.PDBDebugMode
+
+******************************************************************************
+
+2025-03-20 20:15:10,107 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-03-20 20:15:10,107 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-03-20 20:15:10,488 INFO    [plone.app.event:18][MainThread] icalendar has been set up to use pytz instead of zoneinfo.
+2025-03-20 20:15:10,488 INFO    [plone.app.event:18][MainThread] icalendar has been set up to use pytz instead of zoneinfo.
+2025-03-20 20:15:12,008 INFO    [plone.volto:22][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-03-20 20:15:12,008 INFO    [plone.volto:22][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-03-20 20:15:12,884 WARNING [PrintingMailHost:32][MainThread] Hold on to your hats folks, I'm a-patchin'
+2025-03-20 20:15:12,884 WARNING [PrintingMailHost:147][MainThread] 
+
+******************************************************************************
+
+Monkey patching MailHosts to print e-mails to the terminal.
+
+This is instead of sending them.
+
+NO MAIL WILL BE SENT FROM ZOPE AT ALL!
+
+Turn off debug mode or remove Products.PrintingMailHost from the eggs
+or remove ENABLE_PRINTING_MAILHOST from the environment variables to
+return to normal e-mail sending.
+
+See https://pypi.org/project/Products.PrintingMailHost
+
+******************************************************************************
+
+2025-03-20 20:15:12,896 INFO    [Zope:42][MainThread] Ready to handle requests
+2025-03-20 20:15:12,898 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-03-20 20:15:12,898 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-03-30 16:32:23,406 INFO    [chameleon.config:39][MainThread] directory cache: /home/gnuamua/radio/denverMesh/denvermesh-plone-backend/var/cache.
+2025-03-30 16:32:26,342 WARNING [Products.PDBDebugMode:31][MainThread] 
+
+******************************************************************************
+
+Debug-Mode enabled!
+
+This will result in a pdb when a exception happens.
+Turn off debug mode or remove Products.PDBDebugMode to disable.
+
+See https://pypi.python.org/pypi/Products.PDBDebugMode
+
+******************************************************************************
+
+2025-03-30 16:32:26,600 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-03-30 16:32:26,600 INFO    [plone.restapi.patches:16][MainThread] PATCH: Disabled ZPublisher.HTTPRequest.ZopeFieldStorage.VALUE_LIMIT. This enables file uploads larger than 1MB.
+2025-03-30 16:32:27,080 INFO    [plone.app.event:18][MainThread] icalendar has been set up to use pytz instead of zoneinfo.
+2025-03-30 16:32:27,080 INFO    [plone.app.event:18][MainThread] icalendar has been set up to use pytz instead of zoneinfo.
+2025-03-30 16:32:28,803 INFO    [plone.volto:22][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-03-30 16:32:28,803 INFO    [plone.volto:22][MainThread] Aliasing collective.folderish classes to plone.volto classes.
+2025-03-30 16:32:29,700 WARNING [PrintingMailHost:32][MainThread] Hold on to your hats folks, I'm a-patchin'
+2025-03-30 16:32:29,700 WARNING [PrintingMailHost:147][MainThread] 
+
+******************************************************************************
+
+Monkey patching MailHosts to print e-mails to the terminal.
+
+This is instead of sending them.
+
+NO MAIL WILL BE SENT FROM ZOPE AT ALL!
+
+Turn off debug mode or remove Products.PrintingMailHost from the eggs
+or remove ENABLE_PRINTING_MAILHOST from the environment variables to
+return to normal e-mail sending.
+
+See https://pypi.org/project/Products.PrintingMailHost
+
+******************************************************************************
+
+2025-03-30 16:32:29,715 INFO    [Zope:42][MainThread] Ready to handle requests
+2025-03-30 16:32:29,716 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-03-30 16:32:29,716 INFO    [waitress:449][MainThread] Serving on http://0.0.0.0:8080
+2025-03-30 16:33:59,475 INFO    [plone.protect:32][waitress-2] auto rotating keyring _system
+2025-03-30 16:33:59,475 INFO    [plone.protect:32][waitress-2] auto rotating keyring _system
+2025-03-30 16:33:59,487 INFO    [plone.protect:32][waitress-2] auto rotating keyring _forms
+2025-03-30 16:33:59,487 INFO    [plone.protect:32][waitress-2] auto rotating keyring _forms
+2025-03-30 16:33:59,487 INFO    [plone.protect:32][waitress-2] auto rotating keyring _anon
+2025-03-30 16:33:59,487 INFO    [plone.protect:32][waitress-2] auto rotating keyring _anon
+2025-03-30 16:33:59,487 INFO    [plone.protect:32][waitress-2] auto rotating keyring _system
+2025-03-30 16:33:59,487 INFO    [plone.protect:32][waitress-2] auto rotating keyring _system
+2025-03-30 16:33:59,487 INFO    [plone.protect:32][waitress-2] auto rotating keyring _forms
+2025-03-30 16:33:59,487 INFO    [plone.protect:32][waitress-2] auto rotating keyring _forms
+2025-03-30 16:33:59,488 INFO    [plone.protect:32][waitress-2] auto rotating keyring _anon
+2025-03-30 16:33:59,488 INFO    [plone.protect:32][waitress-2] auto rotating keyring _anon
+2025-03-30 16:35:31,478 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-03-30 16:35:32,285 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-03-30 16:35:42,542 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-03-30 16:38:42,585 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-03-30 16:39:38,515 WARNING [plone.restapi.search.query:119][waitress-1] No such index: 'show_inactive'
+2025-03-30 16:39:38,515 WARNING [plone.restapi.search.query:119][waitress-1] No such index: 'show_inactive'
+2025-03-30 16:39:44,515 WARNING [plone.restapi.search.query:119][waitress-3] No such index: 'show_inactive'
+2025-03-30 16:39:44,515 WARNING [plone.restapi.search.query:119][waitress-3] No such index: 'show_inactive'
+2025-03-30 16:40:09,188 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
+2025-03-30 16:40:11,186 WARNING [waitress.queue:113][MainThread] Task queue depth is 1
