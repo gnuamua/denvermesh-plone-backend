@@ -1,8 +1,8 @@
-#!/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/bin/python3.12
+#!/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/venv/bin/python3.12
 
 import sys
 sys.path[0:0] = [
-  '/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/lib/python3.12/site-packages',
+  '/home/gnuamua/radio/denverMesh/denvermesh-plone-backend/venv/lib/python3.12/site-packages',
   ]
 
 import zc.buildout.buildout
